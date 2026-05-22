@@ -10,11 +10,23 @@
     "Microsoft.Compute/virtualMachines/*",
     "Microsoft.Compute/virtualMachines/extensions/*",
 
-    "Microsoft.DataMigration/*",
-    "Microsoft.Migrate/migrateprojects/*",
-    
-    "Microsoft.DataMigration/SqlMigrationServices/*",
+    "Microsoft.Migrate/*",
+    "Microsoft.OffAzure/*",
+    "Microsoft.RecoveryServices/*",
+    "Microsoft.ApplicationMigration/*",
+    "Microsoft.DependencyMap/*",
 
+    "Microsoft.DataMigration/*",
+    "Microsoft.DataMigration/SqlMigrationServices/*",
+    "Microsoft.DataMigration/sqlMigrationServices/write",
+    "Microsoft.DataMigration/sqlMigrationServices/delete",
+    "Microsoft.DataMigration/sqlMigrationServices/read",
+    "Microsoft.DataMigration/sqlMigrationServices/listAuthKeys/action",
+    "Microsoft.DataMigration/sqlMigrationServices/regenerateAuthKeys/action",
+    "Microsoft.DataMigration/sqlMigrationServices/deleteNode/action",
+    "Microsoft.DataMigration/sqlMigrationServices/listMonitoringData/action",
+    "Microsoft.DataMigration/sqlMigrationServices/listMigrations/read",
+    "Microsoft.DataMigration/sqlMigrationServices/MonitoringData/read",
 
     "microsoft.insights/*",
     "microsoft.insights/actiongroups/*",
@@ -24,7 +36,6 @@
     "Microsoft.Network/networkSecurityGroups/*",
     "Microsoft.Network/publicIPAddresses/*",
     "Microsoft.Network/virtualNetworks/*",
-
     "Microsoft.Network/applicationGatewayWebApplicationFirewallPolicies/*",
     "Microsoft.Network/applicationGateways/*",
     "Microsoft.Network/firewallPolicies/*",
@@ -49,17 +60,7 @@
     "Microsoft.KeyVault/vaults/*",
 
     "Microsoft.LoadTestService/register/action",
-    "Microsoft.LoadTestService/loadTests/*",
-
-    "Microsoft.DataMigration/sqlMigrationServices/write",
-    "Microsoft.DataMigration/sqlMigrationServices/delete",
-    "Microsoft.DataMigration/sqlMigrationServices/read",
-    "Microsoft.DataMigration/sqlMigrationServices/listAuthKeys/action",
-    "Microsoft.DataMigration/sqlMigrationServices/regenerateAuthKeys/action",
-    "Microsoft.DataMigration/sqlMigrationServices/deleteNode/action",
-    "Microsoft.DataMigration/sqlMigrationServices/listMonitoringData/action",
-    "Microsoft.DataMigration/sqlMigrationServices/listMigrations/read",
-    "Microsoft.DataMigration/sqlMigrationServices/MonitoringData/read"
+    "Microsoft.LoadTestService/loadTests/*"
   ],
   "NotActions": []
 }

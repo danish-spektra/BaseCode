@@ -20,6 +20,7 @@
               "field": "type",
               "like": "Microsoft.Compute/virtualMachines/extensions/*"
             },
+
             {
               "field": "type",
               "like": "Microsoft.DataMigration/services/*"
@@ -32,10 +33,28 @@
               "field": "type",
               "like": "Microsoft.DataMigration/sqlMigrationServices/*"
             },
+
             {
               "field": "type",
-              "like": "Microsoft.Migrate/migrateprojects/*"
+              "like": "Microsoft.Migrate/*"
             },
+            {
+              "field": "type",
+              "like": "Microsoft.OffAzure/*"
+            },
+            {
+              "field": "type",
+              "like": "Microsoft.RecoveryServices/*"
+            },
+            {
+              "field": "type",
+              "like": "Microsoft.ApplicationMigration/*"
+            },
+            {
+              "field": "type",
+              "like": "Microsoft.DependencyMap/*"
+            },
+
             {
               "field": "type",
               "like": "microsoft.insights/actiongroups/*"
@@ -48,6 +67,7 @@
               "field": "type",
               "like": "microsoft.insights/*"
             },
+
             {
               "field": "type",
               "like": "Microsoft.Network/networkInterfaces/*"
@@ -80,6 +100,7 @@
               "field": "type",
               "like": "Microsoft.Network/applicationGatewayWebApplicationFirewallPolicies/*"
             },
+
             {
               "field": "type",
               "like": "Microsoft.Sql/servers/*"
@@ -88,10 +109,12 @@
               "field": "type",
               "like": "Microsoft.Sql/servers/databases/*"
             },
+
             {
               "field": "type",
               "like": "Microsoft.Storage/storageAccounts/*"
             },
+
             {
               "field": "type",
               "like": "Microsoft.Web/serverFarms/*"
@@ -104,44 +127,61 @@
               "field": "type",
               "like": "Microsoft.Web/sites/slots/*"
             },
+
             {
               "field": "type",
               "like": "Microsoft.KeyVault/vaults/*"
             },
+
             {
               "field": "type",
               "like": "Microsoft.LoadTestService/loadTests/*"
             },
+
             {
               "field": "type",
               "in": [
-                "Microsoft.OperationalInsights/workspaces",
-                "Microsoft.LoadTestService/loadTests",
-                "Microsoft.KeyVault/vaults",
-                "Microsoft.Network/applicationGateways",
-                "Microsoft.Network/applicationGatewayWebApplicationFirewallPolicies",
-                "Microsoft.Network/firewallPolicies",
-                "Microsoft.Network/azureFirewalls",
                 "Microsoft.Compute/disks",
                 "Microsoft.Compute/virtualMachines",
                 "Microsoft.Compute/virtualMachines/extensions",
+
                 "Microsoft.DataMigration/services",
                 "Microsoft.DataMigration/services/projects",
                 "Microsoft.DataMigration/sqlMigrationServices",
-                "Microsoft.Migrate/migrateprojects",
+
+                "Microsoft.Migrate",
+                "Microsoft.OffAzure",
+                "Microsoft.RecoveryServices",
+                "Microsoft.ApplicationMigration",
+                "Microsoft.DependencyMap",
+
+                "Microsoft.OperationalInsights/workspaces",
+
+                "microsoft.insights",
                 "microsoft.insights/actiongroups",
                 "microsoft.insights/components",
-                "microsoft.insights",
+
                 "Microsoft.Network/networkInterfaces",
                 "Microsoft.Network/networkSecurityGroups",
                 "Microsoft.Network/publicIPAddresses",
                 "Microsoft.Network/virtualNetworks",
+                "Microsoft.Network/firewallPolicies",
+                "Microsoft.Network/azureFirewalls",
+                "Microsoft.Network/applicationGateways",
+                "Microsoft.Network/applicationGatewayWebApplicationFirewallPolicies",
+
                 "Microsoft.Sql/servers",
                 "Microsoft.Sql/servers/databases",
+
                 "Microsoft.Storage/storageAccounts",
+
                 "Microsoft.Web/serverFarms",
                 "Microsoft.Web/sites",
-                "Microsoft.Web/sites/slots"
+                "Microsoft.Web/sites/slots",
+
+                "Microsoft.KeyVault/vaults",
+
+                "Microsoft.LoadTestService/loadTests"
               ]
             }
           ]
