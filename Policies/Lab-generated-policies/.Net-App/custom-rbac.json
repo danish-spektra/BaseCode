@@ -1,0 +1,65 @@
+{
+  "Name": "Spektra Custom RBAC",
+  "Id": null,
+  "IsCustom": true,
+  "Description": "Spektra Training Custom Role.",
+  "Actions": [
+    "Microsoft.Authorization/*/read",
+
+    "Microsoft.Compute/disks/*",
+    "Microsoft.Compute/virtualMachines/*",
+    "Microsoft.Compute/virtualMachines/extensions/*",
+
+    "Microsoft.DataMigration/*",
+    "Microsoft.Migrate/migrateprojects/*",
+    
+    "Microsoft.DataMigration/SqlMigrationServices/*",
+
+
+    "microsoft.insights/*",
+    "microsoft.insights/actiongroups/*",
+    "microsoft.insights/components/*",
+
+    "Microsoft.Network/networkInterfaces/*",
+    "Microsoft.Network/networkSecurityGroups/*",
+    "Microsoft.Network/publicIPAddresses/*",
+    "Microsoft.Network/virtualNetworks/*",
+
+    "Microsoft.Network/applicationGatewayWebApplicationFirewallPolicies/*",
+    "Microsoft.Network/applicationGateways/*",
+    "Microsoft.Network/firewallPolicies/*",
+    "Microsoft.Network/azureFirewalls/*",
+
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/deployments/validate/action",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/write",
+
+    "Microsoft.OperationalInsights/workspaces/*",
+
+    "Microsoft.Sql/servers/*",
+    "Microsoft.Sql/servers/databases/*",
+
+    "Microsoft.Storage/storageAccounts/*",
+
+    "Microsoft.Web/serverFarms/*",
+    "Microsoft.Web/sites/*",
+    "Microsoft.Web/sites/slots/*",
+
+    "Microsoft.KeyVault/vaults/*",
+
+    "Microsoft.LoadTestService/register/action",
+    "Microsoft.LoadTestService/loadTests/*",
+
+    "Microsoft.DataMigration/sqlMigrationServices/write",
+    "Microsoft.DataMigration/sqlMigrationServices/delete",
+    "Microsoft.DataMigration/sqlMigrationServices/read",
+    "Microsoft.DataMigration/sqlMigrationServices/listAuthKeys/action",
+    "Microsoft.DataMigration/sqlMigrationServices/regenerateAuthKeys/action",
+    "Microsoft.DataMigration/sqlMigrationServices/deleteNode/action",
+    "Microsoft.DataMigration/sqlMigrationServices/listMonitoringData/action",
+    "Microsoft.DataMigration/sqlMigrationServices/listMigrations/read",
+    "Microsoft.DataMigration/sqlMigrationServices/MonitoringData/read"
+  ],
+  "NotActions": []
+}
