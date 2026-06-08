@@ -1,0 +1,2001 @@
+FeedbackID,CustomerID,FeedbackDate,Rating,Comments,Region
+FB-00155,CUST-1334,2023-10-01,2,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00187,CUST-1583,2023-10-01,5,Product quality exceeded my expectations. Will buy again.,NORTH
+FB-00494,CUST-1718,2023-10-01,3,Product matches description but packaging could be improved.,SOUTH
+FB-00550,CUST-2945,2023-10-01,5,Love the product quality. The team was very professional.,SOUTH
+FB-00643,CUST-1800,2023-10-01,4,Love the product quality. The team was very professional.,SOUTH
+FB-00977,CUST-2137,2023-10-01,3,Product works as expected. No major complaints.,EAST
+FB-01088,CUST-1649,2023-10-01,5,Outstanding customer service resolved my query in minutes.,EAST
+FB-01351,CUST-1990,2023-10-01,4,Product quality exceeded my expectations. Will buy again.,WEST
+FB-01410,CUST-2798,2023-10-01,4,Product quality exceeded my expectations. Will buy again.,WEST
+FB-01558,CUST-1321,2023-10-01,3,Average experience. Nothing stood out positively or negatively.,WEST
+FB-01562,CUST-2122,2023-10-01,2,Product quality is below expectations. Disappointed.,WEST
+FB-01600,CUST-2937,2023-10-01,4,Great experience from order to delivery. Highly recommend.,WEST
+FB-01706,CUST-2591,2023-10-01,4,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-00382,CUST-2595,2023-10-02,2,Long delivery time and no tracking updates. Unacceptable.,NORTH
+FB-00508,CUST-1085,2023-10-02,3,Delivery was slightly delayed but product is fine.,SOUTH
+FB-00545,CUST-1689,2023-10-02,3,Customer service was adequate. Issue resolved eventually.,SOUTH
+FB-00706,CUST-2714,2023-10-02,3,Good product but the ordering process was confusing.,SOUTH
+FB-00896,CUST-1927,2023-10-02,2,Long delivery time and no tracking updates. Unacceptable.,EAST
+FB-00947,CUST-1268,2023-10-02,3,Average experience. Nothing stood out positively or negatively.,EAST
+FB-01094,CUST-2468,2023-10-02,4,Delivery was on time and product works perfectly.,EAST
+FB-01264,CUST-1395,2023-10-02,4,Quick shipping and well-packaged. Exactly as described.,WEST
+FB-01270,CUST-2802,2023-10-02,5,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01293,CUST-1689,2023-10-02,3,Acceptable quality for the price. Delivery was average.,WEST
+FB-01408,CUST-2446,2023-10-02,3,Delivery was slightly delayed but product is fine.,WEST
+FB-01423,CUST-1856,2023-10-02,4,Amazing value for money. Would definitely recommend to a friend.,WEST
+FB-01751,CUST-2020,2023-10-02,4,Great experience from order to delivery. Highly recommend.,CENTRAL
+FB-00135,CUST-1665,2023-10-03,3,Customer service was adequate. Issue resolved eventually.,NORTH
+FB-00243,CUST-2057,2023-10-03,3,Product is okay. Delivery took a bit longer than expected.,NORTH
+FB-00458,CUST-1249,2023-10-03,4,Excellent service and fast delivery. Very happy with my purchase.,SOUTH
+FB-00599,CUST-1780,2023-10-03,1,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,SOUTH
+FB-00675,CUST-2370,2023-10-03,4,Love the product quality. The team was very professional.,SOUTH
+FB-00816,CUST-1250,2023-10-03,4,Quick shipping and well-packaged. Exactly as described.,EAST
+FB-00856,CUST-2822,2023-10-03,5,Quick shipping and well-packaged. Exactly as described.,EAST
+FB-01502,CUST-1432,2023-10-03,4,Great experience from order to delivery. Highly recommend.,WEST
+FB-01788,CUST-2745,2023-10-03,4,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01816,CUST-1433,2023-10-03,4,Love the product quality. The team was very professional.,CENTRAL
+FB-01869,CUST-1808,2023-10-03,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,CENTRAL
+FB-01979,CUST-1446,2023-10-03,2,Product stopped working after one week. Very frustrated.,CENTRAL
+FB-00054,CUST-1842,2023-10-04,5,Great experience from order to delivery. Highly recommend.,NORTH
+FB-00064,CUST-2081,2023-10-04,3,Good product but the ordering process was confusing.,NORTH
+FB-00408,CUST-1607,2023-10-04,5,Love the product quality. The team was very professional.,SOUTH
+FB-00439,CUST-1689,2023-10-04,5,Love the product quality. The team was very professional.,SOUTH
+FB-00465,CUST-1960,2023-10-04,4,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00485,CUST-2848,2023-10-04,3,Acceptable quality for the price. Delivery was average.,SOUTH
+FB-00516,CUST-1229,2023-10-04,4,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00612,CUST-1091,2023-10-04,5,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00823,CUST-1534,2023-10-04,4,Delivery was on time and product works perfectly.,EAST
+FB-00914,CUST-2392,2023-10-04,2,Very poor customer service. Waited 3 days for a response.,EAST
+FB-00951,CUST-2094,2023-10-04,2,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,EAST
+FB-01040,CUST-1157,2023-10-04,5,Product quality exceeded my expectations. Will buy again.,EAST
+FB-01091,CUST-2520,2023-10-04,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,EAST
+FB-01578,CUST-1461,2023-10-04,4,Delivery was on time and product works perfectly.,WEST
+FB-01749,CUST-1245,2023-10-04,4,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-00125,CUST-1721,2023-10-05,4,Great experience from order to delivery. Highly recommend.,NORTH
+FB-00265,CUST-2450,2023-10-05,5,Love the product quality. The team was very professional.,NORTH
+FB-00365,CUST-2517,2023-10-05,3,Product matches description but packaging could be improved.,NORTH
+FB-00417,CUST-2606,2023-10-05,4,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00434,CUST-2982,2023-10-05,3,Acceptable quality for the price. Delivery was average.,SOUTH
+FB-00669,CUST-2197,2023-10-05,4,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00760,CUST-1364,2023-10-05,5,Delivery was on time and product works perfectly.,SOUTH
+FB-01125,CUST-1552,2023-10-05,3,Product is okay. Delivery took a bit longer than expected.,EAST
+FB-01339,CUST-1840,2023-10-05,5,Amazing value for money. Would definitely recommend to a friend.,WEST
+FB-01368,CUST-2406,2023-10-05,4,Love the product quality. The team was very professional.,WEST
+FB-01418,CUST-2564,2023-10-05,3,Product is okay. Delivery took a bit longer than expected.,WEST
+FB-01528,CUST-1164,2023-10-05,4,Delivery was on time and product works perfectly.,WEST
+FB-01792,CUST-1697,2023-10-05,5,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-00079,CUST-1721,2023-10-06,1,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,NORTH
+FB-00299,CUST-2880,2023-10-06,2,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00302,CUST-1917,2023-10-06,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00314,CUST-2784,2023-10-06,1,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00552,CUST-1687,2023-10-06,4,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-00709,CUST-2172,2023-10-06,5,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00777,CUST-1447,2023-10-06,1,Delivery was extremely slow and the product arrived damaged.,SOUTH
+FB-00778,CUST-2205,2023-10-06,2,Product stopped working after one week. Very frustrated.,SOUTH
+FB-00923,CUST-1351,2023-10-06,4,Outstanding customer service resolved my query in minutes.,EAST
+FB-00952,CUST-2222,2023-10-06,3,Product is okay. Delivery took a bit longer than expected.,EAST
+FB-01210,CUST-2851,2023-10-06,5,Great experience from order to delivery. Highly recommend.,WEST
+FB-01340,CUST-2096,2023-10-06,4,Great experience from order to delivery. Highly recommend.,WEST
+FB-01529,CUST-2531,2023-10-06,5,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01564,CUST-1685,2023-10-06,3,Product is okay. Delivery took a bit longer than expected.,WEST
+FB-01569,CUST-1749,2023-10-06,5,Great experience from order to delivery. Highly recommend.,WEST
+FB-01676,CUST-1841,2023-10-06,3,Acceptable quality for the price. Delivery was average.,CENTRAL
+FB-01724,CUST-2339,2023-10-06,5,Quick shipping and well-packaged. Exactly as described.,CENTRAL
+FB-01933,CUST-2748,2023-10-06,4,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-00062,CUST-1101,2023-10-07,2,Long delivery time and no tracking updates. Unacceptable.,NORTH
+FB-00066,CUST-2608,2023-10-07,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00164,CUST-2404,2023-10-07,5,Excellent service and fast delivery. Very happy with my purchase.,NORTH
+FB-00165,CUST-1855,2023-10-07,2,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00194,CUST-1312,2023-10-07,4,Outstanding customer service resolved my query in minutes.,NORTH
+FB-00449,CUST-2653,2023-10-07,2,Product stopped working after one week. Very frustrated.,SOUTH
+FB-00588,CUST-2551,2023-10-07,5,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00615,CUST-1065,2023-10-07,4,Product quality exceeded my expectations. Will buy again.,SOUTH
+FB-00728,CUST-2056,2023-10-07,5,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-00746,CUST-2450,2023-10-07,3,Average experience. Nothing stood out positively or negatively.,SOUTH
+FB-00957,CUST-1944,2023-10-07,4,Delivery was on time and product works perfectly.,EAST
+FB-01045,CUST-2526,2023-10-07,4,Product quality exceeded my expectations. Will buy again.,EAST
+FB-01184,CUST-1511,2023-10-07,2,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,EAST
+FB-01185,CUST-1578,2023-10-07,3,Product works as expected. No major complaints.,EAST
+FB-01369,CUST-2057,2023-10-07,3,Product is okay. Delivery took a bit longer than expected.,WEST
+FB-01459,CUST-1926,2023-10-07,4,Product quality exceeded my expectations. Will buy again.,WEST
+FB-01568,CUST-1489,2023-10-07,3,Product matches description but packaging could be improved.,WEST
+FB-01589,CUST-2259,2023-10-07,4,Outstanding customer service resolved my query in minutes.,WEST
+FB-01642,CUST-2890,2023-10-07,4,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01865,CUST-2539,2023-10-07,5,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-01981,CUST-2624,2023-10-07,4,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-00025,CUST-1903,2023-10-08,2,Long delivery time and no tracking updates. Unacceptable.,NORTH
+FB-00251,CUST-2475,2023-10-08,3,Product is okay. Delivery took a bit longer than expected.,NORTH
+FB-00356,CUST-1381,2023-10-08,4,Love the product quality. The team was very professional.,NORTH
+FB-00469,CUST-2585,2023-10-08,4,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00470,CUST-1762,2023-10-08,5,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00671,CUST-1507,2023-10-08,3,Average experience. Nothing stood out positively or negatively.,SOUTH
+FB-00747,CUST-1709,2023-10-08,5,Product quality exceeded my expectations. Will buy again.,SOUTH
+FB-00769,CUST-2294,2023-10-08,4,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00775,CUST-1218,2023-10-08,5,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00845,CUST-1970,2023-10-08,5,Outstanding customer service resolved my query in minutes.,EAST
+FB-00965,CUST-2183,2023-10-08,2,Very poor customer service. Waited 3 days for a response.,EAST
+FB-01124,CUST-1292,2023-10-08,3,Product works as expected. No major complaints.,EAST
+FB-01305,CUST-2138,2023-10-08,4,Product quality exceeded my expectations. Will buy again.,WEST
+FB-01583,CUST-2996,2023-10-08,5,Outstanding customer service resolved my query in minutes.,WEST
+FB-01693,CUST-2865,2023-10-08,5,Love the product quality. The team was very professional.,CENTRAL
+FB-01701,CUST-1527,2023-10-08,3,Product works as expected. No major complaints.,CENTRAL
+FB-01817,CUST-2740,2023-10-08,4,Quick shipping and well-packaged. Exactly as described.,CENTRAL
+FB-01965,CUST-2529,2023-10-08,5,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-00266,CUST-2255,2023-10-09,3,Customer service was adequate. Issue resolved eventually.,NORTH
+FB-00275,CUST-1516,2023-10-09,3,Acceptable quality for the price. Delivery was average.,NORTH
+FB-00627,CUST-1630,2023-10-09,4,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00629,CUST-2286,2023-10-09,4,Product quality exceeded my expectations. Will buy again.,SOUTH
+FB-00877,CUST-2391,2023-10-09,3,Product is okay. Delivery took a bit longer than expected.,EAST
+FB-00954,CUST-1645,2023-10-09,2,Long delivery time and no tracking updates. Unacceptable.,EAST
+FB-01269,CUST-2640,2023-10-09,1,Packaging was terrible and product was scratched on arrival.,WEST
+FB-01282,CUST-2355,2023-10-09,4,Love the product quality. The team was very professional.,WEST
+FB-01344,CUST-2933,2023-10-09,3,Product is okay. Delivery took a bit longer than expected.,WEST
+FB-01484,CUST-1570,2023-10-09,4,Great experience from order to delivery. Highly recommend.,WEST
+FB-01616,CUST-2072,2023-10-09,4,Love the product quality. The team was very professional.,CENTRAL
+FB-01729,CUST-2865,2023-10-09,3,Customer service was adequate. Issue resolved eventually.,CENTRAL
+FB-01766,CUST-1447,2023-10-09,3,Good product but the ordering process was confusing.,CENTRAL
+FB-01769,CUST-2371,2023-10-09,5,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-00168,CUST-1274,2023-10-10,2,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00197,CUST-2114,2023-10-10,4,Great experience from order to delivery. Highly recommend.,NORTH
+FB-00418,CUST-1362,2023-10-10,5,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00570,CUST-2271,2023-10-10,5,Product quality exceeded my expectations. Will buy again.,SOUTH
+FB-00684,CUST-1650,2023-10-10,4,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00814,CUST-2117,2023-10-10,3,Good product but the ordering process was confusing.,EAST
+FB-00875,CUST-1443,2023-10-10,2,Wrong item was delivered and the return process is a nightmare.,EAST
+FB-00956,CUST-2643,2023-10-10,5,Product quality exceeded my expectations. Will buy again.,EAST
+FB-01017,CUST-1173,2023-10-10,2,Long delivery time and no tracking updates. Unacceptable.,EAST
+FB-01114,CUST-1677,2023-10-10,2,Product quality is below expectations. Disappointed.,EAST
+FB-01135,CUST-1855,2023-10-10,3,Product matches description but packaging could be improved.,EAST
+FB-01213,CUST-2365,2023-10-10,4,Amazing value for money. Would definitely recommend to a friend.,WEST
+FB-01373,CUST-1053,2023-10-10,4,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01522,CUST-1627,2023-10-10,3,Product is okay. Delivery took a bit longer than expected.,WEST
+FB-01537,CUST-1569,2023-10-10,1,Product stopped working after one week. Very frustrated.,WEST
+FB-01540,CUST-2862,2023-10-10,4,Love the product quality. The team was very professional.,WEST
+FB-01741,CUST-2871,2023-10-10,4,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01809,CUST-2227,2023-10-10,3,Delivery was slightly delayed but product is fine.,CENTRAL
+FB-00002,CUST-2984,2023-10-11,3,Product works as expected. No major complaints.,NORTH
+FB-00213,CUST-2708,2023-10-11,4,Quick shipping and well-packaged. Exactly as described.,NORTH
+FB-00249,CUST-2382,2023-10-11,4,Quick shipping and well-packaged. Exactly as described.,NORTH
+FB-00380,CUST-1963,2023-10-11,2,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00399,CUST-1507,2023-10-11,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00493,CUST-2034,2023-10-11,3,Product is okay. Delivery took a bit longer than expected.,SOUTH
+FB-00645,CUST-2182,2023-10-11,3,Delivery was slightly delayed but product is fine.,SOUTH
+FB-01055,CUST-1897,2023-10-11,3,Product is okay. Delivery took a bit longer than expected.,EAST
+FB-01071,CUST-1586,2023-10-11,3,Customer service was adequate. Issue resolved eventually.,EAST
+FB-01147,CUST-1986,2023-10-11,3,Product is okay. Delivery took a bit longer than expected.,EAST
+FB-01315,CUST-2487,2023-10-11,4,Love the product quality. The team was very professional.,WEST
+FB-01628,CUST-1191,2023-10-11,4,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01895,CUST-1835,2023-10-11,4,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-00096,CUST-2183,2023-10-12,4,Delivery was on time and product works perfectly.,NORTH
+FB-00148,CUST-1207,2023-10-12,3,Good product but the ordering process was confusing.,NORTH
+FB-00151,CUST-2317,2023-10-12,3,Customer service was adequate. Issue resolved eventually.,NORTH
+FB-00290,CUST-1145,2023-10-12,3,Acceptable quality for the price. Delivery was average.,NORTH
+FB-00298,CUST-2465,2023-10-12,4,Excellent service and fast delivery. Very happy with my purchase.,NORTH
+FB-00397,CUST-1122,2023-10-12,3,Delivery was slightly delayed but product is fine.,NORTH
+FB-00762,CUST-2225,2023-10-12,2,Delivery was extremely slow and the product arrived damaged.,SOUTH
+FB-00767,CUST-2205,2023-10-12,4,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00806,CUST-1668,2023-10-12,5,Outstanding customer service resolved my query in minutes.,EAST
+FB-01150,CUST-1577,2023-10-12,4,Outstanding customer service resolved my query in minutes.,EAST
+FB-01226,CUST-2886,2023-10-12,4,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01314,CUST-2177,2023-10-12,3,Delivery was slightly delayed but product is fine.,WEST
+FB-01329,CUST-2743,2023-10-12,5,Love the product quality. The team was very professional.,WEST
+FB-01370,CUST-2740,2023-10-12,5,Outstanding customer service resolved my query in minutes.,WEST
+FB-01465,CUST-1951,2023-10-12,4,Product quality exceeded my expectations. Will buy again.,WEST
+FB-01731,CUST-1464,2023-10-12,3,Product matches description but packaging could be improved.,CENTRAL
+FB-01772,CUST-2564,2023-10-12,4,Outstanding customer service resolved my query in minutes.,CENTRAL
+FB-01881,CUST-1383,2023-10-12,3,Customer service was adequate. Issue resolved eventually.,CENTRAL
+FB-01946,CUST-2228,2023-10-12,4,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01995,CUST-1972,2023-10-12,3,Delivery was slightly delayed but product is fine.,CENTRAL
+FB-00205,CUST-2828,2023-10-13,2,Long delivery time and no tracking updates. Unacceptable.,NORTH
+FB-00264,CUST-1690,2023-10-13,2,Long delivery time and no tracking updates. Unacceptable.,NORTH
+FB-00707,CUST-1326,2023-10-13,3,Average experience. Nothing stood out positively or negatively.,SOUTH
+FB-00713,CUST-1074,2023-10-13,4,Love the product quality. The team was very professional.,SOUTH
+FB-00849,CUST-1724,2023-10-13,3,Delivery was slightly delayed but product is fine.,EAST
+FB-00874,CUST-2188,2023-10-13,3,Product matches description but packaging could be improved.,EAST
+FB-00910,CUST-1229,2023-10-13,3,Good product but the ordering process was confusing.,EAST
+FB-01217,CUST-1848,2023-10-13,3,Customer service was adequate. Issue resolved eventually.,WEST
+FB-01518,CUST-2931,2023-10-13,2,Very poor customer service. Waited 3 days for a response.,WEST
+FB-01798,CUST-1141,2023-10-13,4,Delivery was on time and product works perfectly.,CENTRAL
+FB-01826,CUST-1847,2023-10-13,3,Product works as expected. No major complaints.,CENTRAL
+FB-00005,CUST-2763,2023-10-14,5,Quick shipping and well-packaged. Exactly as described.,NORTH
+FB-00080,CUST-1731,2023-10-14,3,Good product but the ordering process was confusing.,NORTH
+FB-00207,CUST-1446,2023-10-14,3,Delivery was slightly delayed but product is fine.,NORTH
+FB-00291,CUST-1489,2023-10-14,1,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,NORTH
+FB-00412,CUST-1529,2023-10-14,5,Product quality exceeded my expectations. Will buy again.,SOUTH
+FB-00795,CUST-1751,2023-10-14,5,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-01051,CUST-2244,2023-10-14,2,Very poor customer service. Waited 3 days for a response.,EAST
+FB-01056,CUST-1210,2023-10-14,2,Customer service was unhelpful and rude.,EAST
+FB-01102,CUST-2874,2023-10-14,4,Excellent service and fast delivery. Very happy with my purchase.,EAST
+FB-01178,CUST-2470,2023-10-14,3,Average experience. Nothing stood out positively or negatively.,EAST
+FB-01181,CUST-1322,2023-10-14,3,Customer service was adequate. Issue resolved eventually.,EAST
+FB-01258,CUST-2993,2023-10-14,5,Product quality exceeded my expectations. Will buy again.,WEST
+FB-01284,CUST-2455,2023-10-14,2,Product quality is below expectations. Disappointed.,WEST
+FB-01381,CUST-1432,2023-10-14,4,Love the product quality. The team was very professional.,WEST
+FB-01439,CUST-2943,2023-10-14,5,Product quality exceeded my expectations. Will buy again.,WEST
+FB-01532,CUST-2305,2023-10-14,4,Outstanding customer service resolved my query in minutes.,WEST
+FB-01585,CUST-2354,2023-10-14,4,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01591,CUST-2164,2023-10-14,5,Product quality exceeded my expectations. Will buy again.,WEST
+FB-01647,CUST-2649,2023-10-14,5,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01779,CUST-1005,2023-10-14,4,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-00009,CUST-2514,2023-10-15,4,Excellent service and fast delivery. Very happy with my purchase.,NORTH
+FB-00053,CUST-1922,2023-10-15,4,Great experience from order to delivery. Highly recommend.,NORTH
+FB-00084,CUST-2497,2023-10-15,3,Good product but the ordering process was confusing.,NORTH
+FB-00179,CUST-2131,2023-10-15,3,Average experience. Nothing stood out positively or negatively.,NORTH
+FB-00186,CUST-2032,2023-10-15,3,Average experience. Nothing stood out positively or negatively.,NORTH
+FB-00204,CUST-2474,2023-10-15,4,Excellent service and fast delivery. Very happy with my purchase.,NORTH
+FB-00339,CUST-1575,2023-10-15,3,Product is okay. Delivery took a bit longer than expected.,NORTH
+FB-00700,CUST-2714,2023-10-15,5,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-01025,CUST-2279,2023-10-15,2,Product stopped working after one week. Very frustrated.,EAST
+FB-01438,CUST-2449,2023-10-15,4,Love the product quality. The team was very professional.,WEST
+FB-01440,CUST-2678,2023-10-15,3,Delivery was slightly delayed but product is fine.,WEST
+FB-01561,CUST-1285,2023-10-15,4,Delivery was on time and product works perfectly.,WEST
+FB-00058,CUST-2515,2023-10-16,1,Long delivery time and no tracking updates. Unacceptable.,NORTH
+FB-00083,CUST-2109,2023-10-16,4,Great experience from order to delivery. Highly recommend.,NORTH
+FB-00091,CUST-2540,2023-10-16,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00190,CUST-2189,2023-10-16,3,Product matches description but packaging could be improved.,NORTH
+FB-00192,CUST-2856,2023-10-16,2,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00317,CUST-1409,2023-10-16,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00411,CUST-1421,2023-10-16,2,Customer service was unhelpful and rude.,SOUTH
+FB-00625,CUST-1879,2023-10-16,5,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00694,CUST-2419,2023-10-16,5,Product quality exceeded my expectations. Will buy again.,SOUTH
+FB-00880,CUST-1501,2023-10-16,4,Delivery was on time and product works perfectly.,EAST
+FB-01363,CUST-2094,2023-10-16,2,Product quality is below expectations. Disappointed.,WEST
+FB-01371,CUST-1791,2023-10-16,3,Good product but the ordering process was confusing.,WEST
+FB-01553,CUST-2590,2023-10-16,4,Product quality exceeded my expectations. Will buy again.,WEST
+FB-01592,CUST-1966,2023-10-16,4,Outstanding customer service resolved my query in minutes.,WEST
+FB-01697,CUST-1942,2023-10-16,5,Love the product quality. The team was very professional.,CENTRAL
+FB-01703,CUST-1602,2023-10-16,3,Average experience. Nothing stood out positively or negatively.,CENTRAL
+FB-01790,CUST-2120,2023-10-16,4,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01934,CUST-1936,2023-10-16,5,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01955,CUST-1941,2023-10-16,5,Great experience from order to delivery. Highly recommend.,CENTRAL
+FB-00102,CUST-2087,2023-10-17,3,Good product but the ordering process was confusing.,NORTH
+FB-00112,CUST-2640,2023-10-17,2,Long delivery time and no tracking updates. Unacceptable.,NORTH
+FB-00121,CUST-2874,2023-10-17,4,Outstanding customer service resolved my query in minutes.,NORTH
+FB-00211,CUST-2490,2023-10-17,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00309,CUST-2362,2023-10-17,1,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00653,CUST-1723,2023-10-17,1,I have been a loyal customer for 5 years but reconsidering my options after this experience.,SOUTH
+FB-00738,CUST-1897,2023-10-17,4,Love the product quality. The team was very professional.,SOUTH
+FB-00753,CUST-2703,2023-10-17,5,Excellent service and fast delivery. Very happy with my purchase.,SOUTH
+FB-00809,CUST-2314,2023-10-17,3,Good product but the ordering process was confusing.,EAST
+FB-01128,CUST-2928,2023-10-17,3,Product matches description but packaging could be improved.,EAST
+FB-01224,CUST-2781,2023-10-17,5,Delivery was on time and product works perfectly.,WEST
+FB-01273,CUST-2541,2023-10-17,3,Product matches description but packaging could be improved.,WEST
+FB-01385,CUST-1602,2023-10-17,5,Outstanding customer service resolved my query in minutes.,WEST
+FB-01581,CUST-2699,2023-10-17,4,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01755,CUST-1190,2023-10-17,5,Quick shipping and well-packaged. Exactly as described.,CENTRAL
+FB-01893,CUST-1495,2023-10-17,5,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-00219,CUST-2583,2023-10-18,4,Quick shipping and well-packaged. Exactly as described.,NORTH
+FB-00286,CUST-2797,2023-10-18,2,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00353,CUST-1018,2023-10-18,1,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,NORTH
+FB-00659,CUST-2084,2023-10-18,5,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-00678,CUST-1761,2023-10-18,5,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00729,CUST-1051,2023-10-18,4,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00804,CUST-2306,2023-10-18,2,Delivery was extremely slow and the product arrived damaged.,EAST
+FB-00866,CUST-2648,2023-10-18,4,Quick shipping and well-packaged. Exactly as described.,EAST
+FB-00918,CUST-2510,2023-10-18,4,Excellent service and fast delivery. Very happy with my purchase.,EAST
+FB-00994,CUST-1546,2023-10-18,5,Amazing value for money. Would definitely recommend to a friend.,EAST
+FB-01057,CUST-1005,2023-10-18,5,Quick shipping and well-packaged. Exactly as described.,EAST
+FB-01063,CUST-2309,2023-10-18,2,Product quality is below expectations. Disappointed.,EAST
+FB-01183,CUST-2354,2023-10-18,4,Amazing value for money. Would definitely recommend to a friend.,EAST
+FB-01495,CUST-2340,2023-10-18,2,Wrong item was delivered and the return process is a nightmare.,WEST
+FB-01610,CUST-1038,2023-10-18,4,Love the product quality. The team was very professional.,CENTRAL
+FB-01785,CUST-2658,2023-10-18,4,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-01800,CUST-2823,2023-10-18,5,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-01873,CUST-1292,2023-10-18,4,Quick shipping and well-packaged. Exactly as described.,CENTRAL
+FB-00006,CUST-1066,2023-10-19,2,Long delivery time and no tracking updates. Unacceptable.,NORTH
+FB-00052,CUST-1872,2023-10-19,4,Great experience from order to delivery. Highly recommend.,NORTH
+FB-00139,CUST-1615,2023-10-19,3,Good product but the ordering process was confusing.,NORTH
+FB-00597,CUST-1480,2023-10-19,5,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00723,CUST-1126,2023-10-19,4,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-01138,CUST-1726,2023-10-19,1,Product stopped working after one week. Very frustrated.,EAST
+FB-01175,CUST-1047,2023-10-19,3,Customer service was adequate. Issue resolved eventually.,EAST
+FB-01209,CUST-2004,2023-10-19,5,Love the product quality. The team was very professional.,WEST
+FB-01243,CUST-2944,2023-10-19,5,Delivery was on time and product works perfectly.,WEST
+FB-01603,CUST-1213,2023-10-19,1,I have been a loyal customer for 5 years but reconsidering my options after this experience.,CENTRAL
+FB-01658,CUST-2985,2023-10-19,5,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-01776,CUST-2664,2023-10-19,3,Customer service was adequate. Issue resolved eventually.,CENTRAL
+FB-01821,CUST-1790,2023-10-19,5,Love the product quality. The team was very professional.,CENTRAL
+FB-01840,CUST-2660,2023-10-19,4,Delivery was on time and product works perfectly.,CENTRAL
+FB-01961,CUST-2465,2023-10-19,4,Love the product quality. The team was very professional.,CENTRAL
+FB-00300,CUST-2026,2023-10-20,3,Average experience. Nothing stood out positively or negatively.,NORTH
+FB-00430,CUST-2097,2023-10-20,4,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00529,CUST-2077,2023-10-20,4,Excellent service and fast delivery. Very happy with my purchase.,SOUTH
+FB-00593,CUST-1149,2023-10-20,4,Excellent service and fast delivery. Very happy with my purchase.,SOUTH
+FB-00679,CUST-1729,2023-10-20,5,Delivery was on time and product works perfectly.,SOUTH
+FB-00819,CUST-2242,2023-10-20,2,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,EAST
+FB-00976,CUST-2812,2023-10-20,4,Quick shipping and well-packaged. Exactly as described.,EAST
+FB-01001,CUST-2616,2023-10-20,4,Quick shipping and well-packaged. Exactly as described.,EAST
+FB-01307,CUST-1676,2023-10-20,3,Customer service was adequate. Issue resolved eventually.,WEST
+FB-01419,CUST-2888,2023-10-20,4,Amazing value for money. Would definitely recommend to a friend.,WEST
+FB-01571,CUST-2668,2023-10-20,3,Acceptable quality for the price. Delivery was average.,WEST
+FB-01758,CUST-2223,2023-10-20,4,Quick shipping and well-packaged. Exactly as described.,CENTRAL
+FB-01954,CUST-1972,2023-10-20,5,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-00214,CUST-2599,2023-10-21,1,Long delivery time and no tracking updates. Unacceptable.,NORTH
+FB-00287,CUST-2850,2023-10-21,3,Product works as expected. No major complaints.,NORTH
+FB-00419,CUST-1543,2023-10-21,5,Delivery was on time and product works perfectly.,SOUTH
+FB-00459,CUST-1959,2023-10-21,4,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00533,CUST-2785,2023-10-21,5,Product quality exceeded my expectations. Will buy again.,SOUTH
+FB-00577,CUST-2981,2023-10-21,4,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00633,CUST-2297,2023-10-21,3,Acceptable quality for the price. Delivery was average.,SOUTH
+FB-00750,CUST-1895,2023-10-21,5,Love the product quality. The team was very professional.,SOUTH
+FB-00766,CUST-2687,2023-10-21,5,Delivery was on time and product works perfectly.,SOUTH
+FB-00805,CUST-2155,2023-10-21,2,Product quality is below expectations. Disappointed.,EAST
+FB-00835,CUST-2036,2023-10-21,5,Love the product quality. The team was very professional.,EAST
+FB-00909,CUST-2811,2023-10-21,2,Wrong item was delivered and the return process is a nightmare.,EAST
+FB-01004,CUST-2292,2023-10-21,1,Very poor customer service. Waited 3 days for a response.,EAST
+FB-01107,CUST-1689,2023-10-21,3,Acceptable quality for the price. Delivery was average.,EAST
+FB-01134,CUST-1684,2023-10-21,4,Outstanding customer service resolved my query in minutes.,EAST
+FB-01155,CUST-2498,2023-10-21,5,Product quality exceeded my expectations. Will buy again.,EAST
+FB-01250,CUST-1712,2023-10-21,4,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01467,CUST-2583,2023-10-21,5,Delivery was on time and product works perfectly.,WEST
+FB-01509,CUST-1961,2023-10-21,5,Delivery was on time and product works perfectly.,WEST
+FB-01737,CUST-1569,2023-10-21,5,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-01806,CUST-2592,2023-10-21,2,Long delivery time and no tracking updates. Unacceptable.,CENTRAL
+FB-01841,CUST-2410,2023-10-21,3,Acceptable quality for the price. Delivery was average.,CENTRAL
+FB-01928,CUST-1559,2023-10-21,5,Great experience from order to delivery. Highly recommend.,CENTRAL
+FB-00105,CUST-2413,2023-10-22,1,Long delivery time and no tracking updates. Unacceptable.,NORTH
+FB-00181,CUST-2124,2023-10-22,4,Excellent service and fast delivery. Very happy with my purchase.,NORTH
+FB-00541,CUST-1405,2023-10-22,4,Excellent service and fast delivery. Very happy with my purchase.,SOUTH
+FB-00921,CUST-2545,2023-10-22,3,Good product but the ordering process was confusing.,EAST
+FB-01011,CUST-1822,2023-10-22,4,Delivery was on time and product works perfectly.,EAST
+FB-01044,CUST-2925,2023-10-22,3,Acceptable quality for the price. Delivery was average.,EAST
+FB-01098,CUST-2633,2023-10-22,2,Delivery was extremely slow and the product arrived damaged.,EAST
+FB-01100,CUST-1798,2023-10-22,4,Great experience from order to delivery. Highly recommend.,EAST
+FB-01118,CUST-2583,2023-10-22,2,Long delivery time and no tracking updates. Unacceptable.,EAST
+FB-01391,CUST-1602,2023-10-22,5,Outstanding customer service resolved my query in minutes.,WEST
+FB-01398,CUST-2703,2023-10-22,5,Love the product quality. The team was very professional.,WEST
+FB-01588,CUST-2000,2023-10-22,2,Delivery was extremely slow and the product arrived damaged.,WEST
+FB-00169,CUST-2516,2023-10-23,1,Long delivery time and no tracking updates. Unacceptable.,NORTH
+FB-00183,CUST-2214,2023-10-23,2,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00212,CUST-1809,2023-10-23,3,Good product but the ordering process was confusing.,NORTH
+FB-00235,CUST-2216,2023-10-23,3,Delivery was slightly delayed but product is fine.,NORTH
+FB-00369,CUST-2603,2023-10-23,3,Delivery was slightly delayed but product is fine.,NORTH
+FB-00531,CUST-1309,2023-10-23,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,SOUTH
+FB-00815,CUST-1318,2023-10-23,4,Great experience from order to delivery. Highly recommend.,EAST
+FB-00846,CUST-1958,2023-10-23,2,Wrong item was delivered and the return process is a nightmare.,EAST
+FB-01028,CUST-1591,2023-10-23,4,Amazing value for money. Would definitely recommend to a friend.,EAST
+FB-01290,CUST-1984,2023-10-23,4,Product quality exceeded my expectations. Will buy again.,WEST
+FB-01295,CUST-2469,2023-10-23,5,Outstanding customer service resolved my query in minutes.,WEST
+FB-01434,CUST-2568,2023-10-23,4,Amazing value for money. Would definitely recommend to a friend.,WEST
+FB-01476,CUST-1318,2023-10-23,5,Outstanding customer service resolved my query in minutes.,WEST
+FB-01520,CUST-1884,2023-10-23,5,Great experience from order to delivery. Highly recommend.,WEST
+FB-01757,CUST-2344,2023-10-23,4,Delivery was on time and product works perfectly.,CENTRAL
+FB-01836,CUST-2208,2023-10-23,1,Product stopped working after one week. Very frustrated.,CENTRAL
+FB-01843,CUST-2652,2023-10-23,4,Love the product quality. The team was very professional.,CENTRAL
+FB-00050,CUST-1803,2023-10-24,1,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,NORTH
+FB-00108,CUST-1233,2023-10-24,4,Great experience from order to delivery. Highly recommend.,NORTH
+FB-00153,CUST-1788,2023-10-24,3,Product works as expected. No major complaints.,NORTH
+FB-00198,CUST-1949,2023-10-24,4,Product quality exceeded my expectations. Will buy again.,NORTH
+FB-00232,CUST-1567,2023-10-24,3,Product works as expected. No major complaints.,NORTH
+FB-00244,CUST-1562,2023-10-24,4,Quick shipping and well-packaged. Exactly as described.,NORTH
+FB-00349,CUST-2196,2023-10-24,3,Average experience. Nothing stood out positively or negatively.,NORTH
+FB-00444,CUST-1734,2023-10-24,4,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-00535,CUST-1712,2023-10-24,4,Love the product quality. The team was very professional.,SOUTH
+FB-00621,CUST-1895,2023-10-24,3,Product works as expected. No major complaints.,SOUTH
+FB-00751,CUST-2033,2023-10-24,4,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-00758,CUST-2643,2023-10-24,3,Average experience. Nothing stood out positively or negatively.,SOUTH
+FB-00802,CUST-1315,2023-10-24,4,Delivery was on time and product works perfectly.,EAST
+FB-00881,CUST-1992,2023-10-24,1,Very poor customer service. Waited 3 days for a response.,EAST
+FB-00945,CUST-2124,2023-10-24,4,Excellent service and fast delivery. Very happy with my purchase.,EAST
+FB-01239,CUST-1385,2023-10-24,2,Packaging was terrible and product was scratched on arrival.,WEST
+FB-01626,CUST-1386,2023-10-24,5,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01797,CUST-2300,2023-10-24,3,Acceptable quality for the price. Delivery was average.,CENTRAL
+FB-01920,CUST-1810,2023-10-24,4,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-00175,CUST-1250,2023-10-25,2,Long delivery time and no tracking updates. Unacceptable.,NORTH
+FB-00348,CUST-2231,2023-10-25,5,Quick shipping and well-packaged. Exactly as described.,NORTH
+FB-00435,CUST-1274,2023-10-25,4,Love the product quality. The team was very professional.,SOUTH
+FB-00563,CUST-2357,2023-10-25,4,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00752,CUST-1970,2023-10-25,4,Product quality exceeded my expectations. Will buy again.,SOUTH
+FB-00949,CUST-2693,2023-10-25,3,Product is okay. Delivery took a bit longer than expected.,EAST
+FB-00960,CUST-2950,2023-10-25,4,Product quality exceeded my expectations. Will buy again.,EAST
+FB-00981,CUST-2766,2023-10-25,5,Great experience from order to delivery. Highly recommend.,EAST
+FB-01429,CUST-1132,2023-10-25,4,Outstanding customer service resolved my query in minutes.,WEST
+FB-01462,CUST-1825,2023-10-25,4,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01475,CUST-2778,2023-10-25,2,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,WEST
+FB-01688,CUST-2413,2023-10-25,4,Delivery was on time and product works perfectly.,CENTRAL
+FB-00072,CUST-1921,2023-10-26,4,Love the product quality. The team was very professional.,NORTH
+FB-00093,CUST-2253,2023-10-26,1,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,NORTH
+FB-00468,CUST-1608,2023-10-26,3,Delivery was slightly delayed but product is fine.,SOUTH
+FB-00604,CUST-1064,2023-10-26,4,Product quality exceeded my expectations. Will buy again.,SOUTH
+FB-00698,CUST-2213,2023-10-26,4,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00792,CUST-2505,2023-10-26,4,Product quality exceeded my expectations. Will buy again.,SOUTH
+FB-00927,CUST-2622,2023-10-26,2,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,EAST
+FB-01148,CUST-1503,2023-10-26,5,Quick shipping and well-packaged. Exactly as described.,EAST
+FB-01248,CUST-2515,2023-10-26,2,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,WEST
+FB-01384,CUST-1224,2023-10-26,1,Customer service was unhelpful and rude.,WEST
+FB-01615,CUST-1876,2023-10-26,4,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01767,CUST-2644,2023-10-26,4,Outstanding customer service resolved my query in minutes.,CENTRAL
+FB-01838,CUST-2256,2023-10-26,3,Product works as expected. No major complaints.,CENTRAL
+FB-00437,CUST-2421,2023-10-27,5,Love the product quality. The team was very professional.,SOUTH
+FB-00486,CUST-2229,2023-10-27,4,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-01168,CUST-1761,2023-10-27,3,Product is okay. Delivery took a bit longer than expected.,EAST
+FB-01272,CUST-1961,2023-10-27,1,Wrong item was delivered and the return process is a nightmare.,WEST
+FB-01471,CUST-1051,2023-10-27,5,Love the product quality. The team was very professional.,WEST
+FB-01506,CUST-1805,2023-10-27,2,Product stopped working after one week. Very frustrated.,WEST
+FB-01575,CUST-1527,2023-10-27,4,Outstanding customer service resolved my query in minutes.,WEST
+FB-01845,CUST-2091,2023-10-27,5,Love the product quality. The team was very professional.,CENTRAL
+FB-01944,CUST-1099,2023-10-27,5,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-01963,CUST-2003,2023-10-27,4,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01985,CUST-1186,2023-10-27,5,Love the product quality. The team was very professional.,CENTRAL
+FB-00028,CUST-2767,2023-10-28,4,Amazing value for money. Would definitely recommend to a friend.,NORTH
+FB-00311,CUST-1524,2023-10-28,5,Quick shipping and well-packaged. Exactly as described.,NORTH
+FB-00390,CUST-2546,2023-10-28,4,Excellent service and fast delivery. Very happy with my purchase.,NORTH
+FB-00442,CUST-2656,2023-10-28,4,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00505,CUST-2066,2023-10-28,5,Delivery was on time and product works perfectly.,SOUTH
+FB-00715,CUST-2233,2023-10-28,5,Love the product quality. The team was very professional.,SOUTH
+FB-00744,CUST-2189,2023-10-28,5,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00786,CUST-2307,2023-10-28,4,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00812,CUST-1629,2023-10-28,1,Product quality is below expectations. Disappointed.,EAST
+FB-00871,CUST-1790,2023-10-28,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,EAST
+FB-00891,CUST-1527,2023-10-28,4,Amazing value for money. Would definitely recommend to a friend.,EAST
+FB-01030,CUST-1662,2023-10-28,4,Amazing value for money. Would definitely recommend to a friend.,EAST
+FB-01297,CUST-1740,2023-10-28,4,Quick shipping and well-packaged. Exactly as described.,WEST
+FB-01364,CUST-1677,2023-10-28,2,Product quality is below expectations. Disappointed.,WEST
+FB-01401,CUST-2327,2023-10-28,4,Amazing value for money. Would definitely recommend to a friend.,WEST
+FB-01402,CUST-2127,2023-10-28,4,Amazing value for money. Would definitely recommend to a friend.,WEST
+FB-01791,CUST-1395,2023-10-28,4,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01855,CUST-2366,2023-10-28,4,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-00014,CUST-2243,2023-10-29,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00634,CUST-2462,2023-10-29,5,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00801,CUST-2445,2023-10-29,3,Product works as expected. No major complaints.,EAST
+FB-01488,CUST-1824,2023-10-29,1,Wrong item was delivered and the return process is a nightmare.,WEST
+FB-01744,CUST-1928,2023-10-29,3,Average experience. Nothing stood out positively or negatively.,CENTRAL
+FB-01823,CUST-2735,2023-10-29,1,Long delivery time and no tracking updates. Unacceptable.,CENTRAL
+FB-01832,CUST-2062,2023-10-29,4,Outstanding customer service resolved my query in minutes.,CENTRAL
+FB-01872,CUST-2320,2023-10-29,3,Customer service was adequate. Issue resolved eventually.,CENTRAL
+FB-01874,CUST-2212,2023-10-29,5,Great experience from order to delivery. Highly recommend.,CENTRAL
+FB-01901,CUST-2789,2023-10-29,5,Love the product quality. The team was very professional.,CENTRAL
+FB-00103,CUST-1766,2023-10-30,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00111,CUST-1926,2023-10-30,4,Great experience from order to delivery. Highly recommend.,NORTH
+FB-00156,CUST-2701,2023-10-30,3,Customer service was adequate. Issue resolved eventually.,NORTH
+FB-00436,CUST-2215,2023-10-30,4,Excellent service and fast delivery. Very happy with my purchase.,SOUTH
+FB-00521,CUST-2723,2023-10-30,4,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-00906,CUST-2119,2023-10-30,2,Customer service was unhelpful and rude.,EAST
+FB-00978,CUST-2961,2023-10-30,3,Good product but the ordering process was confusing.,EAST
+FB-01081,CUST-2215,2023-10-30,1,Customer service was unhelpful and rude.,EAST
+FB-01433,CUST-1648,2023-10-30,4,Love the product quality. The team was very professional.,WEST
+FB-01651,CUST-1371,2023-10-30,4,Quick shipping and well-packaged. Exactly as described.,CENTRAL
+FB-01666,CUST-2461,2023-10-30,2,Packaging was terrible and product was scratched on arrival.,CENTRAL
+FB-01719,CUST-2312,2023-10-30,5,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-01736,CUST-1665,2023-10-30,5,Great experience from order to delivery. Highly recommend.,CENTRAL
+FB-01884,CUST-2088,2023-10-30,5,Delivery was on time and product works perfectly.,CENTRAL
+FB-00089,CUST-2100,2023-10-31,3,Delivery was slightly delayed but product is fine.,NORTH
+FB-00209,CUST-2818,2023-10-31,3,Product matches description but packaging could be improved.,NORTH
+FB-00216,CUST-1326,2023-10-31,3,Delivery was slightly delayed but product is fine.,NORTH
+FB-00227,CUST-1042,2023-10-31,2,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00247,CUST-2186,2023-10-31,1,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00292,CUST-1332,2023-10-31,1,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,NORTH
+FB-00537,CUST-1270,2023-10-31,4,Product quality exceeded my expectations. Will buy again.,SOUTH
+FB-00574,CUST-2280,2023-10-31,5,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-00614,CUST-2613,2023-10-31,4,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-00686,CUST-2345,2023-10-31,4,Love the product quality. The team was very professional.,SOUTH
+FB-00899,CUST-2277,2023-10-31,4,Excellent service and fast delivery. Very happy with my purchase.,EAST
+FB-00984,CUST-2606,2023-10-31,3,Good product but the ordering process was confusing.,EAST
+FB-00998,CUST-2455,2023-10-31,4,Product quality exceeded my expectations. Will buy again.,EAST
+FB-01023,CUST-1776,2023-10-31,4,Product quality exceeded my expectations. Will buy again.,EAST
+FB-01032,CUST-1738,2023-10-31,1,Delivery was extremely slow and the product arrived damaged.,EAST
+FB-01090,CUST-2998,2023-10-31,3,Delivery was slightly delayed but product is fine.,EAST
+FB-01159,CUST-1932,2023-10-31,3,Product works as expected. No major complaints.,EAST
+FB-01199,CUST-1296,2023-10-31,4,Excellent service and fast delivery. Very happy with my purchase.,EAST
+FB-01233,CUST-2159,2023-10-31,4,Quick shipping and well-packaged. Exactly as described.,WEST
+FB-01361,CUST-2529,2023-10-31,5,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01627,CUST-2802,2023-10-31,4,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01859,CUST-2946,2023-10-31,5,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-00115,CUST-2625,2023-11-01,4,Outstanding customer service resolved my query in minutes.,NORTH
+FB-00215,CUST-1642,2023-11-01,5,Outstanding customer service resolved my query in minutes.,NORTH
+FB-00250,CUST-1653,2023-11-01,3,Good product but the ordering process was confusing.,NORTH
+FB-00386,CUST-1950,2023-11-01,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00404,CUST-1045,2023-11-01,4,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00415,CUST-1210,2023-11-01,5,Delivery was on time and product works perfectly.,SOUTH
+FB-00749,CUST-2304,2023-11-01,5,Excellent service and fast delivery. Very happy with my purchase.,SOUTH
+FB-00843,CUST-2000,2023-11-01,4,Outstanding customer service resolved my query in minutes.,EAST
+FB-00863,CUST-2116,2023-11-01,4,Excellent service and fast delivery. Very happy with my purchase.,EAST
+FB-00964,CUST-2926,2023-11-01,4,Product quality exceeded my expectations. Will buy again.,EAST
+FB-01074,CUST-1348,2023-11-01,5,Delivery was on time and product works perfectly.,EAST
+FB-01139,CUST-2620,2023-11-01,3,Customer service was adequate. Issue resolved eventually.,EAST
+FB-01182,CUST-2152,2023-11-01,5,Outstanding customer service resolved my query in minutes.,EAST
+FB-01279,CUST-1027,2023-11-01,4,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01291,CUST-2332,2023-11-01,3,Delivery was slightly delayed but product is fine.,WEST
+FB-01378,CUST-1580,2023-11-01,4,Quick shipping and well-packaged. Exactly as described.,WEST
+FB-01507,CUST-1415,2023-11-01,1,I have been a loyal customer for 5 years but reconsidering my options after this experience.,WEST
+FB-01548,CUST-1346,2023-11-01,5,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01811,CUST-1001,2023-11-01,3,Average experience. Nothing stood out positively or negatively.,CENTRAL
+FB-01831,CUST-2181,2023-11-01,4,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01857,CUST-2427,2023-11-01,5,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-00094,CUST-2827,2023-11-02,3,Average experience. Nothing stood out positively or negatively.,NORTH
+FB-00173,CUST-1894,2023-11-02,4,Product quality exceeded my expectations. Will buy again.,NORTH
+FB-00210,CUST-2113,2023-11-02,5,Excellent service and fast delivery. Very happy with my purchase.,NORTH
+FB-00301,CUST-2447,2023-11-02,1,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00336,CUST-2203,2023-11-02,3,Product works as expected. No major complaints.,NORTH
+FB-00510,CUST-1139,2023-11-02,3,Customer service was adequate. Issue resolved eventually.,SOUTH
+FB-00566,CUST-1920,2023-11-02,2,Long delivery time and no tracking updates. Unacceptable.,SOUTH
+FB-00682,CUST-2918,2023-11-02,4,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-00691,CUST-2361,2023-11-02,2,Long delivery time and no tracking updates. Unacceptable.,SOUTH
+FB-00764,CUST-1807,2023-11-02,4,Delivery was on time and product works perfectly.,SOUTH
+FB-00855,CUST-2991,2023-11-02,4,Outstanding customer service resolved my query in minutes.,EAST
+FB-00898,CUST-2729,2023-11-02,1,Delivery was extremely slow and the product arrived damaged.,EAST
+FB-01027,CUST-2848,2023-11-02,4,Delivery was on time and product works perfectly.,EAST
+FB-01029,CUST-1356,2023-11-02,3,Acceptable quality for the price. Delivery was average.,EAST
+FB-01041,CUST-1288,2023-11-02,3,Customer service was adequate. Issue resolved eventually.,EAST
+FB-01059,CUST-2864,2023-11-02,5,Excellent service and fast delivery. Very happy with my purchase.,EAST
+FB-01072,CUST-1280,2023-11-02,3,Product is okay. Delivery took a bit longer than expected.,EAST
+FB-01234,CUST-1795,2023-11-02,4,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01254,CUST-1865,2023-11-02,3,Acceptable quality for the price. Delivery was average.,WEST
+FB-01551,CUST-1194,2023-11-02,4,Love the product quality. The team was very professional.,WEST
+FB-01555,CUST-1731,2023-11-02,5,Product quality exceeded my expectations. Will buy again.,WEST
+FB-01570,CUST-1997,2023-11-02,4,Delivery was on time and product works perfectly.,WEST
+FB-01579,CUST-2312,2023-11-02,2,Packaging was terrible and product was scratched on arrival.,WEST
+FB-01590,CUST-1592,2023-11-02,4,Quick shipping and well-packaged. Exactly as described.,WEST
+FB-01825,CUST-1790,2023-11-02,3,Product matches description but packaging could be improved.,CENTRAL
+FB-01828,CUST-2004,2023-11-02,4,Delivery was on time and product works perfectly.,CENTRAL
+FB-01878,CUST-1935,2023-11-02,4,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01918,CUST-2521,2023-11-02,3,Delivery was slightly delayed but product is fine.,CENTRAL
+FB-01922,CUST-1221,2023-11-02,5,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-00277,CUST-1486,2023-11-03,2,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,NORTH
+FB-00379,CUST-2425,2023-11-03,4,Delivery was on time and product works perfectly.,NORTH
+FB-00422,CUST-2148,2023-11-03,5,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00502,CUST-2432,2023-11-03,4,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00696,CUST-1265,2023-11-03,4,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00905,CUST-1365,2023-11-03,5,Product quality exceeded my expectations. Will buy again.,EAST
+FB-00931,CUST-2081,2023-11-03,4,Love the product quality. The team was very professional.,EAST
+FB-01018,CUST-1696,2023-11-03,4,Outstanding customer service resolved my query in minutes.,EAST
+FB-01200,CUST-1062,2023-11-03,2,Customer service was unhelpful and rude.,EAST
+FB-01431,CUST-2942,2023-11-03,5,Love the product quality. The team was very professional.,WEST
+FB-01486,CUST-1176,2023-11-03,5,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01617,CUST-1307,2023-11-03,5,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-01653,CUST-1066,2023-11-03,4,Love the product quality. The team was very professional.,CENTRAL
+FB-01875,CUST-1275,2023-11-03,3,Product works as expected. No major complaints.,CENTRAL
+FB-01926,CUST-2461,2023-11-03,5,Love the product quality. The team was very professional.,CENTRAL
+FB-01982,CUST-1797,2023-11-03,2,Long delivery time and no tracking updates. Unacceptable.,CENTRAL
+FB-00081,CUST-2530,2023-11-04,5,Delivery was on time and product works perfectly.,NORTH
+FB-00127,CUST-2268,2023-11-04,3,Product is okay. Delivery took a bit longer than expected.,NORTH
+FB-00376,CUST-2948,2023-11-04,2,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,NORTH
+FB-00473,CUST-2941,2023-11-04,3,Good product but the ordering process was confusing.,SOUTH
+FB-00579,CUST-2517,2023-11-04,4,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00745,CUST-2244,2023-11-04,3,Good product but the ordering process was confusing.,SOUTH
+FB-00803,CUST-2509,2023-11-04,4,Outstanding customer service resolved my query in minutes.,EAST
+FB-00983,CUST-2090,2023-11-04,4,Amazing value for money. Would definitely recommend to a friend.,EAST
+FB-01014,CUST-1566,2023-11-04,3,Product works as expected. No major complaints.,EAST
+FB-01016,CUST-1417,2023-11-04,3,Product matches description but packaging could be improved.,EAST
+FB-01046,CUST-2887,2023-11-04,4,Delivery was on time and product works perfectly.,EAST
+FB-01087,CUST-2240,2023-11-04,5,Product quality exceeded my expectations. Will buy again.,EAST
+FB-01137,CUST-1045,2023-11-04,1,I have been a loyal customer for 5 years but reconsidering my options after this experience.,EAST
+FB-01215,CUST-1495,2023-11-04,5,Delivery was on time and product works perfectly.,WEST
+FB-01320,CUST-2345,2023-11-04,5,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01367,CUST-1648,2023-11-04,4,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01464,CUST-2970,2023-11-04,5,Great experience from order to delivery. Highly recommend.,WEST
+FB-01543,CUST-1710,2023-11-04,5,Outstanding customer service resolved my query in minutes.,WEST
+FB-01630,CUST-1674,2023-11-04,5,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01824,CUST-1303,2023-11-04,5,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-00060,CUST-2208,2023-11-05,4,Excellent service and fast delivery. Very happy with my purchase.,NORTH
+FB-00335,CUST-1080,2023-11-05,3,Average experience. Nothing stood out positively or negatively.,NORTH
+FB-00661,CUST-2517,2023-11-05,3,Product matches description but packaging could be improved.,SOUTH
+FB-00719,CUST-2955,2023-11-05,1,Wrong item was delivered and the return process is a nightmare.,SOUTH
+FB-00725,CUST-2000,2023-11-05,4,Excellent service and fast delivery. Very happy with my purchase.,SOUTH
+FB-00763,CUST-2469,2023-11-05,4,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00928,CUST-2069,2023-11-05,5,Product quality exceeded my expectations. Will buy again.,EAST
+FB-01120,CUST-2273,2023-11-05,4,Delivery was on time and product works perfectly.,EAST
+FB-01312,CUST-1248,2023-11-05,4,Amazing value for money. Would definitely recommend to a friend.,WEST
+FB-01458,CUST-1284,2023-11-05,5,Love the product quality. The team was very professional.,WEST
+FB-01472,CUST-2335,2023-11-05,4,Amazing value for money. Would definitely recommend to a friend.,WEST
+FB-01483,CUST-1739,2023-11-05,4,Love the product quality. The team was very professional.,WEST
+FB-01521,CUST-2074,2023-11-05,4,Love the product quality. The team was very professional.,WEST
+FB-00078,CUST-2633,2023-11-06,5,Great experience from order to delivery. Highly recommend.,NORTH
+FB-00185,CUST-2333,2023-11-06,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00255,CUST-2160,2023-11-06,4,Delivery was on time and product works perfectly.,NORTH
+FB-00384,CUST-2420,2023-11-06,4,Outstanding customer service resolved my query in minutes.,NORTH
+FB-00398,CUST-2573,2023-11-06,2,Long delivery time and no tracking updates. Unacceptable.,NORTH
+FB-00787,CUST-2458,2023-11-06,4,Love the product quality. The team was very professional.,SOUTH
+FB-00811,CUST-1144,2023-11-06,2,Product stopped working after one week. Very frustrated.,EAST
+FB-01020,CUST-2314,2023-11-06,2,Very poor customer service. Waited 3 days for a response.,EAST
+FB-01222,CUST-1708,2023-11-06,5,Great experience from order to delivery. Highly recommend.,WEST
+FB-01256,CUST-1989,2023-11-06,4,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-00004,CUST-2192,2023-11-07,2,Long delivery time and no tracking updates. Unacceptable.,NORTH
+FB-00170,CUST-1339,2023-11-07,4,Product quality exceeded my expectations. Will buy again.,NORTH
+FB-00765,CUST-1547,2023-11-07,4,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00785,CUST-1495,2023-11-07,4,Delivery was on time and product works perfectly.,SOUTH
+FB-00791,CUST-1685,2023-11-07,5,Delivery was on time and product works perfectly.,SOUTH
+FB-00890,CUST-2924,2023-11-07,3,Acceptable quality for the price. Delivery was average.,EAST
+FB-00939,CUST-2352,2023-11-07,1,Customer service was unhelpful and rude.,EAST
+FB-01403,CUST-1588,2023-11-07,5,Quick shipping and well-packaged. Exactly as described.,WEST
+FB-01499,CUST-1791,2023-11-07,5,Quick shipping and well-packaged. Exactly as described.,WEST
+FB-01598,CUST-1981,2023-11-07,5,Outstanding customer service resolved my query in minutes.,WEST
+FB-01602,CUST-2572,2023-11-07,4,Outstanding customer service resolved my query in minutes.,CENTRAL
+FB-01613,CUST-2149,2023-11-07,5,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01713,CUST-2409,2023-11-07,3,Average experience. Nothing stood out positively or negatively.,CENTRAL
+FB-01997,CUST-1667,2023-11-07,5,Great experience from order to delivery. Highly recommend.,CENTRAL
+FB-00018,CUST-2434,2023-11-08,2,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,NORTH
+FB-00043,CUST-2481,2023-11-08,1,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,NORTH
+FB-00120,CUST-1940,2023-11-08,2,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00122,CUST-1434,2023-11-08,4,Love the product quality. The team was very professional.,NORTH
+FB-00319,CUST-2170,2023-11-08,2,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00451,CUST-1800,2023-11-08,5,Delivery was on time and product works perfectly.,SOUTH
+FB-00623,CUST-2639,2023-11-08,1,Customer service was unhelpful and rude.,SOUTH
+FB-00730,CUST-1009,2023-11-08,4,Product quality exceeded my expectations. Will buy again.,SOUTH
+FB-00830,CUST-1637,2023-11-08,3,Delivery was slightly delayed but product is fine.,EAST
+FB-00860,CUST-2367,2023-11-08,3,Product is okay. Delivery took a bit longer than expected.,EAST
+FB-00953,CUST-1367,2023-11-08,1,Product stopped working after one week. Very frustrated.,EAST
+FB-01201,CUST-1348,2023-11-08,3,Delivery was slightly delayed but product is fine.,WEST
+FB-01435,CUST-2473,2023-11-08,3,Product matches description but packaging could be improved.,WEST
+FB-01457,CUST-1501,2023-11-08,5,Love the product quality. The team was very professional.,WEST
+FB-01491,CUST-2368,2023-11-08,5,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01799,CUST-2165,2023-11-08,4,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01932,CUST-2269,2023-11-08,4,Quick shipping and well-packaged. Exactly as described.,CENTRAL
+FB-01945,CUST-1019,2023-11-08,5,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01984,CUST-2785,2023-11-08,4,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-00147,CUST-2083,2023-11-09,3,Average experience. Nothing stood out positively or negatively.,NORTH
+FB-00195,CUST-2438,2023-11-09,3,Delivery was slightly delayed but product is fine.,NORTH
+FB-00312,CUST-1629,2023-11-09,2,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00341,CUST-2596,2023-11-09,5,Excellent service and fast delivery. Very happy with my purchase.,NORTH
+FB-00448,CUST-1070,2023-11-09,4,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00525,CUST-2520,2023-11-09,5,Love the product quality. The team was very professional.,SOUTH
+FB-00558,CUST-1081,2023-11-09,4,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00740,CUST-1657,2023-11-09,5,Product quality exceeded my expectations. Will buy again.,SOUTH
+FB-00834,CUST-2298,2023-11-09,3,Delivery was slightly delayed but product is fine.,EAST
+FB-00973,CUST-1865,2023-11-09,3,Average experience. Nothing stood out positively or negatively.,EAST
+FB-01003,CUST-2755,2023-11-09,1,Product stopped working after one week. Very frustrated.,EAST
+FB-01085,CUST-1961,2023-11-09,5,Product quality exceeded my expectations. Will buy again.,EAST
+FB-01101,CUST-1778,2023-11-09,4,Outstanding customer service resolved my query in minutes.,EAST
+FB-01377,CUST-2292,2023-11-09,5,Amazing value for money. Would definitely recommend to a friend.,WEST
+FB-01527,CUST-2048,2023-11-09,4,Delivery was on time and product works perfectly.,WEST
+FB-01608,CUST-1010,2023-11-09,3,Acceptable quality for the price. Delivery was average.,CENTRAL
+FB-01635,CUST-2236,2023-11-09,4,Delivery was on time and product works perfectly.,CENTRAL
+FB-01673,CUST-2536,2023-11-09,1,Delivery was extremely slow and the product arrived damaged.,CENTRAL
+FB-01882,CUST-2078,2023-11-09,4,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-00013,CUST-2596,2023-11-10,2,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00017,CUST-1014,2023-11-10,3,Product works as expected. No major complaints.,NORTH
+FB-00203,CUST-2862,2023-11-10,2,Long delivery time and no tracking updates. Unacceptable.,NORTH
+FB-00352,CUST-2058,2023-11-10,3,Good product but the ordering process was confusing.,NORTH
+FB-00359,CUST-2380,2023-11-10,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00569,CUST-2092,2023-11-10,4,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00635,CUST-1252,2023-11-10,5,Excellent service and fast delivery. Very happy with my purchase.,SOUTH
+FB-00793,CUST-1954,2023-11-10,5,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00885,CUST-2302,2023-11-10,3,Product is okay. Delivery took a bit longer than expected.,EAST
+FB-00919,CUST-1368,2023-11-10,2,Customer service was unhelpful and rude.,EAST
+FB-01033,CUST-1952,2023-11-10,2,Packaging was terrible and product was scratched on arrival.,EAST
+FB-01197,CUST-1566,2023-11-10,3,Customer service was adequate. Issue resolved eventually.,EAST
+FB-01356,CUST-1070,2023-11-10,3,Delivery was slightly delayed but product is fine.,WEST
+FB-01582,CUST-2056,2023-11-10,1,Customer service was unhelpful and rude.,WEST
+FB-01586,CUST-2713,2023-11-10,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,WEST
+FB-01650,CUST-1793,2023-11-10,4,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01977,CUST-2195,2023-11-10,2,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,CENTRAL
+FB-00101,CUST-1082,2023-11-11,4,Delivery was on time and product works perfectly.,NORTH
+FB-00118,CUST-1648,2023-11-11,3,Good product but the ordering process was confusing.,NORTH
+FB-00154,CUST-2861,2023-11-11,3,Delivery was slightly delayed but product is fine.,NORTH
+FB-00191,CUST-1845,2023-11-11,2,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00383,CUST-1322,2023-11-11,3,Product is okay. Delivery took a bit longer than expected.,NORTH
+FB-00538,CUST-2665,2023-11-11,5,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-00656,CUST-2804,2023-11-11,3,Average experience. Nothing stood out positively or negatively.,SOUTH
+FB-00718,CUST-1263,2023-11-11,4,Product quality exceeded my expectations. Will buy again.,SOUTH
+FB-00930,CUST-1917,2023-11-11,3,Product is okay. Delivery took a bit longer than expected.,EAST
+FB-01039,CUST-1533,2023-11-11,5,Quick shipping and well-packaged. Exactly as described.,EAST
+FB-01078,CUST-1936,2023-11-11,4,Amazing value for money. Would definitely recommend to a friend.,EAST
+FB-01221,CUST-1986,2023-11-11,3,Good product but the ordering process was confusing.,WEST
+FB-01338,CUST-2588,2023-11-11,5,Quick shipping and well-packaged. Exactly as described.,WEST
+FB-01412,CUST-2129,2023-11-11,2,Wrong item was delivered and the return process is a nightmare.,WEST
+FB-01436,CUST-2754,2023-11-11,3,Delivery was slightly delayed but product is fine.,WEST
+FB-01450,CUST-1889,2023-11-11,5,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01656,CUST-1789,2023-11-11,4,Great experience from order to delivery. Highly recommend.,CENTRAL
+FB-01735,CUST-2987,2023-11-11,4,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01830,CUST-2409,2023-11-11,4,Quick shipping and well-packaged. Exactly as described.,CENTRAL
+FB-00046,CUST-2516,2023-11-12,4,Quick shipping and well-packaged. Exactly as described.,NORTH
+FB-00070,CUST-2154,2023-11-12,3,Delivery was slightly delayed but product is fine.,NORTH
+FB-00104,CUST-2727,2023-11-12,2,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,NORTH
+FB-00182,CUST-2442,2023-11-12,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00318,CUST-1751,2023-11-12,5,Amazing value for money. Would definitely recommend to a friend.,NORTH
+FB-00344,CUST-2045,2023-11-12,4,Quick shipping and well-packaged. Exactly as described.,NORTH
+FB-00837,CUST-1670,2023-11-12,4,Great experience from order to delivery. Highly recommend.,EAST
+FB-01115,CUST-2932,2023-11-12,5,Outstanding customer service resolved my query in minutes.,EAST
+FB-01164,CUST-2257,2023-11-12,5,Outstanding customer service resolved my query in minutes.,EAST
+FB-01739,CUST-1454,2023-11-12,3,Product matches description but packaging could be improved.,CENTRAL
+FB-01775,CUST-2578,2023-11-12,3,Product matches description but packaging could be improved.,CENTRAL
+FB-01888,CUST-1947,2023-11-12,5,Quick shipping and well-packaged. Exactly as described.,CENTRAL
+FB-00171,CUST-1999,2023-11-13,3,Average experience. Nothing stood out positively or negatively.,NORTH
+FB-00271,CUST-1633,2023-11-13,2,Long delivery time and no tracking updates. Unacceptable.,NORTH
+FB-00358,CUST-2473,2023-11-13,5,Quick shipping and well-packaged. Exactly as described.,NORTH
+FB-00549,CUST-1665,2023-11-13,5,Love the product quality. The team was very professional.,SOUTH
+FB-00556,CUST-2957,2023-11-13,3,Average experience. Nothing stood out positively or negatively.,SOUTH
+FB-00598,CUST-1372,2023-11-13,5,Delivery was on time and product works perfectly.,SOUTH
+FB-00680,CUST-1214,2023-11-13,2,Packaging was terrible and product was scratched on arrival.,SOUTH
+FB-00743,CUST-1217,2023-11-13,5,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-01053,CUST-1791,2023-11-13,1,Product stopped working after one week. Very frustrated.,EAST
+FB-01303,CUST-2294,2023-11-13,2,Wrong item was delivered and the return process is a nightmare.,WEST
+FB-01415,CUST-1116,2023-11-13,4,Amazing value for money. Would definitely recommend to a friend.,WEST
+FB-01428,CUST-1663,2023-11-13,5,Amazing value for money. Would definitely recommend to a friend.,WEST
+FB-01618,CUST-1509,2023-11-13,3,Good product but the ordering process was confusing.,CENTRAL
+FB-01636,CUST-2762,2023-11-13,5,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01846,CUST-2977,2023-11-13,5,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01879,CUST-2382,2023-11-13,2,Product quality is below expectations. Disappointed.,CENTRAL
+FB-01978,CUST-2714,2023-11-13,4,Delivery was on time and product works perfectly.,CENTRAL
+FB-00123,CUST-1423,2023-11-14,2,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00539,CUST-2938,2023-11-14,3,Good product but the ordering process was confusing.,SOUTH
+FB-00584,CUST-1797,2023-11-14,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,SOUTH
+FB-00911,CUST-2156,2023-11-14,5,Outstanding customer service resolved my query in minutes.,EAST
+FB-01105,CUST-2028,2023-11-14,4,Quick shipping and well-packaged. Exactly as described.,EAST
+FB-01253,CUST-2561,2023-11-14,4,Product quality exceeded my expectations. Will buy again.,WEST
+FB-01330,CUST-2218,2023-11-14,5,Delivery was on time and product works perfectly.,WEST
+FB-01481,CUST-1380,2023-11-14,3,Customer service was adequate. Issue resolved eventually.,WEST
+FB-01750,CUST-2506,2023-11-14,5,Love the product quality. The team was very professional.,CENTRAL
+FB-01761,CUST-2363,2023-11-14,2,Customer service was unhelpful and rude.,CENTRAL
+FB-01931,CUST-1868,2023-11-14,5,Great experience from order to delivery. Highly recommend.,CENTRAL
+FB-01959,CUST-1315,2023-11-14,5,Quick shipping and well-packaged. Exactly as described.,CENTRAL
+FB-00032,CUST-1076,2023-11-15,4,Product quality exceeded my expectations. Will buy again.,NORTH
+FB-00076,CUST-1076,2023-11-15,2,Long delivery time and no tracking updates. Unacceptable.,NORTH
+FB-00130,CUST-2319,2023-11-15,3,Product matches description but packaging could be improved.,NORTH
+FB-00262,CUST-2516,2023-11-15,3,Product matches description but packaging could be improved.,NORTH
+FB-00460,CUST-2659,2023-11-15,5,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00515,CUST-2849,2023-11-15,5,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00710,CUST-2842,2023-11-15,5,Delivery was on time and product works perfectly.,SOUTH
+FB-00807,CUST-1694,2023-11-15,4,Love the product quality. The team was very professional.,EAST
+FB-01095,CUST-1434,2023-11-15,3,Good product but the ordering process was confusing.,EAST
+FB-01161,CUST-1638,2023-11-15,3,Customer service was adequate. Issue resolved eventually.,EAST
+FB-01165,CUST-1414,2023-11-15,5,Product quality exceeded my expectations. Will buy again.,EAST
+FB-01228,CUST-1712,2023-11-15,5,Amazing value for money. Would definitely recommend to a friend.,WEST
+FB-01309,CUST-2026,2023-11-15,3,Acceptable quality for the price. Delivery was average.,WEST
+FB-01362,CUST-2547,2023-11-15,4,Delivery was on time and product works perfectly.,WEST
+FB-01421,CUST-1069,2023-11-15,4,Great experience from order to delivery. Highly recommend.,WEST
+FB-01705,CUST-1953,2023-11-15,3,Good product but the ordering process was confusing.,CENTRAL
+FB-01747,CUST-1608,2023-11-15,4,Love the product quality. The team was very professional.,CENTRAL
+FB-01815,CUST-1801,2023-11-15,4,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-01820,CUST-1555,2023-11-15,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,CENTRAL
+FB-00196,CUST-1826,2023-11-16,4,Outstanding customer service resolved my query in minutes.,NORTH
+FB-00347,CUST-1068,2023-11-16,3,Customer service was adequate. Issue resolved eventually.,NORTH
+FB-00491,CUST-2360,2023-11-16,3,Average experience. Nothing stood out positively or negatively.,SOUTH
+FB-00657,CUST-2006,2023-11-16,2,Packaging was terrible and product was scratched on arrival.,SOUTH
+FB-00872,CUST-2566,2023-11-16,2,Delivery was extremely slow and the product arrived damaged.,EAST
+FB-00908,CUST-1329,2023-11-16,2,Delivery was extremely slow and the product arrived damaged.,EAST
+FB-01024,CUST-2842,2023-11-16,2,Product quality is below expectations. Disappointed.,EAST
+FB-01503,CUST-2743,2023-11-16,4,Amazing value for money. Would definitely recommend to a friend.,WEST
+FB-01609,CUST-2585,2023-11-16,3,Delivery was slightly delayed but product is fine.,CENTRAL
+FB-01994,CUST-1686,2023-11-16,4,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-00049,CUST-2772,2023-11-17,1,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00098,CUST-1432,2023-11-17,2,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00150,CUST-1939,2023-11-17,3,Product is okay. Delivery took a bit longer than expected.,NORTH
+FB-00180,CUST-2366,2023-11-17,5,Amazing value for money. Would definitely recommend to a friend.,NORTH
+FB-00329,CUST-2880,2023-11-17,1,Long delivery time and no tracking updates. Unacceptable.,NORTH
+FB-00402,CUST-1950,2023-11-17,5,Product quality exceeded my expectations. Will buy again.,SOUTH
+FB-00624,CUST-1523,2023-11-17,5,Delivery was on time and product works perfectly.,SOUTH
+FB-00782,CUST-1825,2023-11-17,5,Delivery was on time and product works perfectly.,SOUTH
+FB-00820,CUST-2307,2023-11-17,1,Very poor customer service. Waited 3 days for a response.,EAST
+FB-00892,CUST-1233,2023-11-17,2,Customer service was unhelpful and rude.,EAST
+FB-00904,CUST-1052,2023-11-17,4,Quick shipping and well-packaged. Exactly as described.,EAST
+FB-01066,CUST-1289,2023-11-17,1,Long delivery time and no tracking updates. Unacceptable.,EAST
+FB-01086,CUST-1083,2023-11-17,4,Quick shipping and well-packaged. Exactly as described.,EAST
+FB-01240,CUST-2857,2023-11-17,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,WEST
+FB-01241,CUST-1305,2023-11-17,4,Delivery was on time and product works perfectly.,WEST
+FB-01267,CUST-1932,2023-11-17,4,Outstanding customer service resolved my query in minutes.,WEST
+FB-01304,CUST-1112,2023-11-17,4,Amazing value for money. Would definitely recommend to a friend.,WEST
+FB-01445,CUST-2330,2023-11-17,2,Product stopped working after one week. Very frustrated.,WEST
+FB-01665,CUST-2794,2023-11-17,3,Good product but the ordering process was confusing.,CENTRAL
+FB-00038,CUST-2587,2023-11-18,4,Quick shipping and well-packaged. Exactly as described.,NORTH
+FB-00095,CUST-1305,2023-11-18,3,Average experience. Nothing stood out positively or negatively.,NORTH
+FB-00133,CUST-2098,2023-11-18,3,Product is okay. Delivery took a bit longer than expected.,NORTH
+FB-00240,CUST-2860,2023-11-18,4,Quick shipping and well-packaged. Exactly as described.,NORTH
+FB-00387,CUST-2721,2023-11-18,4,Delivery was on time and product works perfectly.,NORTH
+FB-00400,CUST-2412,2023-11-18,3,Average experience. Nothing stood out positively or negatively.,NORTH
+FB-00407,CUST-2820,2023-11-18,5,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-00409,CUST-1431,2023-11-18,3,Product works as expected. No major complaints.,SOUTH
+FB-00414,CUST-1057,2023-11-18,1,Long delivery time and no tracking updates. Unacceptable.,SOUTH
+FB-00613,CUST-2923,2023-11-18,3,Customer service was adequate. Issue resolved eventually.,SOUTH
+FB-00667,CUST-1127,2023-11-18,5,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00831,CUST-1804,2023-11-18,4,Outstanding customer service resolved my query in minutes.,EAST
+FB-00840,CUST-1773,2023-11-18,4,Great experience from order to delivery. Highly recommend.,EAST
+FB-00903,CUST-1232,2023-11-18,4,Excellent service and fast delivery. Very happy with my purchase.,EAST
+FB-01350,CUST-2835,2023-11-18,4,Delivery was on time and product works perfectly.,WEST
+FB-01409,CUST-2541,2023-11-18,3,Product matches description but packaging could be improved.,WEST
+FB-01599,CUST-2227,2023-11-18,4,Delivery was on time and product works perfectly.,WEST
+FB-01745,CUST-1458,2023-11-18,5,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01773,CUST-2400,2023-11-18,2,Customer service was unhelpful and rude.,CENTRAL
+FB-01970,CUST-2393,2023-11-18,2,Packaging was terrible and product was scratched on arrival.,CENTRAL
+FB-00068,CUST-2429,2023-11-19,3,Product matches description but packaging could be improved.,NORTH
+FB-00157,CUST-2625,2023-11-19,4,Great experience from order to delivery. Highly recommend.,NORTH
+FB-00161,CUST-1566,2023-11-19,3,Product is okay. Delivery took a bit longer than expected.,NORTH
+FB-00218,CUST-1971,2023-11-19,1,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00450,CUST-1018,2023-11-19,5,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00487,CUST-1975,2023-11-19,3,Good product but the ordering process was confusing.,SOUTH
+FB-00592,CUST-1746,2023-11-19,5,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00742,CUST-2862,2023-11-19,4,Delivery was on time and product works perfectly.,SOUTH
+FB-00993,CUST-2569,2023-11-19,3,Customer service was adequate. Issue resolved eventually.,EAST
+FB-01177,CUST-1030,2023-11-19,3,Customer service was adequate. Issue resolved eventually.,EAST
+FB-01288,CUST-1869,2023-11-19,4,Quick shipping and well-packaged. Exactly as described.,WEST
+FB-01337,CUST-1851,2023-11-19,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,WEST
+FB-01508,CUST-1602,2023-11-19,2,Very poor customer service. Waited 3 days for a response.,WEST
+FB-01837,CUST-2254,2023-11-19,4,Delivery was on time and product works perfectly.,CENTRAL
+FB-01853,CUST-2534,2023-11-19,5,Outstanding customer service resolved my query in minutes.,CENTRAL
+FB-01891,CUST-2804,2023-11-19,5,Quick shipping and well-packaged. Exactly as described.,CENTRAL
+FB-01968,CUST-2723,2023-11-19,4,Delivery was on time and product works perfectly.,CENTRAL
+FB-01980,CUST-1412,2023-11-19,3,Average experience. Nothing stood out positively or negatively.,CENTRAL
+FB-00167,CUST-1222,2023-11-20,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00176,CUST-1891,2023-11-20,3,Product is okay. Delivery took a bit longer than expected.,NORTH
+FB-00315,CUST-2728,2023-11-20,1,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00571,CUST-1112,2023-11-20,5,Delivery was on time and product works perfectly.,SOUTH
+FB-00652,CUST-2993,2023-11-20,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,SOUTH
+FB-00687,CUST-2985,2023-11-20,4,Delivery was on time and product works perfectly.,SOUTH
+FB-00822,CUST-2163,2023-11-20,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,EAST
+FB-00848,CUST-1853,2023-11-20,2,Delivery was extremely slow and the product arrived damaged.,EAST
+FB-00864,CUST-1249,2023-11-20,4,Quick shipping and well-packaged. Exactly as described.,EAST
+FB-01008,CUST-1767,2023-11-20,5,Quick shipping and well-packaged. Exactly as described.,EAST
+FB-01067,CUST-2267,2023-11-20,5,Delivery was on time and product works perfectly.,EAST
+FB-01358,CUST-1156,2023-11-20,3,Product is okay. Delivery took a bit longer than expected.,WEST
+FB-01376,CUST-1528,2023-11-20,4,Quick shipping and well-packaged. Exactly as described.,WEST
+FB-01601,CUST-1449,2023-11-20,4,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01715,CUST-1946,2023-11-20,3,Product matches description but packaging could be improved.,CENTRAL
+FB-00021,CUST-1245,2023-11-21,5,Outstanding customer service resolved my query in minutes.,NORTH
+FB-00077,CUST-1755,2023-11-21,2,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,NORTH
+FB-00393,CUST-1535,2023-11-21,4,Great experience from order to delivery. Highly recommend.,NORTH
+FB-00561,CUST-2857,2023-11-21,3,Average experience. Nothing stood out positively or negatively.,SOUTH
+FB-00651,CUST-1789,2023-11-21,4,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-01106,CUST-1659,2023-11-21,3,Acceptable quality for the price. Delivery was average.,EAST
+FB-01353,CUST-1712,2023-11-21,5,Love the product quality. The team was very professional.,WEST
+FB-01669,CUST-2159,2023-11-21,4,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01753,CUST-2152,2023-11-21,4,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01909,CUST-1282,2023-11-21,5,Quick shipping and well-packaged. Exactly as described.,CENTRAL
+FB-01972,CUST-2345,2023-11-21,5,Quick shipping and well-packaged. Exactly as described.,CENTRAL
+FB-00313,CUST-1089,2023-11-22,3,Average experience. Nothing stood out positively or negatively.,NORTH
+FB-00536,CUST-2168,2023-11-22,5,Excellent service and fast delivery. Very happy with my purchase.,SOUTH
+FB-00681,CUST-1395,2023-11-22,5,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-00714,CUST-1871,2023-11-22,4,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00799,CUST-2617,2023-11-22,1,Delivery was extremely slow and the product arrived damaged.,SOUTH
+FB-00810,CUST-1813,2023-11-22,1,Packaging was terrible and product was scratched on arrival.,EAST
+FB-00967,CUST-2431,2023-11-22,4,Delivery was on time and product works perfectly.,EAST
+FB-01140,CUST-2813,2023-11-22,2,Very poor customer service. Waited 3 days for a response.,EAST
+FB-01277,CUST-2719,2023-11-22,2,Very poor customer service. Waited 3 days for a response.,WEST
+FB-01316,CUST-1903,2023-11-22,4,Great experience from order to delivery. Highly recommend.,WEST
+FB-01355,CUST-2207,2023-11-22,4,Amazing value for money. Would definitely recommend to a friend.,WEST
+FB-01405,CUST-1403,2023-11-22,3,Product matches description but packaging could be improved.,WEST
+FB-01519,CUST-1796,2023-11-22,3,Delivery was slightly delayed but product is fine.,WEST
+FB-01580,CUST-2140,2023-11-22,5,Quick shipping and well-packaged. Exactly as described.,WEST
+FB-01748,CUST-1274,2023-11-22,3,Product works as expected. No major complaints.,CENTRAL
+FB-00016,CUST-1460,2023-11-23,2,Long delivery time and no tracking updates. Unacceptable.,NORTH
+FB-00201,CUST-2871,2023-11-23,3,Customer service was adequate. Issue resolved eventually.,NORTH
+FB-00297,CUST-2444,2023-11-23,3,Product works as expected. No major complaints.,NORTH
+FB-00477,CUST-2168,2023-11-23,5,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00631,CUST-1355,2023-11-23,4,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00668,CUST-1626,2023-11-23,4,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-01058,CUST-1167,2023-11-23,1,Delivery was extremely slow and the product arrived damaged.,EAST
+FB-01151,CUST-1512,2023-11-23,4,Delivery was on time and product works perfectly.,EAST
+FB-01230,CUST-2712,2023-11-23,5,Delivery was on time and product works perfectly.,WEST
+FB-01265,CUST-1714,2023-11-23,4,Quick shipping and well-packaged. Exactly as described.,WEST
+FB-01396,CUST-2392,2023-11-23,4,Delivery was on time and product works perfectly.,WEST
+FB-01444,CUST-2508,2023-11-23,4,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01469,CUST-1986,2023-11-23,5,Great experience from order to delivery. Highly recommend.,WEST
+FB-01531,CUST-1607,2023-11-23,4,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01634,CUST-2180,2023-11-23,4,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-01722,CUST-1688,2023-11-23,2,Packaging was terrible and product was scratched on arrival.,CENTRAL
+FB-01813,CUST-1757,2023-11-23,5,Love the product quality. The team was very professional.,CENTRAL
+FB-01919,CUST-2368,2023-11-23,5,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01989,CUST-2238,2023-11-23,4,Great experience from order to delivery. Highly recommend.,CENTRAL
+FB-00248,CUST-2486,2023-11-24,4,Great experience from order to delivery. Highly recommend.,NORTH
+FB-00303,CUST-2992,2023-11-24,1,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,NORTH
+FB-00374,CUST-2131,2023-11-24,3,Good product but the ordering process was confusing.,NORTH
+FB-01005,CUST-1842,2023-11-24,2,Wrong item was delivered and the return process is a nightmare.,EAST
+FB-01047,CUST-1028,2023-11-24,3,Delivery was slightly delayed but product is fine.,EAST
+FB-01360,CUST-1555,2023-11-24,4,Amazing value for money. Would definitely recommend to a friend.,WEST
+FB-01550,CUST-2722,2023-11-24,4,Amazing value for money. Would definitely recommend to a friend.,WEST
+FB-01678,CUST-2489,2023-11-24,4,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01862,CUST-2820,2023-11-24,4,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01957,CUST-1799,2023-11-24,4,Quick shipping and well-packaged. Exactly as described.,CENTRAL
+FB-00057,CUST-2150,2023-11-25,3,Product is okay. Delivery took a bit longer than expected.,NORTH
+FB-00071,CUST-1627,2023-11-25,1,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,NORTH
+FB-00114,CUST-2046,2023-11-25,3,Product is okay. Delivery took a bit longer than expected.,NORTH
+FB-00461,CUST-2236,2023-11-25,2,Very poor customer service. Waited 3 days for a response.,SOUTH
+FB-00462,CUST-2548,2023-11-25,2,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,SOUTH
+FB-00543,CUST-2627,2023-11-25,1,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,SOUTH
+FB-00655,CUST-2201,2023-11-25,4,Love the product quality. The team was very professional.,SOUTH
+FB-00662,CUST-1011,2023-11-25,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,SOUTH
+FB-00699,CUST-1282,2023-11-25,5,Love the product quality. The team was very professional.,SOUTH
+FB-00701,CUST-1392,2023-11-25,5,Excellent service and fast delivery. Very happy with my purchase.,SOUTH
+FB-00736,CUST-2003,2023-11-25,4,Love the product quality. The team was very professional.,SOUTH
+FB-00959,CUST-2161,2023-11-25,4,Delivery was on time and product works perfectly.,EAST
+FB-01079,CUST-2429,2023-11-25,3,Good product but the ordering process was confusing.,EAST
+FB-01136,CUST-2481,2023-11-25,5,Great experience from order to delivery. Highly recommend.,EAST
+FB-01176,CUST-1036,2023-11-25,2,Product stopped working after one week. Very frustrated.,EAST
+FB-01198,CUST-1612,2023-11-25,3,Product works as expected. No major complaints.,EAST
+FB-01397,CUST-2747,2023-11-25,1,Product stopped working after one week. Very frustrated.,WEST
+FB-01696,CUST-2631,2023-11-25,5,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01759,CUST-1643,2023-11-25,1,Delivery was extremely slow and the product arrived damaged.,CENTRAL
+FB-00113,CUST-1170,2023-11-26,4,Amazing value for money. Would definitely recommend to a friend.,NORTH
+FB-00166,CUST-1106,2023-11-26,4,Love the product quality. The team was very professional.,NORTH
+FB-00429,CUST-1430,2023-11-26,5,Love the product quality. The team was very professional.,SOUTH
+FB-00547,CUST-1097,2023-11-26,5,Delivery was on time and product works perfectly.,SOUTH
+FB-00581,CUST-2918,2023-11-26,5,Excellent service and fast delivery. Very happy with my purchase.,SOUTH
+FB-00582,CUST-1554,2023-11-26,1,Packaging was terrible and product was scratched on arrival.,SOUTH
+FB-00647,CUST-1759,2023-11-26,5,Delivery was on time and product works perfectly.,SOUTH
+FB-00737,CUST-1527,2023-11-26,4,Product quality exceeded my expectations. Will buy again.,SOUTH
+FB-00755,CUST-1304,2023-11-26,4,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00829,CUST-2948,2023-11-26,4,Great experience from order to delivery. Highly recommend.,EAST
+FB-00968,CUST-1952,2023-11-26,3,Average experience. Nothing stood out positively or negatively.,EAST
+FB-01084,CUST-1799,2023-11-26,3,Product is okay. Delivery took a bit longer than expected.,EAST
+FB-01274,CUST-2453,2023-11-26,3,Delivery was slightly delayed but product is fine.,WEST
+FB-01331,CUST-2526,2023-11-26,4,Quick shipping and well-packaged. Exactly as described.,WEST
+FB-01347,CUST-1451,2023-11-26,3,Product is okay. Delivery took a bit longer than expected.,WEST
+FB-01493,CUST-1738,2023-11-26,2,Product stopped working after one week. Very frustrated.,WEST
+FB-01500,CUST-1611,2023-11-26,4,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01611,CUST-1990,2023-11-26,4,Great experience from order to delivery. Highly recommend.,CENTRAL
+FB-01708,CUST-1211,2023-11-26,4,Quick shipping and well-packaged. Exactly as described.,CENTRAL
+FB-01734,CUST-1787,2023-11-26,4,Delivery was on time and product works perfectly.,CENTRAL
+FB-01897,CUST-2529,2023-11-26,5,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01905,CUST-2533,2023-11-26,3,Acceptable quality for the price. Delivery was average.,CENTRAL
+FB-01940,CUST-2020,2023-11-26,3,Customer service was adequate. Issue resolved eventually.,CENTRAL
+FB-00022,CUST-1478,2023-11-27,3,Product is okay. Delivery took a bit longer than expected.,NORTH
+FB-00029,CUST-1190,2023-11-27,4,Love the product quality. The team was very professional.,NORTH
+FB-00086,CUST-2023,2023-11-27,4,Quick shipping and well-packaged. Exactly as described.,NORTH
+FB-00146,CUST-1758,2023-11-27,3,Acceptable quality for the price. Delivery was average.,NORTH
+FB-00193,CUST-1222,2023-11-27,3,Product is okay. Delivery took a bit longer than expected.,NORTH
+FB-00225,CUST-1082,2023-11-27,4,Love the product quality. The team was very professional.,NORTH
+FB-00540,CUST-1739,2023-11-27,5,Excellent service and fast delivery. Very happy with my purchase.,SOUTH
+FB-00555,CUST-1263,2023-11-27,3,Delivery was slightly delayed but product is fine.,SOUTH
+FB-00585,CUST-2717,2023-11-27,4,Delivery was on time and product works perfectly.,SOUTH
+FB-00754,CUST-1453,2023-11-27,3,Average experience. Nothing stood out positively or negatively.,SOUTH
+FB-00781,CUST-2909,2023-11-27,4,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00842,CUST-1671,2023-11-27,5,Great experience from order to delivery. Highly recommend.,EAST
+FB-00915,CUST-1822,2023-11-27,4,Product quality exceeded my expectations. Will buy again.,EAST
+FB-00935,CUST-1894,2023-11-27,4,Amazing value for money. Would definitely recommend to a friend.,EAST
+FB-00938,CUST-2333,2023-11-27,3,Customer service was adequate. Issue resolved eventually.,EAST
+FB-01142,CUST-1387,2023-11-27,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,EAST
+FB-01207,CUST-1770,2023-11-27,2,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,WEST
+FB-01357,CUST-2677,2023-11-27,3,Acceptable quality for the price. Delivery was average.,WEST
+FB-01393,CUST-2157,2023-11-27,5,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01492,CUST-1632,2023-11-27,4,Delivery was on time and product works perfectly.,WEST
+FB-01637,CUST-2938,2023-11-27,3,Delivery was slightly delayed but product is fine.,CENTRAL
+FB-01783,CUST-1505,2023-11-27,5,Outstanding customer service resolved my query in minutes.,CENTRAL
+FB-01802,CUST-2972,2023-11-27,4,Outstanding customer service resolved my query in minutes.,CENTRAL
+FB-01962,CUST-2090,2023-11-27,5,Delivery was on time and product works perfectly.,CENTRAL
+FB-00126,CUST-2844,2023-11-28,2,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00355,CUST-1404,2023-11-28,4,Outstanding customer service resolved my query in minutes.,NORTH
+FB-00943,CUST-1343,2023-11-28,4,Amazing value for money. Would definitely recommend to a friend.,EAST
+FB-00985,CUST-1358,2023-11-28,2,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,EAST
+FB-01000,CUST-2355,2023-11-28,3,Product matches description but packaging could be improved.,EAST
+FB-01013,CUST-1747,2023-11-28,1,Packaging was terrible and product was scratched on arrival.,EAST
+FB-01116,CUST-1859,2023-11-28,4,Excellent service and fast delivery. Very happy with my purchase.,EAST
+FB-01443,CUST-1655,2023-11-28,4,Outstanding customer service resolved my query in minutes.,WEST
+FB-01554,CUST-1522,2023-11-28,4,Love the product quality. The team was very professional.,WEST
+FB-01648,CUST-2356,2023-11-28,2,Product stopped working after one week. Very frustrated.,CENTRAL
+FB-01667,CUST-1440,2023-11-28,4,Quick shipping and well-packaged. Exactly as described.,CENTRAL
+FB-01854,CUST-1548,2023-11-28,3,Product works as expected. No major complaints.,CENTRAL
+FB-01993,CUST-1903,2023-11-28,4,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-00024,CUST-2611,2023-11-29,1,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00231,CUST-2635,2023-11-29,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00362,CUST-1934,2023-11-29,4,Great experience from order to delivery. Highly recommend.,NORTH
+FB-00392,CUST-2645,2023-11-29,3,Product matches description but packaging could be improved.,NORTH
+FB-00394,CUST-1581,2023-11-29,1,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00454,CUST-2018,2023-11-29,5,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00636,CUST-1030,2023-11-29,5,Product quality exceeded my expectations. Will buy again.,SOUTH
+FB-00660,CUST-1295,2023-11-29,4,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00741,CUST-1591,2023-11-29,3,Product matches description but packaging could be improved.,SOUTH
+FB-00772,CUST-1322,2023-11-29,5,Excellent service and fast delivery. Very happy with my purchase.,SOUTH
+FB-00784,CUST-2975,2023-11-29,5,Excellent service and fast delivery. Very happy with my purchase.,SOUTH
+FB-00888,CUST-2949,2023-11-29,3,Product works as expected. No major complaints.,EAST
+FB-01260,CUST-1500,2023-11-29,5,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01505,CUST-1810,2023-11-29,5,Quick shipping and well-packaged. Exactly as described.,WEST
+FB-01546,CUST-2408,2023-11-29,5,Great experience from order to delivery. Highly recommend.,WEST
+FB-01632,CUST-2754,2023-11-29,2,Packaging was terrible and product was scratched on arrival.,CENTRAL
+FB-01861,CUST-2980,2023-11-29,5,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01913,CUST-2391,2023-11-29,5,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-01983,CUST-2046,2023-11-29,5,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-00082,CUST-2309,2023-11-30,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00222,CUST-2864,2023-11-30,3,Product is okay. Delivery took a bit longer than expected.,NORTH
+FB-00252,CUST-2670,2023-11-30,4,Excellent service and fast delivery. Very happy with my purchase.,NORTH
+FB-00320,CUST-2477,2023-11-30,5,Great experience from order to delivery. Highly recommend.,NORTH
+FB-00328,CUST-1868,2023-11-30,5,Amazing value for money. Would definitely recommend to a friend.,NORTH
+FB-00520,CUST-1106,2023-11-30,5,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00576,CUST-1931,2023-11-30,2,Very poor customer service. Waited 3 days for a response.,SOUTH
+FB-00650,CUST-2673,2023-11-30,5,Delivery was on time and product works perfectly.,SOUTH
+FB-00697,CUST-2299,2023-11-30,4,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00865,CUST-1549,2023-11-30,3,Average experience. Nothing stood out positively or negatively.,EAST
+FB-01073,CUST-2315,2023-11-30,3,Good product but the ordering process was confusing.,EAST
+FB-01154,CUST-1456,2023-11-30,4,Excellent service and fast delivery. Very happy with my purchase.,EAST
+FB-01414,CUST-2665,2023-11-30,4,Delivery was on time and product works perfectly.,WEST
+FB-01490,CUST-1883,2023-11-30,3,Product works as expected. No major complaints.,WEST
+FB-01539,CUST-1655,2023-11-30,3,Product matches description but packaging could be improved.,WEST
+FB-01640,CUST-1703,2023-11-30,3,Delivery was slightly delayed but product is fine.,CENTRAL
+FB-01646,CUST-1065,2023-11-30,5,Great experience from order to delivery. Highly recommend.,CENTRAL
+FB-01870,CUST-1916,2023-11-30,5,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-00107,CUST-1520,2023-12-01,3,Average experience. Nothing stood out positively or negatively.,NORTH
+FB-00119,CUST-2485,2023-12-01,5,Product quality exceeded my expectations. Will buy again.,NORTH
+FB-00253,CUST-2016,2023-12-01,3,Product is okay. Delivery took a bit longer than expected.,NORTH
+FB-00330,CUST-2025,2023-12-01,3,Average experience. Nothing stood out positively or negatively.,NORTH
+FB-00496,CUST-1078,2023-12-01,5,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00583,CUST-1081,2023-12-01,5,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00622,CUST-2827,2023-12-01,5,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-00732,CUST-1959,2023-12-01,3,Product matches description but packaging could be improved.,SOUTH
+FB-00783,CUST-1247,2023-12-01,3,Customer service was adequate. Issue resolved eventually.,SOUTH
+FB-00924,CUST-1172,2023-12-01,5,Love the product quality. The team was very professional.,EAST
+FB-00971,CUST-1198,2023-12-01,1,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,EAST
+FB-01133,CUST-2784,2023-12-01,3,Acceptable quality for the price. Delivery was average.,EAST
+FB-01186,CUST-2690,2023-12-01,2,Customer service was unhelpful and rude.,EAST
+FB-01247,CUST-2077,2023-12-01,4,Delivery was on time and product works perfectly.,WEST
+FB-01762,CUST-1179,2023-12-01,5,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01914,CUST-2450,2023-12-01,5,Great experience from order to delivery. Highly recommend.,CENTRAL
+FB-00159,CUST-1009,2023-12-02,2,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,NORTH
+FB-00371,CUST-2370,2023-12-02,3,Product is okay. Delivery took a bit longer than expected.,NORTH
+FB-00445,CUST-2009,2023-12-02,5,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00509,CUST-1003,2023-12-02,4,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00879,CUST-1344,2023-12-02,1,Product quality is below expectations. Disappointed.,EAST
+FB-00933,CUST-2903,2023-12-02,3,Product is okay. Delivery took a bit longer than expected.,EAST
+FB-01097,CUST-2858,2023-12-02,3,Average experience. Nothing stood out positively or negatively.,EAST
+FB-01246,CUST-2188,2023-12-02,4,Outstanding customer service resolved my query in minutes.,WEST
+FB-01257,CUST-1227,2023-12-02,4,Quick shipping and well-packaged. Exactly as described.,WEST
+FB-01294,CUST-2401,2023-12-02,5,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01921,CUST-1660,2023-12-02,4,Love the product quality. The team was very professional.,CENTRAL
+FB-00514,CUST-2792,2023-12-03,2,Customer service was unhelpful and rude.,SOUTH
+FB-00591,CUST-2590,2023-12-03,3,Product matches description but packaging could be improved.,SOUTH
+FB-00611,CUST-2509,2023-12-03,2,Product stopped working after one week. Very frustrated.,SOUTH
+FB-00827,CUST-2540,2023-12-03,3,Good product but the ordering process was confusing.,EAST
+FB-00867,CUST-2012,2023-12-03,4,Quick shipping and well-packaged. Exactly as described.,EAST
+FB-01082,CUST-1644,2023-12-03,4,Amazing value for money. Would definitely recommend to a friend.,EAST
+FB-01203,CUST-1524,2023-12-03,1,Very poor customer service. Waited 3 days for a response.,WEST
+FB-01313,CUST-1905,2023-12-03,4,Outstanding customer service resolved my query in minutes.,WEST
+FB-01908,CUST-1438,2023-12-03,4,Delivery was on time and product works perfectly.,CENTRAL
+FB-00257,CUST-1774,2023-12-04,3,Delivery was slightly delayed but product is fine.,NORTH
+FB-00334,CUST-1569,2023-12-04,3,Acceptable quality for the price. Delivery was average.,NORTH
+FB-00337,CUST-2515,2023-12-04,3,Average experience. Nothing stood out positively or negatively.,NORTH
+FB-00381,CUST-1241,2023-12-04,3,Good product but the ordering process was confusing.,NORTH
+FB-00480,CUST-2502,2023-12-04,3,Product matches description but packaging could be improved.,SOUTH
+FB-00620,CUST-1489,2023-12-04,5,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-00628,CUST-2002,2023-12-04,4,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00676,CUST-1516,2023-12-04,5,Love the product quality. The team was very professional.,SOUTH
+FB-00685,CUST-2332,2023-12-04,4,Product quality exceeded my expectations. Will buy again.,SOUTH
+FB-00771,CUST-2471,2023-12-04,4,Love the product quality. The team was very professional.,SOUTH
+FB-00920,CUST-1387,2023-12-04,3,Customer service was adequate. Issue resolved eventually.,EAST
+FB-00991,CUST-2179,2023-12-04,3,Delivery was slightly delayed but product is fine.,EAST
+FB-01099,CUST-1182,2023-12-04,3,Product matches description but packaging could be improved.,EAST
+FB-01145,CUST-2417,2023-12-04,1,Packaging was terrible and product was scratched on arrival.,EAST
+FB-01149,CUST-1126,2023-12-04,3,Customer service was adequate. Issue resolved eventually.,EAST
+FB-01180,CUST-2670,2023-12-04,4,Delivery was on time and product works perfectly.,EAST
+FB-01211,CUST-2859,2023-12-04,5,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01223,CUST-2470,2023-12-04,5,Quick shipping and well-packaged. Exactly as described.,WEST
+FB-01310,CUST-2040,2023-12-04,3,Product is okay. Delivery took a bit longer than expected.,WEST
+FB-01740,CUST-2936,2023-12-04,5,Delivery was on time and product works perfectly.,CENTRAL
+FB-01803,CUST-1296,2023-12-04,3,Product matches description but packaging could be improved.,CENTRAL
+FB-01818,CUST-2899,2023-12-04,5,Delivery was on time and product works perfectly.,CENTRAL
+FB-01829,CUST-1243,2023-12-04,5,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-00085,CUST-1537,2023-12-05,3,Customer service was adequate. Issue resolved eventually.,NORTH
+FB-00172,CUST-1785,2023-12-05,1,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00568,CUST-2155,2023-12-05,5,Love the product quality. The team was very professional.,SOUTH
+FB-00607,CUST-2205,2023-12-05,4,Delivery was on time and product works perfectly.,SOUTH
+FB-00851,CUST-2782,2023-12-05,3,Product matches description but packaging could be improved.,EAST
+FB-00940,CUST-2913,2023-12-05,3,Product works as expected. No major complaints.,EAST
+FB-01278,CUST-2141,2023-12-05,5,Great experience from order to delivery. Highly recommend.,WEST
+FB-01560,CUST-1098,2023-12-05,4,Love the product quality. The team was very professional.,WEST
+FB-01720,CUST-1653,2023-12-05,4,Delivery was on time and product works perfectly.,CENTRAL
+FB-01925,CUST-2360,2023-12-05,1,Delivery was extremely slow and the product arrived damaged.,CENTRAL
+FB-01949,CUST-2777,2023-12-05,1,Product stopped working after one week. Very frustrated.,CENTRAL
+FB-00134,CUST-2652,2023-12-06,3,Product works as expected. No major complaints.,NORTH
+FB-00177,CUST-1288,2023-12-06,3,Average experience. Nothing stood out positively or negatively.,NORTH
+FB-00206,CUST-1127,2023-12-06,3,Product matches description but packaging could be improved.,NORTH
+FB-00246,CUST-1162,2023-12-06,4,Love the product quality. The team was very professional.,NORTH
+FB-00282,CUST-1287,2023-12-06,2,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,NORTH
+FB-00326,CUST-2456,2023-12-06,5,Amazing value for money. Would definitely recommend to a friend.,NORTH
+FB-00375,CUST-1168,2023-12-06,3,Customer service was adequate. Issue resolved eventually.,NORTH
+FB-00677,CUST-1703,2023-12-06,5,Love the product quality. The team was very professional.,SOUTH
+FB-00716,CUST-1075,2023-12-06,3,Customer service was adequate. Issue resolved eventually.,SOUTH
+FB-00858,CUST-1171,2023-12-06,3,Product works as expected. No major complaints.,EAST
+FB-01076,CUST-1348,2023-12-06,5,Love the product quality. The team was very professional.,EAST
+FB-01375,CUST-1430,2023-12-06,4,Love the product quality. The team was very professional.,WEST
+FB-01504,CUST-1363,2023-12-06,4,Outstanding customer service resolved my query in minutes.,WEST
+FB-01547,CUST-2263,2023-12-06,4,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01605,CUST-1894,2023-12-06,5,Quick shipping and well-packaged. Exactly as described.,CENTRAL
+FB-01743,CUST-2999,2023-12-06,2,Customer service was unhelpful and rude.,CENTRAL
+FB-01765,CUST-2798,2023-12-06,4,Love the product quality. The team was very professional.,CENTRAL
+FB-01966,CUST-1361,2023-12-06,5,Quick shipping and well-packaged. Exactly as described.,CENTRAL
+FB-00008,CUST-2536,2023-12-07,3,Product works as expected. No major complaints.,NORTH
+FB-00030,CUST-1780,2023-12-07,2,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,NORTH
+FB-00143,CUST-2743,2023-12-07,1,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,NORTH
+FB-00388,CUST-2583,2023-12-07,4,Amazing value for money. Would definitely recommend to a friend.,NORTH
+FB-00395,CUST-2752,2023-12-07,2,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00912,CUST-1340,2023-12-07,5,Quick shipping and well-packaged. Exactly as described.,EAST
+FB-01035,CUST-2633,2023-12-07,3,Customer service was adequate. Issue resolved eventually.,EAST
+FB-01192,CUST-1542,2023-12-07,5,Product quality exceeded my expectations. Will buy again.,EAST
+FB-01261,CUST-2714,2023-12-07,4,Love the product quality. The team was very professional.,WEST
+FB-01383,CUST-1139,2023-12-07,3,Product matches description but packaging could be improved.,WEST
+FB-01404,CUST-1044,2023-12-07,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,WEST
+FB-01424,CUST-2002,2023-12-07,4,Product quality exceeded my expectations. Will buy again.,WEST
+FB-01461,CUST-2748,2023-12-07,5,Great experience from order to delivery. Highly recommend.,WEST
+FB-01466,CUST-2363,2023-12-07,5,Delivery was on time and product works perfectly.,WEST
+FB-01474,CUST-1847,2023-12-07,2,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,WEST
+FB-01497,CUST-1123,2023-12-07,4,Great experience from order to delivery. Highly recommend.,WEST
+FB-01577,CUST-2511,2023-12-07,1,Wrong item was delivered and the return process is a nightmare.,WEST
+FB-01595,CUST-1808,2023-12-07,5,Outstanding customer service resolved my query in minutes.,WEST
+FB-01663,CUST-2307,2023-12-07,4,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-01668,CUST-1254,2023-12-07,4,Love the product quality. The team was very professional.,CENTRAL
+FB-01805,CUST-2160,2023-12-07,3,Delivery was slightly delayed but product is fine.,CENTRAL
+FB-01860,CUST-2694,2023-12-07,4,Delivery was on time and product works perfectly.,CENTRAL
+FB-00432,CUST-1123,2023-12-08,3,Customer service was adequate. Issue resolved eventually.,SOUTH
+FB-00602,CUST-2662,2023-12-08,4,Delivery was on time and product works perfectly.,SOUTH
+FB-00692,CUST-2339,2023-12-08,3,Product works as expected. No major complaints.,SOUTH
+FB-00826,CUST-1959,2023-12-08,3,Customer service was adequate. Issue resolved eventually.,EAST
+FB-00897,CUST-1289,2023-12-08,2,Delivery was extremely slow and the product arrived damaged.,EAST
+FB-01202,CUST-2015,2023-12-08,4,Love the product quality. The team was very professional.,WEST
+FB-01485,CUST-1652,2023-12-08,4,Quick shipping and well-packaged. Exactly as described.,WEST
+FB-01842,CUST-1849,2023-12-08,3,Average experience. Nothing stood out positively or negatively.,CENTRAL
+FB-00223,CUST-2990,2023-12-09,4,Amazing value for money. Would definitely recommend to a friend.,NORTH
+FB-00774,CUST-2888,2023-12-09,4,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-00776,CUST-1386,2023-12-09,5,Love the product quality. The team was very professional.,SOUTH
+FB-00850,CUST-1179,2023-12-09,1,Product stopped working after one week. Very frustrated.,EAST
+FB-00958,CUST-1557,2023-12-09,3,Good product but the ordering process was confusing.,EAST
+FB-01191,CUST-1767,2023-12-09,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,EAST
+FB-01308,CUST-2630,2023-12-09,5,Product quality exceeded my expectations. Will buy again.,WEST
+FB-01456,CUST-2593,2023-12-09,4,Great experience from order to delivery. Highly recommend.,WEST
+FB-01498,CUST-2742,2023-12-09,4,Love the product quality. The team was very professional.,WEST
+FB-01604,CUST-1217,2023-12-09,1,Wrong item was delivered and the return process is a nightmare.,CENTRAL
+FB-01835,CUST-2157,2023-12-09,4,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-00088,CUST-2341,2023-12-10,3,Acceptable quality for the price. Delivery was average.,NORTH
+FB-00237,CUST-2190,2023-12-10,3,Product matches description but packaging could be improved.,NORTH
+FB-00239,CUST-2649,2023-12-10,2,Long delivery time and no tracking updates. Unacceptable.,NORTH
+FB-00304,CUST-2300,2023-12-10,3,Good product but the ordering process was confusing.,NORTH
+FB-00327,CUST-2465,2023-12-10,3,Good product but the ordering process was confusing.,NORTH
+FB-00492,CUST-1335,2023-12-10,4,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00594,CUST-1056,2023-12-10,5,Love the product quality. The team was very professional.,SOUTH
+FB-00644,CUST-1856,2023-12-10,5,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00878,CUST-2216,2023-12-10,2,Very poor customer service. Waited 3 days for a response.,EAST
+FB-00932,CUST-1336,2023-12-10,3,Delivery was slightly delayed but product is fine.,EAST
+FB-01021,CUST-2294,2023-12-10,4,Outstanding customer service resolved my query in minutes.,EAST
+FB-01064,CUST-1124,2023-12-10,3,Average experience. Nothing stood out positively or negatively.,EAST
+FB-01742,CUST-1749,2023-12-10,2,Wrong item was delivered and the return process is a nightmare.,CENTRAL
+FB-01867,CUST-1004,2023-12-10,3,Customer service was adequate. Issue resolved eventually.,CENTRAL
+FB-01916,CUST-1091,2023-12-10,5,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-00061,CUST-2669,2023-12-11,1,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,NORTH
+FB-00100,CUST-2567,2023-12-11,3,Acceptable quality for the price. Delivery was average.,NORTH
+FB-00238,CUST-1450,2023-12-11,4,Product quality exceeded my expectations. Will buy again.,NORTH
+FB-00254,CUST-2482,2023-12-11,4,Outstanding customer service resolved my query in minutes.,NORTH
+FB-00517,CUST-1009,2023-12-11,5,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00518,CUST-1135,2023-12-11,4,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00618,CUST-1794,2023-12-11,4,Product quality exceeded my expectations. Will buy again.,SOUTH
+FB-00832,CUST-2409,2023-12-11,3,Delivery was slightly delayed but product is fine.,EAST
+FB-00861,CUST-2741,2023-12-11,4,Quick shipping and well-packaged. Exactly as described.,EAST
+FB-01126,CUST-1121,2023-12-11,3,Average experience. Nothing stood out positively or negatively.,EAST
+FB-01322,CUST-1625,2023-12-11,3,Customer service was adequate. Issue resolved eventually.,WEST
+FB-01395,CUST-1506,2023-12-11,4,Amazing value for money. Would definitely recommend to a friend.,WEST
+FB-01654,CUST-1901,2023-12-11,5,Delivery was on time and product works perfectly.,CENTRAL
+FB-01691,CUST-2713,2023-12-11,5,Quick shipping and well-packaged. Exactly as described.,CENTRAL
+FB-01746,CUST-2756,2023-12-11,5,Delivery was on time and product works perfectly.,CENTRAL
+FB-01847,CUST-2711,2023-12-11,5,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01964,CUST-1972,2023-12-11,5,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-00345,CUST-2858,2023-12-12,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00350,CUST-2381,2023-12-12,3,Customer service was adequate. Issue resolved eventually.,NORTH
+FB-00796,CUST-1811,2023-12-12,5,Delivery was on time and product works perfectly.,SOUTH
+FB-00970,CUST-1549,2023-12-12,3,Product is okay. Delivery took a bit longer than expected.,EAST
+FB-01019,CUST-1601,2023-12-12,3,Good product but the ordering process was confusing.,EAST
+FB-01129,CUST-1850,2023-12-12,5,Love the product quality. The team was very professional.,EAST
+FB-01235,CUST-1700,2023-12-12,4,Love the product quality. The team was very professional.,WEST
+FB-01244,CUST-2851,2023-12-12,4,Outstanding customer service resolved my query in minutes.,WEST
+FB-01556,CUST-1350,2023-12-12,4,Great experience from order to delivery. Highly recommend.,WEST
+FB-01851,CUST-1267,2023-12-12,4,Love the product quality. The team was very professional.,CENTRAL
+FB-01899,CUST-2560,2023-12-12,4,Delivery was on time and product works perfectly.,CENTRAL
+FB-00132,CUST-1409,2023-12-13,2,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,NORTH
+FB-00332,CUST-2092,2023-12-13,2,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,NORTH
+FB-00474,CUST-2141,2023-12-13,4,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00564,CUST-2758,2023-12-13,4,Product quality exceeded my expectations. Will buy again.,SOUTH
+FB-00632,CUST-2406,2023-12-13,3,Average experience. Nothing stood out positively or negatively.,SOUTH
+FB-00839,CUST-1339,2023-12-13,4,Great experience from order to delivery. Highly recommend.,EAST
+FB-01127,CUST-1702,2023-12-13,5,Product quality exceeded my expectations. Will buy again.,EAST
+FB-01379,CUST-2680,2023-12-13,5,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01382,CUST-2939,2023-12-13,4,Amazing value for money. Would definitely recommend to a friend.,WEST
+FB-01514,CUST-1577,2023-12-13,2,Very poor customer service. Waited 3 days for a response.,WEST
+FB-00001,CUST-2504,2023-12-14,4,Love the product quality. The team was very professional.,NORTH
+FB-00090,CUST-2238,2023-12-14,4,Amazing value for money. Would definitely recommend to a friend.,NORTH
+FB-00097,CUST-2971,2023-12-14,4,Quick shipping and well-packaged. Exactly as described.,NORTH
+FB-00184,CUST-2668,2023-12-14,2,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00260,CUST-2868,2023-12-14,3,Average experience. Nothing stood out positively or negatively.,NORTH
+FB-00267,CUST-1198,2023-12-14,3,Acceptable quality for the price. Delivery was average.,NORTH
+FB-00288,CUST-2942,2023-12-14,3,Acceptable quality for the price. Delivery was average.,NORTH
+FB-00340,CUST-2022,2023-12-14,4,Delivery was on time and product works perfectly.,NORTH
+FB-00416,CUST-2331,2023-12-14,4,Excellent service and fast delivery. Very happy with my purchase.,SOUTH
+FB-00457,CUST-1043,2023-12-14,3,Product matches description but packaging could be improved.,SOUTH
+FB-00534,CUST-2070,2023-12-14,5,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00586,CUST-2611,2023-12-14,3,Delivery was slightly delayed but product is fine.,SOUTH
+FB-00798,CUST-2871,2023-12-14,4,Love the product quality. The team was very professional.,SOUTH
+FB-00887,CUST-2344,2023-12-14,4,Product quality exceeded my expectations. Will buy again.,EAST
+FB-00995,CUST-1509,2023-12-14,4,Quick shipping and well-packaged. Exactly as described.,EAST
+FB-01104,CUST-1708,2023-12-14,3,Product is okay. Delivery took a bit longer than expected.,EAST
+FB-01156,CUST-1065,2023-12-14,3,Delivery was slightly delayed but product is fine.,EAST
+FB-01196,CUST-2280,2023-12-14,2,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,EAST
+FB-01232,CUST-2147,2023-12-14,3,Product is okay. Delivery took a bit longer than expected.,WEST
+FB-01449,CUST-2761,2023-12-14,3,Customer service was adequate. Issue resolved eventually.,WEST
+FB-01680,CUST-1326,2023-12-14,4,Great experience from order to delivery. Highly recommend.,CENTRAL
+FB-01764,CUST-2774,2023-12-14,3,Good product but the ordering process was confusing.,CENTRAL
+FB-01780,CUST-1344,2023-12-14,5,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01903,CUST-2609,2023-12-14,3,Average experience. Nothing stood out positively or negatively.,CENTRAL
+FB-01976,CUST-1457,2023-12-14,5,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-00040,CUST-2000,2023-12-15,2,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,NORTH
+FB-00067,CUST-2375,2023-12-15,3,Product matches description but packaging could be improved.,NORTH
+FB-00109,CUST-1826,2023-12-15,4,Quick shipping and well-packaged. Exactly as described.,NORTH
+FB-00413,CUST-1233,2023-12-15,2,Product quality is below expectations. Disappointed.,SOUTH
+FB-00596,CUST-2614,2023-12-15,3,Product works as expected. No major complaints.,SOUTH
+FB-01204,CUST-2029,2023-12-15,4,Amazing value for money. Would definitely recommend to a friend.,WEST
+FB-01238,CUST-1425,2023-12-15,4,Delivery was on time and product works perfectly.,WEST
+FB-01242,CUST-1138,2023-12-15,2,Very poor customer service. Waited 3 days for a response.,WEST
+FB-01365,CUST-2982,2023-12-15,3,Delivery was slightly delayed but product is fine.,WEST
+FB-01417,CUST-1147,2023-12-15,3,Product matches description but packaging could be improved.,WEST
+FB-01633,CUST-2559,2023-12-15,5,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01684,CUST-1530,2023-12-15,5,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01694,CUST-1385,2023-12-15,5,Great experience from order to delivery. Highly recommend.,CENTRAL
+FB-01892,CUST-2398,2023-12-15,3,Product works as expected. No major complaints.,CENTRAL
+FB-00073,CUST-2970,2023-12-16,3,Delivery was slightly delayed but product is fine.,NORTH
+FB-00270,CUST-1054,2023-12-16,3,Good product but the ordering process was confusing.,NORTH
+FB-01077,CUST-2516,2023-12-16,5,Outstanding customer service resolved my query in minutes.,EAST
+FB-01141,CUST-2080,2023-12-16,4,Amazing value for money. Would definitely recommend to a friend.,EAST
+FB-01623,CUST-1493,2023-12-16,4,Great experience from order to delivery. Highly recommend.,CENTRAL
+FB-01967,CUST-2337,2023-12-16,4,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-00031,CUST-1776,2023-12-17,3,Product works as expected. No major complaints.,NORTH
+FB-00042,CUST-2064,2023-12-17,5,Outstanding customer service resolved my query in minutes.,NORTH
+FB-00307,CUST-2164,2023-12-17,4,Amazing value for money. Would definitely recommend to a friend.,NORTH
+FB-00530,CUST-1001,2023-12-17,2,Long delivery time and no tracking updates. Unacceptable.,SOUTH
+FB-00603,CUST-2339,2023-12-17,2,Wrong item was delivered and the return process is a nightmare.,SOUTH
+FB-00664,CUST-2824,2023-12-17,3,Good product but the ordering process was confusing.,SOUTH
+FB-00825,CUST-1406,2023-12-17,1,I have been a loyal customer for 5 years but reconsidering my options after this experience.,EAST
+FB-01068,CUST-2266,2023-12-17,4,Amazing value for money. Would definitely recommend to a friend.,EAST
+FB-01153,CUST-2292,2023-12-17,2,Very poor customer service. Waited 3 days for a response.,EAST
+FB-01194,CUST-2701,2023-12-17,3,Average experience. Nothing stood out positively or negatively.,EAST
+FB-01380,CUST-2136,2023-12-17,3,Average experience. Nothing stood out positively or negatively.,WEST
+FB-01447,CUST-2988,2023-12-17,4,Quick shipping and well-packaged. Exactly as described.,WEST
+FB-01512,CUST-1639,2023-12-17,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,WEST
+FB-01563,CUST-1855,2023-12-17,4,Great experience from order to delivery. Highly recommend.,WEST
+FB-00131,CUST-2807,2023-12-18,2,Long delivery time and no tracking updates. Unacceptable.,NORTH
+FB-00433,CUST-2744,2023-12-18,5,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00463,CUST-2708,2023-12-18,4,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00523,CUST-1267,2023-12-18,5,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00575,CUST-2102,2023-12-18,4,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00854,CUST-2931,2023-12-18,2,Packaging was terrible and product was scratched on arrival.,EAST
+FB-00868,CUST-2294,2023-12-18,4,Excellent service and fast delivery. Very happy with my purchase.,EAST
+FB-01621,CUST-2549,2023-12-18,3,Product is okay. Delivery took a bit longer than expected.,CENTRAL
+FB-01781,CUST-1149,2023-12-18,5,Outstanding customer service resolved my query in minutes.,CENTRAL
+FB-00140,CUST-1534,2023-12-19,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00479,CUST-2457,2023-12-19,4,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-00501,CUST-1423,2023-12-19,4,Love the product quality. The team was very professional.,SOUTH
+FB-00554,CUST-1845,2023-12-19,4,Delivery was on time and product works perfectly.,SOUTH
+FB-00658,CUST-2174,2023-12-19,5,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-00828,CUST-2408,2023-12-19,1,Delivery was extremely slow and the product arrived damaged.,EAST
+FB-00882,CUST-1375,2023-12-19,3,Product is okay. Delivery took a bit longer than expected.,EAST
+FB-00894,CUST-1892,2023-12-19,2,Very poor customer service. Waited 3 days for a response.,EAST
+FB-00982,CUST-1122,2023-12-19,3,Product matches description but packaging could be improved.,EAST
+FB-01122,CUST-2611,2023-12-19,3,Good product but the ordering process was confusing.,EAST
+FB-01162,CUST-1678,2023-12-19,1,Wrong item was delivered and the return process is a nightmare.,EAST
+FB-01167,CUST-1782,2023-12-19,3,Product works as expected. No major complaints.,EAST
+FB-01169,CUST-2101,2023-12-19,5,Great experience from order to delivery. Highly recommend.,EAST
+FB-01189,CUST-2039,2023-12-19,3,Good product but the ordering process was confusing.,EAST
+FB-01407,CUST-2298,2023-12-19,5,Amazing value for money. Would definitely recommend to a friend.,WEST
+FB-01671,CUST-2539,2023-12-19,4,Outstanding customer service resolved my query in minutes.,CENTRAL
+FB-01725,CUST-1893,2023-12-19,1,Product stopped working after one week. Very frustrated.,CENTRAL
+FB-01871,CUST-2610,2023-12-19,5,Love the product quality. The team was very professional.,CENTRAL
+FB-01907,CUST-1179,2023-12-19,4,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-00099,CUST-1436,2023-12-20,1,Long delivery time and no tracking updates. Unacceptable.,NORTH
+FB-00316,CUST-1025,2023-12-20,3,Average experience. Nothing stood out positively or negatively.,NORTH
+FB-00342,CUST-1508,2023-12-20,4,Product quality exceeded my expectations. Will buy again.,NORTH
+FB-00464,CUST-2726,2023-12-20,5,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00532,CUST-2342,2023-12-20,5,Product quality exceeded my expectations. Will buy again.,SOUTH
+FB-00735,CUST-1973,2023-12-20,5,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00773,CUST-2736,2023-12-20,5,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-00873,CUST-1013,2023-12-20,2,Wrong item was delivered and the return process is a nightmare.,EAST
+FB-00895,CUST-1953,2023-12-20,1,I have been a loyal customer for 5 years but reconsidering my options after this experience.,EAST
+FB-00901,CUST-1580,2023-12-20,5,Product quality exceeded my expectations. Will buy again.,EAST
+FB-01093,CUST-2268,2023-12-20,3,Delivery was slightly delayed but product is fine.,EAST
+FB-01327,CUST-1703,2023-12-20,4,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01352,CUST-2187,2023-12-20,5,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01387,CUST-1735,2023-12-20,2,Very poor customer service. Waited 3 days for a response.,WEST
+FB-01538,CUST-1797,2023-12-20,4,Outstanding customer service resolved my query in minutes.,WEST
+FB-01906,CUST-2952,2023-12-20,4,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01924,CUST-1202,2023-12-20,5,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01988,CUST-2534,2023-12-20,5,Quick shipping and well-packaged. Exactly as described.,CENTRAL
+FB-00202,CUST-2422,2023-12-21,4,Product quality exceeded my expectations. Will buy again.,NORTH
+FB-00220,CUST-2335,2023-12-21,4,Amazing value for money. Would definitely recommend to a friend.,NORTH
+FB-00281,CUST-1444,2023-12-21,3,Average experience. Nothing stood out positively or negatively.,NORTH
+FB-00333,CUST-2318,2023-12-21,2,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00354,CUST-2974,2023-12-21,1,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00497,CUST-2391,2023-12-21,4,Love the product quality. The team was very professional.,SOUTH
+FB-00503,CUST-2680,2023-12-21,4,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00528,CUST-2243,2023-12-21,5,Excellent service and fast delivery. Very happy with my purchase.,SOUTH
+FB-00779,CUST-1434,2023-12-21,3,Product works as expected. No major complaints.,SOUTH
+FB-00817,CUST-1741,2023-12-21,5,Great experience from order to delivery. Highly recommend.,EAST
+FB-00847,CUST-1519,2023-12-21,3,Delivery was slightly delayed but product is fine.,EAST
+FB-00963,CUST-1631,2023-12-21,3,Average experience. Nothing stood out positively or negatively.,EAST
+FB-01043,CUST-2096,2023-12-21,5,Delivery was on time and product works perfectly.,EAST
+FB-01336,CUST-1316,2023-12-21,4,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01463,CUST-2688,2023-12-21,3,Product matches description but packaging could be improved.,WEST
+FB-01523,CUST-2093,2023-12-21,4,Amazing value for money. Would definitely recommend to a friend.,WEST
+FB-01549,CUST-1709,2023-12-21,5,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01606,CUST-2027,2023-12-21,3,Product works as expected. No major complaints.,CENTRAL
+FB-01645,CUST-2280,2023-12-21,4,Quick shipping and well-packaged. Exactly as described.,CENTRAL
+FB-01699,CUST-2573,2023-12-21,3,Good product but the ordering process was confusing.,CENTRAL
+FB-01834,CUST-2384,2023-12-21,4,Love the product quality. The team was very professional.,CENTRAL
+FB-00023,CUST-2311,2023-12-22,2,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00041,CUST-1589,2023-12-22,3,Product is okay. Delivery took a bit longer than expected.,NORTH
+FB-00310,CUST-1385,2023-12-22,3,Good product but the ordering process was confusing.,NORTH
+FB-00431,CUST-2475,2023-12-22,5,Love the product quality. The team was very professional.,SOUTH
+FB-00438,CUST-2794,2023-12-22,3,Product is okay. Delivery took a bit longer than expected.,SOUTH
+FB-00572,CUST-1938,2023-12-22,3,Delivery was slightly delayed but product is fine.,SOUTH
+FB-00720,CUST-1110,2023-12-22,5,Love the product quality. The team was very professional.,SOUTH
+FB-00824,CUST-2387,2023-12-22,4,Love the product quality. The team was very professional.,EAST
+FB-00925,CUST-1428,2023-12-22,1,Packaging was terrible and product was scratched on arrival.,EAST
+FB-01348,CUST-1409,2023-12-22,4,Quick shipping and well-packaged. Exactly as described.,WEST
+FB-01574,CUST-1987,2023-12-22,4,Love the product quality. The team was very professional.,WEST
+FB-01695,CUST-1727,2023-12-22,5,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01760,CUST-1785,2023-12-22,3,Product works as expected. No major complaints.,CENTRAL
+FB-01864,CUST-1988,2023-12-22,5,Great experience from order to delivery. Highly recommend.,CENTRAL
+FB-00456,CUST-2850,2023-12-23,4,Delivery was on time and product works perfectly.,SOUTH
+FB-00548,CUST-2011,2023-12-23,4,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-00606,CUST-1693,2023-12-23,3,Product matches description but packaging could be improved.,SOUTH
+FB-00761,CUST-2754,2023-12-23,5,Love the product quality. The team was very professional.,SOUTH
+FB-00862,CUST-2425,2023-12-23,3,Average experience. Nothing stood out positively or negatively.,EAST
+FB-01143,CUST-1368,2023-12-23,3,Product works as expected. No major complaints.,EAST
+FB-01173,CUST-1638,2023-12-23,4,Love the product quality. The team was very professional.,EAST
+FB-01289,CUST-1804,2023-12-23,5,Outstanding customer service resolved my query in minutes.,WEST
+FB-01516,CUST-2748,2023-12-23,5,Quick shipping and well-packaged. Exactly as described.,WEST
+FB-01625,CUST-2069,2023-12-23,4,Love the product quality. The team was very professional.,CENTRAL
+FB-01660,CUST-2868,2023-12-23,3,Customer service was adequate. Issue resolved eventually.,CENTRAL
+FB-01819,CUST-1596,2023-12-23,3,Delivery was slightly delayed but product is fine.,CENTRAL
+FB-01936,CUST-1369,2023-12-23,3,Customer service was adequate. Issue resolved eventually.,CENTRAL
+FB-00048,CUST-1044,2023-12-24,3,Delivery was slightly delayed but product is fine.,NORTH
+FB-00158,CUST-1296,2023-12-24,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00199,CUST-1507,2023-12-24,3,Good product but the ordering process was confusing.,NORTH
+FB-00324,CUST-1268,2023-12-24,2,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,NORTH
+FB-00346,CUST-1489,2023-12-24,3,Product matches description but packaging could be improved.,NORTH
+FB-00559,CUST-2568,2023-12-24,4,Excellent service and fast delivery. Very happy with my purchase.,SOUTH
+FB-00595,CUST-1938,2023-12-24,5,Love the product quality. The team was very professional.,SOUTH
+FB-00980,CUST-1943,2023-12-24,2,Customer service was unhelpful and rude.,EAST
+FB-01117,CUST-1169,2023-12-24,4,Love the product quality. The team was very professional.,EAST
+FB-01533,CUST-2255,2023-12-24,4,Quick shipping and well-packaged. Exactly as described.,WEST
+FB-01728,CUST-1068,2023-12-24,3,Delivery was slightly delayed but product is fine.,CENTRAL
+FB-01866,CUST-1163,2023-12-24,2,Packaging was terrible and product was scratched on arrival.,CENTRAL
+FB-01880,CUST-1219,2023-12-24,4,Love the product quality. The team was very professional.,CENTRAL
+FB-01889,CUST-1755,2023-12-24,4,Outstanding customer service resolved my query in minutes.,CENTRAL
+FB-01999,CUST-1102,2023-12-24,3,Acceptable quality for the price. Delivery was average.,CENTRAL
+FB-00160,CUST-1505,2023-12-25,3,Acceptable quality for the price. Delivery was average.,NORTH
+FB-00200,CUST-2817,2023-12-25,3,Average experience. Nothing stood out positively or negatively.,NORTH
+FB-00241,CUST-2988,2023-12-25,4,Great experience from order to delivery. Highly recommend.,NORTH
+FB-00366,CUST-2391,2023-12-25,1,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00489,CUST-2570,2023-12-25,4,Excellent service and fast delivery. Very happy with my purchase.,SOUTH
+FB-00519,CUST-1063,2023-12-25,5,Love the product quality. The team was very professional.,SOUTH
+FB-00757,CUST-1947,2023-12-25,3,Customer service was adequate. Issue resolved eventually.,SOUTH
+FB-00929,CUST-1125,2023-12-25,3,Product is okay. Delivery took a bit longer than expected.,EAST
+FB-01152,CUST-1112,2023-12-25,2,Delivery was extremely slow and the product arrived damaged.,EAST
+FB-01187,CUST-1344,2023-12-25,1,Product quality is below expectations. Disappointed.,EAST
+FB-01193,CUST-2212,2023-12-25,5,Outstanding customer service resolved my query in minutes.,EAST
+FB-01281,CUST-2036,2023-12-25,4,Great experience from order to delivery. Highly recommend.,WEST
+FB-01323,CUST-1389,2023-12-25,5,Outstanding customer service resolved my query in minutes.,WEST
+FB-01341,CUST-1002,2023-12-25,3,Product is okay. Delivery took a bit longer than expected.,WEST
+FB-01584,CUST-2920,2023-12-25,4,Amazing value for money. Would definitely recommend to a friend.,WEST
+FB-01614,CUST-1445,2023-12-25,5,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-01692,CUST-2956,2023-12-25,4,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-01784,CUST-2135,2023-12-25,5,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-01898,CUST-2076,2023-12-25,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,CENTRAL
+FB-00106,CUST-2226,2023-12-26,3,Good product but the ordering process was confusing.,NORTH
+FB-00472,CUST-1505,2023-12-26,5,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00665,CUST-2605,2023-12-26,4,Delivery was on time and product works perfectly.,SOUTH
+FB-00722,CUST-1135,2023-12-26,4,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00733,CUST-1483,2023-12-26,4,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00821,CUST-2467,2023-12-26,4,Outstanding customer service resolved my query in minutes.,EAST
+FB-00926,CUST-2937,2023-12-26,1,Customer service was unhelpful and rude.,EAST
+FB-00997,CUST-2631,2023-12-26,3,Product matches description but packaging could be improved.,EAST
+FB-01123,CUST-1522,2023-12-26,4,Excellent service and fast delivery. Very happy with my purchase.,EAST
+FB-01172,CUST-1748,2023-12-26,5,Product quality exceeded my expectations. Will buy again.,EAST
+FB-01195,CUST-1787,2023-12-26,5,Love the product quality. The team was very professional.,EAST
+FB-01216,CUST-1088,2023-12-26,3,Average experience. Nothing stood out positively or negatively.,WEST
+FB-01422,CUST-1488,2023-12-26,1,Wrong item was delivered and the return process is a nightmare.,WEST
+FB-01597,CUST-1675,2023-12-26,4,Quick shipping and well-packaged. Exactly as described.,WEST
+FB-01631,CUST-1414,2023-12-26,5,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01850,CUST-1166,2023-12-26,1,Product stopped working after one week. Very frustrated.,CENTRAL
+FB-01939,CUST-1765,2023-12-26,4,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01969,CUST-2535,2023-12-26,2,Product quality is below expectations. Disappointed.,CENTRAL
+FB-00007,CUST-1811,2023-12-27,2,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,NORTH
+FB-00036,CUST-1118,2023-12-27,3,Product works as expected. No major complaints.,NORTH
+FB-00285,CUST-2520,2023-12-27,5,Love the product quality. The team was very professional.,NORTH
+FB-00321,CUST-2403,2023-12-27,2,Long delivery time and no tracking updates. Unacceptable.,NORTH
+FB-00357,CUST-1736,2023-12-27,4,Love the product quality. The team was very professional.,NORTH
+FB-00425,CUST-2973,2023-12-27,4,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00441,CUST-2200,2023-12-27,5,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-00471,CUST-2536,2023-12-27,5,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00666,CUST-2608,2023-12-27,4,Excellent service and fast delivery. Very happy with my purchase.,SOUTH
+FB-00693,CUST-2935,2023-12-27,4,Excellent service and fast delivery. Very happy with my purchase.,SOUTH
+FB-00833,CUST-2904,2023-12-27,1,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,EAST
+FB-00988,CUST-2827,2023-12-27,4,Excellent service and fast delivery. Very happy with my purchase.,EAST
+FB-01037,CUST-2879,2023-12-27,3,Product is okay. Delivery took a bit longer than expected.,EAST
+FB-01110,CUST-2887,2023-12-27,3,Product works as expected. No major complaints.,EAST
+FB-01205,CUST-2227,2023-12-27,4,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01219,CUST-2643,2023-12-27,5,Product quality exceeded my expectations. Will buy again.,WEST
+FB-01225,CUST-2004,2023-12-27,4,Love the product quality. The team was very professional.,WEST
+FB-01394,CUST-2493,2023-12-27,3,Product matches description but packaging could be improved.,WEST
+FB-01501,CUST-2404,2023-12-27,4,Great experience from order to delivery. Highly recommend.,WEST
+FB-01517,CUST-2759,2023-12-27,1,Wrong item was delivered and the return process is a nightmare.,WEST
+FB-01639,CUST-2584,2023-12-27,4,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01704,CUST-1838,2023-12-27,4,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01804,CUST-2446,2023-12-27,5,Love the product quality. The team was very professional.,CENTRAL
+FB-00034,CUST-2983,2023-12-28,5,Quick shipping and well-packaged. Exactly as described.,NORTH
+FB-00063,CUST-2024,2023-12-28,3,Product matches description but packaging could be improved.,NORTH
+FB-00124,CUST-1141,2023-12-28,3,Good product but the ordering process was confusing.,NORTH
+FB-00229,CUST-1039,2023-12-28,4,Amazing value for money. Would definitely recommend to a friend.,NORTH
+FB-00268,CUST-2351,2023-12-28,3,Average experience. Nothing stood out positively or negatively.,NORTH
+FB-00370,CUST-1217,2023-12-28,3,Product works as expected. No major complaints.,NORTH
+FB-00527,CUST-2402,2023-12-28,4,Love the product quality. The team was very professional.,SOUTH
+FB-00663,CUST-1741,2023-12-28,2,Product stopped working after one week. Very frustrated.,SOUTH
+FB-00712,CUST-1855,2023-12-28,3,Product matches description but packaging could be improved.,SOUTH
+FB-00768,CUST-1321,2023-12-28,5,Excellent service and fast delivery. Very happy with my purchase.,SOUTH
+FB-01007,CUST-1537,2023-12-28,2,Very poor customer service. Waited 3 days for a response.,EAST
+FB-01131,CUST-2715,2023-12-28,4,Love the product quality. The team was very professional.,EAST
+FB-01170,CUST-1394,2023-12-28,3,Acceptable quality for the price. Delivery was average.,EAST
+FB-01229,CUST-1225,2023-12-28,3,Product works as expected. No major complaints.,WEST
+FB-01301,CUST-2952,2023-12-28,4,Delivery was on time and product works perfectly.,WEST
+FB-01432,CUST-1195,2023-12-28,5,Outstanding customer service resolved my query in minutes.,WEST
+FB-01455,CUST-1416,2023-12-28,3,Acceptable quality for the price. Delivery was average.,WEST
+FB-01770,CUST-1867,2023-12-28,3,Average experience. Nothing stood out positively or negatively.,CENTRAL
+FB-01927,CUST-2055,2023-12-28,4,Great experience from order to delivery. Highly recommend.,CENTRAL
+FB-00129,CUST-2212,2023-12-29,3,Good product but the ordering process was confusing.,NORTH
+FB-00278,CUST-2774,2023-12-29,3,Good product but the ordering process was confusing.,NORTH
+FB-00427,CUST-2623,2023-12-29,3,Customer service was adequate. Issue resolved eventually.,SOUTH
+FB-00511,CUST-2954,2023-12-29,5,Delivery was on time and product works perfectly.,SOUTH
+FB-00587,CUST-2844,2023-12-29,5,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00672,CUST-2115,2023-12-29,3,Acceptable quality for the price. Delivery was average.,SOUTH
+FB-00756,CUST-2162,2023-12-29,4,Love the product quality. The team was very professional.,SOUTH
+FB-00886,CUST-1016,2023-12-29,1,Very poor customer service. Waited 3 days for a response.,EAST
+FB-00989,CUST-1335,2023-12-29,3,Product is okay. Delivery took a bit longer than expected.,EAST
+FB-01236,CUST-1245,2023-12-29,4,Product quality exceeded my expectations. Will buy again.,WEST
+FB-01306,CUST-1258,2023-12-29,5,Delivery was on time and product works perfectly.,WEST
+FB-01478,CUST-2912,2023-12-29,3,Product matches description but packaging could be improved.,WEST
+FB-01624,CUST-2517,2023-12-29,4,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01664,CUST-2473,2023-12-29,4,Love the product quality. The team was very professional.,CENTRAL
+FB-01711,CUST-1366,2023-12-29,4,Great experience from order to delivery. Highly recommend.,CENTRAL
+FB-01730,CUST-1061,2023-12-29,5,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01923,CUST-2158,2023-12-29,4,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01971,CUST-2249,2023-12-29,5,Quick shipping and well-packaged. Exactly as described.,CENTRAL
+FB-01975,CUST-1808,2023-12-29,4,Outstanding customer service resolved my query in minutes.,CENTRAL
+FB-00012,CUST-1662,2023-12-30,3,Product is okay. Delivery took a bit longer than expected.,NORTH
+FB-00026,CUST-1699,2023-12-30,4,Great experience from order to delivery. Highly recommend.,NORTH
+FB-00044,CUST-1718,2023-12-30,5,Outstanding customer service resolved my query in minutes.,NORTH
+FB-00189,CUST-2421,2023-12-30,3,Acceptable quality for the price. Delivery was average.,NORTH
+FB-00221,CUST-2311,2023-12-30,3,Delivery was slightly delayed but product is fine.,NORTH
+FB-00482,CUST-2010,2023-12-30,4,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00797,CUST-1736,2023-12-30,5,Love the product quality. The team was very professional.,SOUTH
+FB-01132,CUST-1142,2023-12-30,2,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,EAST
+FB-01251,CUST-1533,2023-12-30,3,Delivery was slightly delayed but product is fine.,WEST
+FB-01299,CUST-1319,2023-12-30,3,Product works as expected. No major complaints.,WEST
+FB-01594,CUST-1411,2023-12-30,3,Product works as expected. No major complaints.,WEST
+FB-01672,CUST-2122,2023-12-30,3,Customer service was adequate. Issue resolved eventually.,CENTRAL
+FB-00039,CUST-1507,2023-12-31,4,Product quality exceeded my expectations. Will buy again.,NORTH
+FB-00138,CUST-2610,2023-12-31,1,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00363,CUST-2320,2023-12-31,5,Great experience from order to delivery. Highly recommend.,NORTH
+FB-00495,CUST-2090,2023-12-31,5,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00638,CUST-1593,2023-12-31,4,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00907,CUST-1383,2023-12-31,3,Delivery was slightly delayed but product is fine.,EAST
+FB-00941,CUST-1672,2023-12-31,1,Very poor customer service. Waited 3 days for a response.,EAST
+FB-00955,CUST-2307,2023-12-31,3,Good product but the ordering process was confusing.,EAST
+FB-00992,CUST-1401,2023-12-31,4,Outstanding customer service resolved my query in minutes.,EAST
+FB-01015,CUST-2637,2023-12-31,2,Packaging was terrible and product was scratched on arrival.,EAST
+FB-01075,CUST-1139,2023-12-31,3,Product works as expected. No major complaints.,EAST
+FB-01146,CUST-1210,2023-12-31,4,Product quality exceeded my expectations. Will buy again.,EAST
+FB-01214,CUST-2844,2023-12-31,1,Long delivery time and no tracking updates. Unacceptable.,WEST
+FB-01311,CUST-2858,2023-12-31,2,Customer service was unhelpful and rude.,WEST
+FB-01593,CUST-2750,2023-12-31,1,Delivery was extremely slow and the product arrived damaged.,WEST
+FB-01698,CUST-1400,2023-12-31,4,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01814,CUST-2015,2023-12-31,3,Delivery was slightly delayed but product is fine.,CENTRAL
+FB-01883,CUST-1466,2023-12-31,4,Quick shipping and well-packaged. Exactly as described.,CENTRAL
+FB-01900,CUST-1441,2023-12-31,4,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-01902,CUST-2267,2023-12-31,4,Love the product quality. The team was very professional.,CENTRAL
+FB-01904,CUST-1236,2023-12-31,5,Love the product quality. The team was very professional.,CENTRAL
+FB-00010,CUST-1293,2024-01-01,1,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00116,CUST-2405,2024-01-01,3,Product works as expected. No major complaints.,NORTH
+FB-00236,CUST-2542,2024-01-01,5,Quick shipping and well-packaged. Exactly as described.,NORTH
+FB-00481,CUST-1919,2024-01-01,3,Average experience. Nothing stood out positively or negatively.,SOUTH
+FB-00610,CUST-2774,2024-01-01,4,Excellent service and fast delivery. Very happy with my purchase.,SOUTH
+FB-00808,CUST-2719,2024-01-01,2,Long delivery time and no tracking updates. Unacceptable.,EAST
+FB-00893,CUST-1584,2024-01-01,4,Outstanding customer service resolved my query in minutes.,EAST
+FB-00937,CUST-2342,2024-01-01,3,Product is okay. Delivery took a bit longer than expected.,EAST
+FB-00987,CUST-2288,2024-01-01,3,Good product but the ordering process was confusing.,EAST
+FB-00996,CUST-1654,2024-01-01,5,Delivery was on time and product works perfectly.,EAST
+FB-01048,CUST-1234,2024-01-01,1,Product stopped working after one week. Very frustrated.,EAST
+FB-01157,CUST-1995,2024-01-01,5,Delivery was on time and product works perfectly.,EAST
+FB-01276,CUST-2400,2024-01-01,3,Product works as expected. No major complaints.,WEST
+FB-01326,CUST-1158,2024-01-01,3,Delivery was slightly delayed but product is fine.,WEST
+FB-01629,CUST-2712,2024-01-01,4,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01712,CUST-2167,2024-01-01,5,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01793,CUST-2424,2024-01-01,2,Customer service was unhelpful and rude.,CENTRAL
+FB-01930,CUST-2796,2024-01-01,5,Delivery was on time and product works perfectly.,CENTRAL
+FB-01941,CUST-2850,2024-01-01,3,Delivery was slightly delayed but product is fine.,CENTRAL
+FB-00174,CUST-2083,2024-01-02,3,Customer service was adequate. Issue resolved eventually.,NORTH
+FB-00406,CUST-1406,2024-01-02,3,Product works as expected. No major complaints.,SOUTH
+FB-00483,CUST-1900,2024-01-02,3,Acceptable quality for the price. Delivery was average.,SOUTH
+FB-00490,CUST-1570,2024-01-02,4,Love the product quality. The team was very professional.,SOUTH
+FB-00619,CUST-2353,2024-01-02,5,Delivery was on time and product works perfectly.,SOUTH
+FB-00630,CUST-2487,2024-01-02,5,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-00642,CUST-1227,2024-01-02,4,Delivery was on time and product works perfectly.,SOUTH
+FB-00717,CUST-1387,2024-01-02,3,Delivery was slightly delayed but product is fine.,SOUTH
+FB-00780,CUST-2054,2024-01-02,4,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-00836,CUST-2855,2024-01-02,1,I have been a loyal customer for 5 years but reconsidering my options after this experience.,EAST
+FB-00936,CUST-1102,2024-01-02,1,I have been a loyal customer for 5 years but reconsidering my options after this experience.,EAST
+FB-00999,CUST-2133,2024-01-02,4,Delivery was on time and product works perfectly.,EAST
+FB-01372,CUST-2575,2024-01-02,1,Delivery was extremely slow and the product arrived damaged.,WEST
+FB-01482,CUST-2777,2024-01-02,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,WEST
+FB-01681,CUST-1362,2024-01-02,5,Love the product quality. The team was very professional.,CENTRAL
+FB-01690,CUST-1913,2024-01-02,4,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01787,CUST-1017,2024-01-02,1,I have been a loyal customer for 5 years but reconsidering my options after this experience.,CENTRAL
+FB-00056,CUST-2614,2024-01-03,1,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00338,CUST-2322,2024-01-03,3,Acceptable quality for the price. Delivery was average.,NORTH
+FB-00426,CUST-1554,2024-01-03,3,Delivery was slightly delayed but product is fine.,SOUTH
+FB-00654,CUST-2375,2024-01-03,4,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00853,CUST-2552,2024-01-03,5,Amazing value for money. Would definitely recommend to a friend.,EAST
+FB-00962,CUST-1918,2024-01-03,4,Excellent service and fast delivery. Very happy with my purchase.,EAST
+FB-01188,CUST-1469,2024-01-03,5,Love the product quality. The team was very professional.,EAST
+FB-01266,CUST-2314,2024-01-03,4,Amazing value for money. Would definitely recommend to a friend.,WEST
+FB-01328,CUST-2592,2024-01-03,1,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,WEST
+FB-01448,CUST-2033,2024-01-03,3,Average experience. Nothing stood out positively or negatively.,WEST
+FB-01565,CUST-1978,2024-01-03,3,Product matches description but packaging could be improved.,WEST
+FB-01717,CUST-1295,2024-01-03,4,Outstanding customer service resolved my query in minutes.,CENTRAL
+FB-01778,CUST-1081,2024-01-03,5,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-01868,CUST-1506,2024-01-03,4,Great experience from order to delivery. Highly recommend.,CENTRAL
+FB-01958,CUST-2603,2024-01-03,2,Wrong item was delivered and the return process is a nightmare.,CENTRAL
+FB-00110,CUST-1595,2024-01-04,3,Average experience. Nothing stood out positively or negatively.,NORTH
+FB-00269,CUST-2886,2024-01-04,5,Product quality exceeded my expectations. Will buy again.,NORTH
+FB-00506,CUST-2577,2024-01-04,5,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-01050,CUST-1497,2024-01-04,3,Customer service was adequate. Issue resolved eventually.,EAST
+FB-01065,CUST-1542,2024-01-04,5,Outstanding customer service resolved my query in minutes.,EAST
+FB-01174,CUST-1689,2024-01-04,1,Long delivery time and no tracking updates. Unacceptable.,EAST
+FB-01218,CUST-1026,2024-01-04,4,Great experience from order to delivery. Highly recommend.,WEST
+FB-01275,CUST-1424,2024-01-04,3,Product matches description but packaging could be improved.,WEST
+FB-01298,CUST-2365,2024-01-04,2,Wrong item was delivered and the return process is a nightmare.,WEST
+FB-01390,CUST-2761,2024-01-04,1,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,WEST
+FB-01454,CUST-2529,2024-01-04,4,Delivery was on time and product works perfectly.,WEST
+FB-01566,CUST-1571,2024-01-04,4,Product quality exceeded my expectations. Will buy again.,WEST
+FB-01674,CUST-1122,2024-01-04,5,Outstanding customer service resolved my query in minutes.,CENTRAL
+FB-01858,CUST-1063,2024-01-04,3,Product matches description but packaging could be improved.,CENTRAL
+FB-01863,CUST-2966,2024-01-04,4,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01935,CUST-1319,2024-01-04,4,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-01992,CUST-2190,2024-01-04,4,Delivery was on time and product works perfectly.,CENTRAL
+FB-00273,CUST-1824,2024-01-05,3,Product is okay. Delivery took a bit longer than expected.,NORTH
+FB-00421,CUST-2533,2024-01-05,4,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00551,CUST-2178,2024-01-05,3,Customer service was adequate. Issue resolved eventually.,SOUTH
+FB-00724,CUST-1389,2024-01-05,4,Excellent service and fast delivery. Very happy with my purchase.,SOUTH
+FB-00794,CUST-1643,2024-01-05,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,SOUTH
+FB-00948,CUST-1185,2024-01-05,2,Very poor customer service. Waited 3 days for a response.,EAST
+FB-01026,CUST-1560,2024-01-05,4,Great experience from order to delivery. Highly recommend.,EAST
+FB-01119,CUST-2207,2024-01-05,4,Great experience from order to delivery. Highly recommend.,EAST
+FB-01208,CUST-2391,2024-01-05,3,Delivery was slightly delayed but product is fine.,WEST
+FB-01389,CUST-1403,2024-01-05,4,Outstanding customer service resolved my query in minutes.,WEST
+FB-01406,CUST-2415,2024-01-05,4,Quick shipping and well-packaged. Exactly as described.,WEST
+FB-01479,CUST-2046,2024-01-05,5,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01557,CUST-1600,2024-01-05,5,Great experience from order to delivery. Highly recommend.,WEST
+FB-01786,CUST-1999,2024-01-05,5,Quick shipping and well-packaged. Exactly as described.,CENTRAL
+FB-01890,CUST-1916,2024-01-05,4,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-00035,CUST-1063,2024-01-06,4,Product quality exceeded my expectations. Will buy again.,NORTH
+FB-00117,CUST-2714,2024-01-06,4,Excellent service and fast delivery. Very happy with my purchase.,NORTH
+FB-00306,CUST-1377,2024-01-06,1,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00360,CUST-2919,2024-01-06,1,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,NORTH
+FB-00368,CUST-2013,2024-01-06,1,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00405,CUST-2851,2024-01-06,4,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00626,CUST-1595,2024-01-06,5,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-00704,CUST-2243,2024-01-06,2,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,SOUTH
+FB-01031,CUST-1768,2024-01-06,4,Product quality exceeded my expectations. Will buy again.,EAST
+FB-01080,CUST-2439,2024-01-06,4,Great experience from order to delivery. Highly recommend.,EAST
+FB-01285,CUST-2030,2024-01-06,2,Long delivery time and no tracking updates. Unacceptable.,WEST
+FB-01426,CUST-1546,2024-01-06,4,Amazing value for money. Would definitely recommend to a friend.,WEST
+FB-01451,CUST-1364,2024-01-06,4,Love the product quality. The team was very professional.,WEST
+FB-01526,CUST-1156,2024-01-06,2,Delivery was extremely slow and the product arrived damaged.,WEST
+FB-01573,CUST-1097,2024-01-06,5,Quick shipping and well-packaged. Exactly as described.,WEST
+FB-01652,CUST-1632,2024-01-06,2,Very poor customer service. Waited 3 days for a response.,CENTRAL
+FB-01876,CUST-2813,2024-01-06,4,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01937,CUST-1422,2024-01-06,3,Product works as expected. No major complaints.,CENTRAL
+FB-01953,CUST-2238,2024-01-06,4,Outstanding customer service resolved my query in minutes.,CENTRAL
+FB-01996,CUST-2248,2024-01-06,5,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-00092,CUST-1297,2024-01-07,1,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00258,CUST-1257,2024-01-07,1,Long delivery time and no tracking updates. Unacceptable.,NORTH
+FB-00293,CUST-2500,2024-01-07,3,Customer service was adequate. Issue resolved eventually.,NORTH
+FB-00367,CUST-1045,2024-01-07,5,Outstanding customer service resolved my query in minutes.,NORTH
+FB-00377,CUST-1259,2024-01-07,3,Customer service was adequate. Issue resolved eventually.,NORTH
+FB-00557,CUST-1590,2024-01-07,5,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00884,CUST-2359,2024-01-07,4,Amazing value for money. Would definitely recommend to a friend.,EAST
+FB-01092,CUST-1729,2024-01-07,4,Delivery was on time and product works perfectly.,EAST
+FB-01108,CUST-1964,2024-01-07,4,Love the product quality. The team was very professional.,EAST
+FB-01190,CUST-1947,2024-01-07,2,Product quality is below expectations. Disappointed.,EAST
+FB-01268,CUST-1341,2024-01-07,5,Outstanding customer service resolved my query in minutes.,WEST
+FB-01477,CUST-1185,2024-01-07,5,Great experience from order to delivery. Highly recommend.,WEST
+FB-01679,CUST-1911,2024-01-07,5,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01732,CUST-2624,2024-01-07,5,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01877,CUST-1924,2024-01-07,3,Good product but the ordering process was confusing.,CENTRAL
+FB-01885,CUST-2458,2024-01-07,4,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01956,CUST-1594,2024-01-07,3,Product works as expected. No major complaints.,CENTRAL
+FB-01973,CUST-1220,2024-01-07,5,Delivery was on time and product works perfectly.,CENTRAL
+FB-00015,CUST-1802,2024-01-08,3,Acceptable quality for the price. Delivery was average.,NORTH
+FB-00136,CUST-1467,2024-01-08,4,Outstanding customer service resolved my query in minutes.,NORTH
+FB-00261,CUST-2252,2024-01-08,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00423,CUST-1648,2024-01-08,4,Product quality exceeded my expectations. Will buy again.,SOUTH
+FB-00446,CUST-1585,2024-01-08,4,Delivery was on time and product works perfectly.,SOUTH
+FB-00499,CUST-1906,2024-01-08,4,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-00639,CUST-2891,2024-01-08,4,Delivery was on time and product works perfectly.,SOUTH
+FB-00869,CUST-1187,2024-01-08,5,Great experience from order to delivery. Highly recommend.,EAST
+FB-00922,CUST-1479,2024-01-08,1,Product quality is below expectations. Disappointed.,EAST
+FB-01006,CUST-1554,2024-01-08,1,Very poor customer service. Waited 3 days for a response.,EAST
+FB-01335,CUST-2187,2024-01-08,3,Average experience. Nothing stood out positively or negatively.,WEST
+FB-01349,CUST-1605,2024-01-08,3,Acceptable quality for the price. Delivery was average.,WEST
+FB-01496,CUST-1303,2024-01-08,5,Love the product quality. The team was very professional.,WEST
+FB-01638,CUST-1193,2024-01-08,2,Wrong item was delivered and the return process is a nightmare.,CENTRAL
+FB-01782,CUST-1090,2024-01-08,5,Outstanding customer service resolved my query in minutes.,CENTRAL
+FB-02000,CUST-1445,2024-01-08,5,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-00128,CUST-2502,2024-01-09,2,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,NORTH
+FB-00256,CUST-1406,2024-01-09,3,Good product but the ordering process was confusing.,NORTH
+FB-00385,CUST-1460,2024-01-09,5,Excellent service and fast delivery. Very happy with my purchase.,NORTH
+FB-00401,CUST-2045,2024-01-09,3,Product matches description but packaging could be improved.,SOUTH
+FB-00476,CUST-1186,2024-01-09,5,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00504,CUST-2498,2024-01-09,3,Good product but the ordering process was confusing.,SOUTH
+FB-00565,CUST-1872,2024-01-09,5,Delivery was on time and product works perfectly.,SOUTH
+FB-00600,CUST-2106,2024-01-09,5,Excellent service and fast delivery. Very happy with my purchase.,SOUTH
+FB-00788,CUST-2329,2024-01-09,5,Delivery was on time and product works perfectly.,SOUTH
+FB-00838,CUST-1685,2024-01-09,4,Delivery was on time and product works perfectly.,EAST
+FB-00934,CUST-1477,2024-01-09,4,Outstanding customer service resolved my query in minutes.,EAST
+FB-01103,CUST-2795,2024-01-09,2,Packaging was terrible and product was scratched on arrival.,EAST
+FB-01263,CUST-1861,2024-01-09,3,Product matches description but packaging could be improved.,WEST
+FB-01559,CUST-1731,2024-01-09,5,Great experience from order to delivery. Highly recommend.,WEST
+FB-01675,CUST-1075,2024-01-09,4,Love the product quality. The team was very professional.,CENTRAL
+FB-01917,CUST-1048,2024-01-09,1,Very poor customer service. Waited 3 days for a response.,CENTRAL
+FB-00226,CUST-1366,2024-01-10,3,Product is okay. Delivery took a bit longer than expected.,NORTH
+FB-00228,CUST-2808,2024-01-10,3,Average experience. Nothing stood out positively or negatively.,NORTH
+FB-00305,CUST-2314,2024-01-10,4,Quick shipping and well-packaged. Exactly as described.,NORTH
+FB-00325,CUST-1774,2024-01-10,5,Product quality exceeded my expectations. Will buy again.,NORTH
+FB-00331,CUST-1264,2024-01-10,2,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00443,CUST-2615,2024-01-10,4,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00447,CUST-1542,2024-01-10,5,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00498,CUST-1348,2024-01-10,5,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00500,CUST-1987,2024-01-10,4,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00513,CUST-2990,2024-01-10,4,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00972,CUST-1314,2024-01-10,2,Long delivery time and no tracking updates. Unacceptable.,EAST
+FB-01286,CUST-1993,2024-01-10,5,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01386,CUST-2341,2024-01-10,5,Great experience from order to delivery. Highly recommend.,WEST
+FB-01494,CUST-2697,2024-01-10,4,Delivery was on time and product works perfectly.,WEST
+FB-01682,CUST-2535,2024-01-10,4,Great experience from order to delivery. Highly recommend.,CENTRAL
+FB-01727,CUST-2455,2024-01-10,5,Love the product quality. The team was very professional.,CENTRAL
+FB-01822,CUST-1390,2024-01-10,3,Product matches description but packaging could be improved.,CENTRAL
+FB-00074,CUST-2425,2024-01-11,4,Product quality exceeded my expectations. Will buy again.,NORTH
+FB-00137,CUST-1545,2024-01-11,2,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00217,CUST-1904,2024-01-11,1,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,NORTH
+FB-00296,CUST-2044,2024-01-11,1,Long delivery time and no tracking updates. Unacceptable.,NORTH
+FB-00364,CUST-2997,2024-01-11,2,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00391,CUST-1535,2024-01-11,2,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00859,CUST-1855,2024-01-11,2,Wrong item was delivered and the return process is a nightmare.,EAST
+FB-00916,CUST-1232,2024-01-11,3,Good product but the ordering process was confusing.,EAST
+FB-00975,CUST-2554,2024-01-11,1,Product quality is below expectations. Disappointed.,EAST
+FB-01212,CUST-1118,2024-01-11,5,Outstanding customer service resolved my query in minutes.,WEST
+FB-01420,CUST-1655,2024-01-11,4,Outstanding customer service resolved my query in minutes.,WEST
+FB-01545,CUST-1157,2024-01-11,2,Delivery was extremely slow and the product arrived damaged.,WEST
+FB-01754,CUST-2822,2024-01-11,4,Outstanding customer service resolved my query in minutes.,CENTRAL
+FB-01796,CUST-2660,2024-01-11,5,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01991,CUST-2568,2024-01-11,5,Love the product quality. The team was very professional.,CENTRAL
+FB-00234,CUST-2526,2024-01-12,4,Quick shipping and well-packaged. Exactly as described.,NORTH
+FB-00272,CUST-2763,2024-01-12,3,Acceptable quality for the price. Delivery was average.,NORTH
+FB-00453,CUST-1746,2024-01-12,4,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00841,CUST-1432,2024-01-12,5,Great experience from order to delivery. Highly recommend.,EAST
+FB-01262,CUST-1464,2024-01-12,4,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01334,CUST-1786,2024-01-12,1,Very poor customer service. Waited 3 days for a response.,WEST
+FB-01354,CUST-2005,2024-01-12,3,Acceptable quality for the price. Delivery was average.,WEST
+FB-01513,CUST-2691,2024-01-12,3,Good product but the ordering process was confusing.,WEST
+FB-01515,CUST-1888,2024-01-12,3,Customer service was adequate. Issue resolved eventually.,WEST
+FB-01643,CUST-1601,2024-01-12,3,Good product but the ordering process was confusing.,CENTRAL
+FB-01723,CUST-1787,2024-01-12,4,Great experience from order to delivery. Highly recommend.,CENTRAL
+FB-01807,CUST-2676,2024-01-12,4,Outstanding customer service resolved my query in minutes.,CENTRAL
+FB-01887,CUST-1362,2024-01-12,1,Packaging was terrible and product was scratched on arrival.,CENTRAL
+FB-00003,CUST-1969,2024-01-13,1,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,NORTH
+FB-00020,CUST-2184,2024-01-13,3,Customer service was adequate. Issue resolved eventually.,NORTH
+FB-00075,CUST-2215,2024-01-13,2,Long delivery time and no tracking updates. Unacceptable.,NORTH
+FB-00188,CUST-1444,2024-01-13,3,Product works as expected. No major complaints.,NORTH
+FB-00295,CUST-1482,2024-01-13,3,Average experience. Nothing stood out positively or negatively.,NORTH
+FB-00403,CUST-2839,2024-01-13,5,Excellent service and fast delivery. Very happy with my purchase.,SOUTH
+FB-00646,CUST-2405,2024-01-13,5,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00649,CUST-2540,2024-01-13,4,Love the product quality. The team was very professional.,SOUTH
+FB-00702,CUST-1186,2024-01-13,1,Product quality is below expectations. Disappointed.,SOUTH
+FB-00852,CUST-2029,2024-01-13,4,Delivery was on time and product works perfectly.,EAST
+FB-00990,CUST-2832,2024-01-13,4,Quick shipping and well-packaged. Exactly as described.,EAST
+FB-01733,CUST-2671,2024-01-13,5,Delivery was on time and product works perfectly.,CENTRAL
+FB-01833,CUST-2298,2024-01-13,4,Great experience from order to delivery. Highly recommend.,CENTRAL
+FB-00037,CUST-2828,2024-01-14,4,Product quality exceeded my expectations. Will buy again.,NORTH
+FB-00065,CUST-1953,2024-01-14,3,Good product but the ordering process was confusing.,NORTH
+FB-00428,CUST-2743,2024-01-14,4,Love the product quality. The team was very professional.,SOUTH
+FB-00507,CUST-1164,2024-01-14,4,Product quality exceeded my expectations. Will buy again.,SOUTH
+FB-00673,CUST-1496,2024-01-14,1,Very poor customer service. Waited 3 days for a response.,SOUTH
+FB-00695,CUST-2588,2024-01-14,5,Delivery was on time and product works perfectly.,SOUTH
+FB-00711,CUST-1352,2024-01-14,4,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00790,CUST-2922,2024-01-14,5,Product quality exceeded my expectations. Will buy again.,SOUTH
+FB-00844,CUST-2471,2024-01-14,3,Product matches description but packaging could be improved.,EAST
+FB-00876,CUST-2667,2024-01-14,3,Acceptable quality for the price. Delivery was average.,EAST
+FB-01083,CUST-2352,2024-01-14,4,Quick shipping and well-packaged. Exactly as described.,EAST
+FB-01109,CUST-1078,2024-01-14,3,Delivery was slightly delayed but product is fine.,EAST
+FB-01179,CUST-2529,2024-01-14,3,Customer service was adequate. Issue resolved eventually.,EAST
+FB-01259,CUST-2169,2024-01-14,4,Delivery was on time and product works perfectly.,WEST
+FB-01392,CUST-1130,2024-01-14,3,Product works as expected. No major complaints.,WEST
+FB-01413,CUST-1458,2024-01-14,2,Very poor customer service. Waited 3 days for a response.,WEST
+FB-01535,CUST-2862,2024-01-14,5,Delivery was on time and product works perfectly.,WEST
+FB-01536,CUST-2826,2024-01-14,3,Customer service was adequate. Issue resolved eventually.,WEST
+FB-01670,CUST-2010,2024-01-14,3,Delivery was slightly delayed but product is fine.,CENTRAL
+FB-01685,CUST-2180,2024-01-14,5,Great experience from order to delivery. Highly recommend.,CENTRAL
+FB-01689,CUST-2293,2024-01-14,4,Outstanding customer service resolved my query in minutes.,CENTRAL
+FB-01998,CUST-2995,2024-01-14,4,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-00055,CUST-2910,2024-01-15,4,Delivery was on time and product works perfectly.,NORTH
+FB-00242,CUST-2592,2024-01-15,3,Delivery was slightly delayed but product is fine.,NORTH
+FB-00294,CUST-2379,2024-01-15,1,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00424,CUST-1254,2024-01-15,4,Product quality exceeded my expectations. Will buy again.,SOUTH
+FB-00522,CUST-2741,2024-01-15,4,Product quality exceeded my expectations. Will buy again.,SOUTH
+FB-00641,CUST-1745,2024-01-15,5,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00917,CUST-2628,2024-01-15,5,Delivery was on time and product works perfectly.,EAST
+FB-01296,CUST-1064,2024-01-15,3,Good product but the ordering process was confusing.,WEST
+FB-01302,CUST-1925,2024-01-15,2,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,WEST
+FB-01325,CUST-1984,2024-01-15,4,Delivery was on time and product works perfectly.,WEST
+FB-01534,CUST-2047,2024-01-15,5,Product quality exceeded my expectations. Will buy again.,WEST
+FB-01544,CUST-2735,2024-01-15,1,Long delivery time and no tracking updates. Unacceptable.,WEST
+FB-01620,CUST-2249,2024-01-15,4,Quick shipping and well-packaged. Exactly as described.,CENTRAL
+FB-01657,CUST-2125,2024-01-15,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,CENTRAL
+FB-01886,CUST-2111,2024-01-15,4,Outstanding customer service resolved my query in minutes.,CENTRAL
+FB-01911,CUST-2810,2024-01-15,4,Outstanding customer service resolved my query in minutes.,CENTRAL
+FB-01942,CUST-2637,2024-01-15,5,Love the product quality. The team was very professional.,CENTRAL
+FB-00047,CUST-2908,2024-01-16,3,Good product but the ordering process was confusing.,NORTH
+FB-00059,CUST-1893,2024-01-16,1,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00141,CUST-1571,2024-01-16,4,Great experience from order to delivery. Highly recommend.,NORTH
+FB-00578,CUST-2800,2024-01-16,3,Delivery was slightly delayed but product is fine.,SOUTH
+FB-00689,CUST-2655,2024-01-16,5,Love the product quality. The team was very professional.,SOUTH
+FB-00902,CUST-1367,2024-01-16,3,Product matches description but packaging could be improved.,EAST
+FB-01245,CUST-2143,2024-01-16,5,Delivery was on time and product works perfectly.,WEST
+FB-01280,CUST-2407,2024-01-16,4,Love the product quality. The team was very professional.,WEST
+FB-01319,CUST-1223,2024-01-16,4,Love the product quality. The team was very professional.,WEST
+FB-01399,CUST-2836,2024-01-16,2,Wrong item was delivered and the return process is a nightmare.,WEST
+FB-01416,CUST-1832,2024-01-16,4,Amazing value for money. Would definitely recommend to a friend.,WEST
+FB-01430,CUST-2181,2024-01-16,4,Amazing value for money. Would definitely recommend to a friend.,WEST
+FB-01437,CUST-2341,2024-01-16,5,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01576,CUST-1317,2024-01-16,5,Love the product quality. The team was very professional.,WEST
+FB-01812,CUST-2483,2024-01-16,4,Delivery was on time and product works perfectly.,CENTRAL
+FB-01827,CUST-2669,2024-01-16,5,Love the product quality. The team was very professional.,CENTRAL
+FB-01856,CUST-2803,2024-01-16,5,Outstanding customer service resolved my query in minutes.,CENTRAL
+FB-01951,CUST-1986,2024-01-16,4,Delivery was on time and product works perfectly.,CENTRAL
+FB-00484,CUST-1272,2024-01-17,3,Customer service was adequate. Issue resolved eventually.,SOUTH
+FB-00813,CUST-2268,2024-01-17,4,Excellent service and fast delivery. Very happy with my purchase.,EAST
+FB-00883,CUST-2839,2024-01-17,3,Average experience. Nothing stood out positively or negatively.,EAST
+FB-00946,CUST-1242,2024-01-17,5,Quick shipping and well-packaged. Exactly as described.,EAST
+FB-01054,CUST-1159,2024-01-17,5,Outstanding customer service resolved my query in minutes.,EAST
+FB-01089,CUST-2674,2024-01-17,3,Product is okay. Delivery took a bit longer than expected.,EAST
+FB-01292,CUST-2949,2024-01-17,3,Customer service was adequate. Issue resolved eventually.,WEST
+FB-01300,CUST-1259,2024-01-17,5,Amazing value for money. Would definitely recommend to a friend.,WEST
+FB-01659,CUST-1341,2024-01-17,4,Love the product quality. The team was very professional.,CENTRAL
+FB-00011,CUST-1141,2024-01-18,5,Product quality exceeded my expectations. Will buy again.,NORTH
+FB-00149,CUST-1077,2024-01-18,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00274,CUST-2931,2024-01-18,3,Product is okay. Delivery took a bit longer than expected.,NORTH
+FB-00289,CUST-2552,2024-01-18,3,Acceptable quality for the price. Delivery was average.,NORTH
+FB-00705,CUST-1641,2024-01-18,5,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-01022,CUST-1368,2024-01-18,4,Outstanding customer service resolved my query in minutes.,EAST
+FB-01271,CUST-1445,2024-01-18,5,Great experience from order to delivery. Highly recommend.,WEST
+FB-01321,CUST-2822,2024-01-18,2,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,WEST
+FB-01324,CUST-2517,2024-01-18,3,Good product but the ordering process was confusing.,WEST
+FB-01342,CUST-2849,2024-01-18,3,Acceptable quality for the price. Delivery was average.,WEST
+FB-01346,CUST-1812,2024-01-18,4,Delivery was on time and product works perfectly.,WEST
+FB-01607,CUST-2721,2024-01-18,3,Customer service was adequate. Issue resolved eventually.,CENTRAL
+FB-01687,CUST-2633,2024-01-18,5,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01789,CUST-1676,2024-01-18,5,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01929,CUST-1991,2024-01-18,5,Outstanding customer service resolved my query in minutes.,CENTRAL
+FB-01943,CUST-2090,2024-01-18,4,Love the product quality. The team was very professional.,CENTRAL
+FB-00087,CUST-1766,2024-01-19,4,Love the product quality. The team was very professional.,NORTH
+FB-00224,CUST-1997,2024-01-19,2,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00323,CUST-2547,2024-01-19,4,Amazing value for money. Would definitely recommend to a friend.,NORTH
+FB-00637,CUST-1434,2024-01-19,3,Product is okay. Delivery took a bit longer than expected.,SOUTH
+FB-00670,CUST-2639,2024-01-19,3,Customer service was adequate. Issue resolved eventually.,SOUTH
+FB-00708,CUST-2589,2024-01-19,4,Product quality exceeded my expectations. Will buy again.,SOUTH
+FB-00727,CUST-2511,2024-01-19,4,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00789,CUST-2753,2024-01-19,5,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00969,CUST-2197,2024-01-19,3,Product matches description but packaging could be improved.,EAST
+FB-01002,CUST-1683,2024-01-19,3,Acceptable quality for the price. Delivery was average.,EAST
+FB-01049,CUST-2657,2024-01-19,4,Delivery was on time and product works perfectly.,EAST
+FB-01062,CUST-2617,2024-01-19,4,Quick shipping and well-packaged. Exactly as described.,EAST
+FB-01112,CUST-2793,2024-01-19,3,Product works as expected. No major complaints.,EAST
+FB-01231,CUST-1166,2024-01-19,4,Delivery was on time and product works perfectly.,WEST
+FB-01442,CUST-2113,2024-01-19,4,Product quality exceeded my expectations. Will buy again.,WEST
+FB-01446,CUST-2538,2024-01-19,4,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01460,CUST-1649,2024-01-19,4,Amazing value for money. Would definitely recommend to a friend.,WEST
+FB-01530,CUST-1375,2024-01-19,4,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01677,CUST-2586,2024-01-19,3,Product is okay. Delivery took a bit longer than expected.,CENTRAL
+FB-01686,CUST-2836,2024-01-19,4,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-01738,CUST-2417,2024-01-19,4,Outstanding customer service resolved my query in minutes.,CENTRAL
+FB-01810,CUST-1010,2024-01-19,5,Great experience from order to delivery. Highly recommend.,CENTRAL
+FB-01849,CUST-1181,2024-01-19,4,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01915,CUST-2660,2024-01-19,3,Product is okay. Delivery took a bit longer than expected.,CENTRAL
+FB-01974,CUST-1361,2024-01-19,4,Love the product quality. The team was very professional.,CENTRAL
+FB-01986,CUST-2568,2024-01-19,5,Quick shipping and well-packaged. Exactly as described.,CENTRAL
+FB-00019,CUST-2435,2024-01-20,1,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00045,CUST-2901,2024-01-20,3,Product matches description but packaging could be improved.,NORTH
+FB-00440,CUST-1094,2024-01-20,5,Product quality exceeded my expectations. Will buy again.,SOUTH
+FB-00601,CUST-2793,2024-01-20,4,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-00616,CUST-2495,2024-01-20,5,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-00900,CUST-2764,2024-01-20,4,Quick shipping and well-packaged. Exactly as described.,EAST
+FB-00979,CUST-2034,2024-01-20,2,Long delivery time and no tracking updates. Unacceptable.,EAST
+FB-01010,CUST-1363,2024-01-20,3,Acceptable quality for the price. Delivery was average.,EAST
+FB-01425,CUST-2218,2024-01-20,5,Great experience from order to delivery. Highly recommend.,WEST
+FB-01473,CUST-2541,2024-01-20,5,Great experience from order to delivery. Highly recommend.,WEST
+FB-01541,CUST-1115,2024-01-20,3,Customer service was adequate. Issue resolved eventually.,WEST
+FB-01710,CUST-1841,2024-01-20,5,Outstanding customer service resolved my query in minutes.,CENTRAL
+FB-01768,CUST-2654,2024-01-20,4,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-00051,CUST-2102,2024-01-21,4,Love the product quality. The team was very professional.,NORTH
+FB-00208,CUST-2698,2024-01-21,3,Product matches description but packaging could be improved.,NORTH
+FB-00343,CUST-1713,2024-01-21,3,Product works as expected. No major complaints.,NORTH
+FB-00410,CUST-1188,2024-01-21,5,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00512,CUST-2959,2024-01-21,5,Delivery was on time and product works perfectly.,SOUTH
+FB-00562,CUST-1998,2024-01-21,4,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00688,CUST-2994,2024-01-21,4,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00986,CUST-2245,2024-01-21,2,Wrong item was delivered and the return process is a nightmare.,EAST
+FB-01009,CUST-1524,2024-01-21,5,Love the product quality. The team was very professional.,EAST
+FB-01069,CUST-2035,2024-01-21,3,Product matches description but packaging could be improved.,EAST
+FB-01121,CUST-1672,2024-01-21,2,Wrong item was delivered and the return process is a nightmare.,EAST
+FB-01252,CUST-2169,2024-01-21,3,Product matches description but packaging could be improved.,WEST
+FB-01366,CUST-2719,2024-01-21,4,Great experience from order to delivery. Highly recommend.,WEST
+FB-01662,CUST-2280,2024-01-21,4,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01707,CUST-1319,2024-01-21,4,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01777,CUST-2850,2024-01-21,5,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-00233,CUST-1593,2024-01-22,1,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,NORTH
+FB-00276,CUST-2018,2024-01-22,2,Long delivery time and no tracking updates. Unacceptable.,NORTH
+FB-00283,CUST-1130,2024-01-22,3,Acceptable quality for the price. Delivery was average.,NORTH
+FB-00373,CUST-2931,2024-01-22,1,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00455,CUST-2609,2024-01-22,5,Love the product quality. The team was very professional.,SOUTH
+FB-00609,CUST-2263,2024-01-22,5,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-00690,CUST-2456,2024-01-22,5,Delivery was on time and product works perfectly.,SOUTH
+FB-00748,CUST-1426,2024-01-22,4,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00913,CUST-1343,2024-01-22,3,Good product but the ordering process was confusing.,EAST
+FB-01012,CUST-1373,2024-01-22,3,Acceptable quality for the price. Delivery was average.,EAST
+FB-01036,CUST-1984,2024-01-22,4,Great experience from order to delivery. Highly recommend.,EAST
+FB-01130,CUST-1963,2024-01-22,3,Acceptable quality for the price. Delivery was average.,EAST
+FB-01220,CUST-1790,2024-01-22,3,Product works as expected. No major complaints.,WEST
+FB-01374,CUST-2979,2024-01-22,1,Long delivery time and no tracking updates. Unacceptable.,WEST
+FB-01487,CUST-1105,2024-01-22,3,Product works as expected. No major complaints.,WEST
+FB-01567,CUST-1475,2024-01-22,4,Outstanding customer service resolved my query in minutes.,WEST
+FB-01619,CUST-1790,2024-01-22,4,Great experience from order to delivery. Highly recommend.,CENTRAL
+FB-01644,CUST-2980,2024-01-22,4,Delivery was on time and product works perfectly.,CENTRAL
+FB-01716,CUST-2738,2024-01-22,4,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01721,CUST-1559,2024-01-22,4,Great experience from order to delivery. Highly recommend.,CENTRAL
+FB-01952,CUST-1805,2024-01-22,5,Delivery was on time and product works perfectly.,CENTRAL
+FB-00144,CUST-2252,2024-01-23,4,Product quality exceeded my expectations. Will buy again.,NORTH
+FB-00389,CUST-2347,2024-01-23,2,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00526,CUST-1106,2024-01-23,5,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00567,CUST-2139,2024-01-23,5,Delivery was on time and product works perfectly.,SOUTH
+FB-00580,CUST-2898,2024-01-23,4,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00617,CUST-1633,2024-01-23,4,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00818,CUST-1638,2024-01-23,4,Quick shipping and well-packaged. Exactly as described.,EAST
+FB-00950,CUST-1875,2024-01-23,2,Product stopped working after one week. Very frustrated.,EAST
+FB-00961,CUST-1335,2024-01-23,3,Product is okay. Delivery took a bit longer than expected.,EAST
+FB-01111,CUST-1940,2024-01-23,3,Good product but the ordering process was confusing.,EAST
+FB-01144,CUST-2236,2024-01-23,2,Wrong item was delivered and the return process is a nightmare.,EAST
+FB-01206,CUST-1256,2024-01-23,5,Outstanding customer service resolved my query in minutes.,WEST
+FB-01441,CUST-1976,2024-01-23,3,Acceptable quality for the price. Delivery was average.,WEST
+FB-01470,CUST-2952,2024-01-23,3,Good product but the ordering process was confusing.,WEST
+FB-01510,CUST-2982,2024-01-23,3,Product is okay. Delivery took a bit longer than expected.,WEST
+FB-01525,CUST-1334,2024-01-23,4,Love the product quality. The team was very professional.,WEST
+FB-01542,CUST-1314,2024-01-23,3,Acceptable quality for the price. Delivery was average.,WEST
+FB-01948,CUST-2290,2024-01-23,5,Great experience from order to delivery. Highly recommend.,CENTRAL
+FB-00027,CUST-2131,2024-01-24,4,Quick shipping and well-packaged. Exactly as described.,NORTH
+FB-00178,CUST-1674,2024-01-24,3,Product works as expected. No major complaints.,NORTH
+FB-00245,CUST-1722,2024-01-24,3,Acceptable quality for the price. Delivery was average.,NORTH
+FB-00263,CUST-1334,2024-01-24,3,Product works as expected. No major complaints.,NORTH
+FB-00553,CUST-1361,2024-01-24,4,Delivery was on time and product works perfectly.,SOUTH
+FB-00942,CUST-2019,2024-01-24,2,Long delivery time and no tracking updates. Unacceptable.,EAST
+FB-00974,CUST-2909,2024-01-24,4,Amazing value for money. Would definitely recommend to a friend.,EAST
+FB-01163,CUST-1513,2024-01-24,4,Product quality exceeded my expectations. Will buy again.,EAST
+FB-01166,CUST-1221,2024-01-24,1,Product quality is below expectations. Disappointed.,EAST
+FB-01317,CUST-2041,2024-01-24,3,Product matches description but packaging could be improved.,WEST
+FB-01388,CUST-1178,2024-01-24,4,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01641,CUST-2109,2024-01-24,5,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-01808,CUST-2198,2024-01-24,5,Love the product quality. The team was very professional.,CENTRAL
+FB-01844,CUST-1473,2024-01-24,4,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-01848,CUST-1330,2024-01-24,3,Product is okay. Delivery took a bit longer than expected.,CENTRAL
+FB-00605,CUST-2682,2024-01-25,4,Delivery was on time and product works perfectly.,SOUTH
+FB-00731,CUST-1050,2024-01-25,5,Excellent service and fast delivery. Very happy with my purchase.,SOUTH
+FB-01052,CUST-2063,2024-01-25,4,Excellent service and fast delivery. Very happy with my purchase.,EAST
+FB-01060,CUST-1384,2024-01-25,4,Great experience from order to delivery. Highly recommend.,EAST
+FB-01227,CUST-1867,2024-01-25,4,Product quality exceeded my expectations. Will buy again.,WEST
+FB-01237,CUST-2769,2024-01-25,2,Wrong item was delivered and the return process is a nightmare.,WEST
+FB-01345,CUST-2554,2024-01-25,4,Delivery was on time and product works perfectly.,WEST
+FB-01524,CUST-2261,2024-01-25,4,Great experience from order to delivery. Highly recommend.,WEST
+FB-01587,CUST-1257,2024-01-25,3,Good product but the ordering process was confusing.,WEST
+FB-01714,CUST-1998,2024-01-25,5,Delivery was on time and product works perfectly.,CENTRAL
+FB-01726,CUST-2421,2024-01-25,3,Product works as expected. No major complaints.,CENTRAL
+FB-01801,CUST-1330,2024-01-25,4,Delivery was on time and product works perfectly.,CENTRAL
+FB-01947,CUST-1964,2024-01-25,4,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-00142,CUST-1235,2024-01-26,1,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00230,CUST-2980,2024-01-26,2,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00308,CUST-2766,2024-01-26,1,Long delivery time and no tracking updates. Unacceptable.,NORTH
+FB-00488,CUST-1837,2024-01-26,4,Excellent service and fast delivery. Very happy with my purchase.,SOUTH
+FB-00648,CUST-2007,2024-01-26,5,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-00674,CUST-1223,2024-01-26,3,Customer service was adequate. Issue resolved eventually.,SOUTH
+FB-00770,CUST-1339,2024-01-26,4,Delivery was on time and product works perfectly.,SOUTH
+FB-01096,CUST-2858,2024-01-26,3,Product is okay. Delivery took a bit longer than expected.,EAST
+FB-01113,CUST-2490,2024-01-26,5,Great experience from order to delivery. Highly recommend.,EAST
+FB-01283,CUST-1410,2024-01-26,5,Product quality exceeded my expectations. Will buy again.,WEST
+FB-01453,CUST-1510,2024-01-26,5,Outstanding customer service resolved my query in minutes.,WEST
+FB-01489,CUST-2853,2024-01-26,3,Product matches description but packaging could be improved.,WEST
+FB-01612,CUST-2413,2024-01-26,4,Delivery was on time and product works perfectly.,CENTRAL
+FB-01839,CUST-2361,2024-01-26,5,Delivery was on time and product works perfectly.,CENTRAL
+FB-01852,CUST-2777,2024-01-26,1,Product quality is below expectations. Disappointed.,CENTRAL
+FB-01910,CUST-2035,2024-01-26,5,Delivery was on time and product works perfectly.,CENTRAL
+FB-00163,CUST-2707,2024-01-27,2,The delivery was extremely slow and the product arrived damaged. I am reconsidering my options.,NORTH
+FB-00420,CUST-2606,2024-01-27,4,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00475,CUST-2405,2024-01-27,4,Delivery was on time and product works perfectly.,SOUTH
+FB-00478,CUST-1689,2024-01-27,4,Love the product quality. The team was very professional.,SOUTH
+FB-00640,CUST-1929,2024-01-27,5,Product quality exceeded my expectations. Will buy again.,SOUTH
+FB-00734,CUST-2923,2024-01-27,3,Good product but the ordering process was confusing.,SOUTH
+FB-00800,CUST-2609,2024-01-27,5,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-01061,CUST-2143,2024-01-27,4,Delivery was on time and product works perfectly.,EAST
+FB-01427,CUST-2357,2024-01-27,3,Delivery was slightly delayed but product is fine.,WEST
+FB-01649,CUST-2952,2024-01-27,5,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-01683,CUST-1929,2024-01-27,3,Customer service was adequate. Issue resolved eventually.,CENTRAL
+FB-01700,CUST-1593,2024-01-27,3,Product is okay. Delivery took a bit longer than expected.,CENTRAL
+FB-01756,CUST-1704,2024-01-27,5,Delivery was on time and product works perfectly.,CENTRAL
+FB-01990,CUST-1989,2024-01-27,5,Great experience from order to delivery. Highly recommend.,CENTRAL
+FB-00152,CUST-2724,2024-01-28,4,Great experience from order to delivery. Highly recommend.,NORTH
+FB-00259,CUST-2120,2024-01-28,1,I have been a loyal customer for 5 years but reconsidering my options after this experience.,NORTH
+FB-00396,CUST-2903,2024-01-28,4,Quick shipping and well-packaged. Exactly as described.,NORTH
+FB-00542,CUST-2678,2024-01-28,5,Excellent service and fast delivery. Very happy with my purchase.,SOUTH
+FB-00608,CUST-2500,2024-01-28,5,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00703,CUST-2342,2024-01-28,5,Product quality exceeded my expectations. Will buy again.,SOUTH
+FB-00857,CUST-2394,2024-01-28,5,Love the product quality. The team was very professional.,EAST
+FB-00870,CUST-1328,2024-01-28,1,Very poor customer service. Waited 3 days for a response.,EAST
+FB-00944,CUST-1497,2024-01-28,5,Great experience from order to delivery. Highly recommend.,EAST
+FB-01070,CUST-1067,2024-01-28,1,Very poor customer service. Waited 3 days for a response.,EAST
+FB-01249,CUST-1871,2024-01-28,3,Product is okay. Delivery took a bit longer than expected.,WEST
+FB-01333,CUST-2965,2024-01-28,5,Quick shipping and well-packaged. Exactly as described.,WEST
+FB-01411,CUST-1714,2024-01-28,3,Average experience. Nothing stood out positively or negatively.,WEST
+FB-01468,CUST-2188,2024-01-28,4,Outstanding customer service resolved my query in minutes.,WEST
+FB-01552,CUST-1480,2024-01-28,3,Acceptable quality for the price. Delivery was average.,WEST
+FB-01655,CUST-1921,2024-01-28,3,Product matches description but packaging could be improved.,CENTRAL
+FB-01894,CUST-1308,2024-01-28,4,Outstanding customer service resolved my query in minutes.,CENTRAL
+FB-01960,CUST-1793,2024-01-28,5,Love the product quality. The team was very professional.,CENTRAL
+FB-01987,CUST-2790,2024-01-28,5,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-00284,CUST-1724,2024-01-29,3,Good product but the ordering process was confusing.,NORTH
+FB-00351,CUST-1064,2024-01-29,3,Acceptable quality for the price. Delivery was average.,NORTH
+FB-00361,CUST-2555,2024-01-29,3,Delivery was slightly delayed but product is fine.,NORTH
+FB-00372,CUST-2828,2024-01-29,3,Average experience. Nothing stood out positively or negatively.,NORTH
+FB-00467,CUST-2369,2024-01-29,3,Good product but the ordering process was confusing.,SOUTH
+FB-00544,CUST-1580,2024-01-29,2,Long delivery time and no tracking updates. Unacceptable.,SOUTH
+FB-00721,CUST-1642,2024-01-29,5,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00759,CUST-1864,2024-01-29,5,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-01034,CUST-1755,2024-01-29,4,Product quality exceeded my expectations. Will buy again.,EAST
+FB-01158,CUST-2022,2024-01-29,4,Amazing value for money. Would definitely recommend to a friend.,EAST
+FB-01255,CUST-1009,2024-01-29,2,Product quality is below expectations. Disappointed.,WEST
+FB-01287,CUST-2658,2024-01-29,3,Delivery was slightly delayed but product is fine.,WEST
+FB-01343,CUST-2128,2024-01-29,4,Product quality exceeded my expectations. Will buy again.,WEST
+FB-01480,CUST-2776,2024-01-29,5,Delivery was on time and product works perfectly.,WEST
+FB-01511,CUST-1483,2024-01-29,3,Delivery was slightly delayed but product is fine.,WEST
+FB-01771,CUST-1405,2024-01-29,4,Delivery was on time and product works perfectly.,CENTRAL
+FB-01774,CUST-1305,2024-01-29,5,Delivery was on time and product works perfectly.,CENTRAL
+FB-01938,CUST-1476,2024-01-29,4,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
+FB-01950,CUST-1175,2024-01-29,5,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-00033,CUST-2011,2024-01-30,5,Quick shipping and well-packaged. Exactly as described.,NORTH
+FB-00162,CUST-2881,2024-01-30,4,Love the product quality. The team was very professional.,NORTH
+FB-00378,CUST-2687,2024-01-30,3,Product is okay. Delivery took a bit longer than expected.,NORTH
+FB-00466,CUST-1814,2024-01-30,3,Product works as expected. No major complaints.,SOUTH
+FB-00524,CUST-2821,2024-01-30,4,Product quality exceeded my expectations. Will buy again.,SOUTH
+FB-00546,CUST-1250,2024-01-30,4,Excellent service and fast delivery. Very happy with my purchase.,SOUTH
+FB-00573,CUST-1594,2024-01-30,3,Good product but the ordering process was confusing.,SOUTH
+FB-00589,CUST-2369,2024-01-30,5,Great experience from order to delivery. Highly recommend.,SOUTH
+FB-00590,CUST-1962,2024-01-30,4,Love the product quality. The team was very professional.,SOUTH
+FB-00739,CUST-1975,2024-01-30,4,Love the product quality. The team was very professional.,SOUTH
+FB-00966,CUST-2543,2024-01-30,3,Product works as expected. No major complaints.,EAST
+FB-01042,CUST-2852,2024-01-30,3,Good product but the ordering process was confusing.,EAST
+FB-01171,CUST-2337,2024-01-30,2,Wrong item was delivered and the return process is a nightmare.,EAST
+FB-01318,CUST-2441,2024-01-30,5,Delivery was on time and product works perfectly.,WEST
+FB-01332,CUST-1291,2024-01-30,3,Product works as expected. No major complaints.,WEST
+FB-01359,CUST-2210,2024-01-30,5,Love the product quality. The team was very professional.,WEST
+FB-01400,CUST-2600,2024-01-30,3,Product is okay. Delivery took a bit longer than expected.,WEST
+FB-01452,CUST-2043,2024-01-30,4,Excellent service and fast delivery. Very happy with my purchase.,WEST
+FB-01596,CUST-2875,2024-01-30,4,Delivery was on time and product works perfectly.,WEST
+FB-01718,CUST-1505,2024-01-30,2,Product stopped working after one week. Very frustrated.,CENTRAL
+FB-01752,CUST-2276,2024-01-30,4,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01763,CUST-2423,2024-01-30,4,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-01794,CUST-1772,2024-01-30,5,Quick shipping and well-packaged. Exactly as described.,CENTRAL
+FB-01896,CUST-2213,2024-01-30,4,Delivery was on time and product works perfectly.,CENTRAL
+FB-00069,CUST-2805,2024-01-31,2,Delivery was extremely slow and the product arrived damaged.,NORTH
+FB-00145,CUST-1439,2024-01-31,2,Long delivery time and no tracking updates. Unacceptable.,NORTH
+FB-00279,CUST-2779,2024-01-31,1,Long delivery time and no tracking updates. Unacceptable.,NORTH
+FB-00280,CUST-2810,2024-01-31,4,Great experience from order to delivery. Highly recommend.,NORTH
+FB-00322,CUST-2223,2024-01-31,3,Delivery was slightly delayed but product is fine.,NORTH
+FB-00452,CUST-1258,2024-01-31,5,Amazing value for money. Would definitely recommend to a friend.,SOUTH
+FB-00560,CUST-2397,2024-01-31,5,Outstanding customer service resolved my query in minutes.,SOUTH
+FB-00683,CUST-2449,2024-01-31,5,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00726,CUST-2557,2024-01-31,5,Quick shipping and well-packaged. Exactly as described.,SOUTH
+FB-00889,CUST-2727,2024-01-31,3,Product matches description but packaging could be improved.,EAST
+FB-01038,CUST-1696,2024-01-31,4,Great experience from order to delivery. Highly recommend.,EAST
+FB-01160,CUST-2568,2024-01-31,4,Delivery was on time and product works perfectly.,EAST
+FB-01572,CUST-2036,2024-01-31,3,Customer service was adequate. Issue resolved eventually.,WEST
+FB-01622,CUST-1429,2024-01-31,5,Love the product quality. The team was very professional.,CENTRAL
+FB-01661,CUST-2183,2024-01-31,5,Product quality exceeded my expectations. Will buy again.,CENTRAL
+FB-01702,CUST-1773,2024-01-31,2,Delivery was extremely slow and the product arrived damaged.,CENTRAL
+FB-01709,CUST-2519,2024-01-31,4,Excellent service and fast delivery. Very happy with my purchase.,CENTRAL
+FB-01795,CUST-1699,2024-01-31,5,Delivery was on time and product works perfectly.,CENTRAL
+FB-01912,CUST-2569,2024-01-31,5,Amazing value for money. Would definitely recommend to a friend.,CENTRAL
