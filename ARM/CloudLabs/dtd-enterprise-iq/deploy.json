@@ -49,25 +49,18 @@
     "storageAccountName": "[concat('labstore', variables('uniqueSuffix'))]",
     "storageContainerName": "demo",
 
-    "aiSearchName": "[concat('lab-aisearch-', variables('uniqueSuffix'))]",
+    "aiSearchName": "[concat('aisearch-', parameters('DeploymentID'))]",
 
-    "aiFoundryName": "[concat('lab-aifoundry-', variables('uniqueSuffix'))]",
-    "aiProjectName": "[concat('lab-aiproject-', variables('uniqueSuffix'))]",
-    "aiServicesName": "[concat('lab-aiservices-', variables('uniqueSuffix'))]",
+    "aiFoundryName": "[concat('aifoundry-', parameters('DeploymentID'))]",
+    "aiProjectName": "[concat('aiproject-', parameters('DeploymentID'))]",
+    "aiServicesName": "[concat('aiservices-', parameters('DeploymentID'))]",
 
-    "fabricCapacityName": "[concat('labfabric', variables('uniqueSuffix'))]",
-
-    "roleAIUser": "53ca3a72-cc98-4b26-a2b6-069c3e70e879",
-    "roleAIDeveloper": "64702f94-c441-49e6-a78b-ef80e0188fee",
-    "roleStorageBlobDataContributor": "ba92f5b4-2d11-453d-a403-e96b0029c9fe",
-    "roleCognitiveServicesOpenAIContributor": "a001fd3d-188f-4b5d-821b-7da978bf7442",
-    "roleSearchIndexDataContributor": "8ebe5a00-799e-43f5-93ac-243d3dce84a7",
-    "roleSearchServiceContributor": "7ca78c08-252a-4471-8644-bb5ff32d4ba0"
+    "fabricCapacityName": "[concat('fabric', parameters('DeploymentID'))]"
   },
   "resources": [
     {
       "type": "Microsoft.Network/virtualNetworks",
-      "apiVersion": "2022-09-01",
+      "apiVersion": "2017-04-01",
       "name": "[variables('virtualNetworkName')]",
       "location": "[variables('location')]",
       "properties": {
@@ -104,7 +97,7 @@
     },
     {
       "type": "Microsoft.Network/networkSecurityGroups",
-      "apiVersion": "2022-09-01",
+      "apiVersion": "2017-06-01",
       "name": "[variables('networkSecurityGroupName')]",
       "location": "[variables('location')]",
       "properties": {
@@ -127,7 +120,7 @@
     },
     {
       "type": "Microsoft.Network/networkInterfaces",
-      "apiVersion": "2022-09-01",
+      "apiVersion": "2016-09-01",
       "name": "[variables('networkInterfaceName')]",
       "location": "[variables('location')]",
       "dependsOn": [
@@ -157,7 +150,7 @@
     },
     {
       "type": "Microsoft.Compute/virtualMachines",
-      "apiVersion": "2023-03-01",
+      "apiVersion": "2017-03-30",
       "name": "[variables('vmName')]",
       "location": "[variables('location')]",
       "dependsOn": [
@@ -202,7 +195,7 @@
     },
     {
       "type": "Microsoft.Compute/virtualMachines/extensions",
-      "apiVersion": "2023-03-01",
+      "apiVersion": "2018-06-01",
       "name": "[concat(variables('vmName'), '/winExtension')]",
       "location": "[variables('location')]",
       "comments": "CloudLabs setup script",
@@ -231,7 +224,7 @@
 
     {
       "type": "Microsoft.Storage/storageAccounts",
-      "apiVersion": "2023-01-01",
+      "apiVersion": "2022-09-01",
       "name": "[variables('storageAccountName')]",
       "location": "[variables('location')]",
       "sku": {
@@ -239,7 +232,6 @@
       },
       "kind": "StorageV2",
       "properties": {
-        "isHnsEnabled": true,
         "allowBlobPublicAccess": true,
         "supportsHttpsTrafficOnly": true,
         "minimumTlsVersion": "TLS1_2",
@@ -248,7 +240,7 @@
     },
     {
       "type": "Microsoft.Storage/storageAccounts/blobServices",
-      "apiVersion": "2023-01-01",
+      "apiVersion": "2022-09-01",
       "name": "[concat(variables('storageAccountName'), '/default')]",
       "dependsOn": [
         "[resourceId('Microsoft.Storage/storageAccounts', variables('storageAccountName'))]"
@@ -264,7 +256,7 @@
     },
     {
       "type": "Microsoft.Storage/storageAccounts/blobServices/containers",
-      "apiVersion": "2023-01-01",
+      "apiVersion": "2022-09-01",
       "name": "[concat(variables('storageAccountName'), '/default/', variables('storageContainerName'))]",
       "dependsOn": [
         "[resourceId('Microsoft.Storage/storageAccounts/blobServices', variables('storageAccountName'), 'default')]"
@@ -286,18 +278,13 @@
         "replicaCount": 1,
         "partitionCount": 1,
         "hostingMode": "default",
-        "publicNetworkAccess": "enabled",
-        "authOptions": {
-          "aadOrApiKey": {
-            "aadAuthFailureMode": "http403"
-          }
-        }
+        "publicNetworkAccess": "enabled"
       }
     },
 
     {
       "type": "Microsoft.CognitiveServices/accounts",
-      "apiVersion": "2023-10-01-preview",
+      "apiVersion": "2025-04-01-preview",
       "name": "[variables('aiServicesName')]",
       "location": "[variables('location')]",
       "kind": "AIServices",
@@ -311,27 +298,27 @@
     },
     {
       "type": "Microsoft.CognitiveServices/accounts/deployments",
-      "apiVersion": "2023-10-01-preview",
+      "apiVersion": "2023-05-01",
       "name": "[concat(variables('aiServicesName'), '/gpt-4o')]",
       "dependsOn": [
         "[resourceId('Microsoft.CognitiveServices/accounts', variables('aiServicesName'))]"
       ],
       "sku": {
         "name": "Standard",
-        "capacity": 10
+        "capacity": 30
       },
       "properties": {
         "model": {
           "format": "OpenAI",
           "name": "gpt-4o",
-          "version": "2024-08-06"
+          "version": "2024-11-20"
         },
         "versionUpgradeOption": "OnceNewDefaultVersionAvailable"
       }
     },
     {
       "type": "Microsoft.CognitiveServices/accounts/deployments",
-      "apiVersion": "2023-10-01-preview",
+      "apiVersion": "2023-05-01",
       "name": "[concat(variables('aiServicesName'), '/text-embedding-ada-002')]",
       "dependsOn": [
         "[resourceId('Microsoft.CognitiveServices/accounts', variables('aiServicesName'))]",
@@ -339,21 +326,20 @@
       ],
       "sku": {
         "name": "Standard",
-        "capacity": 60
+        "capacity": 30
       },
       "properties": {
         "model": {
           "format": "OpenAI",
           "name": "text-embedding-ada-002",
           "version": "2"
-        },
-        "versionUpgradeOption": "OnceNewDefaultVersionAvailable"
+        }
       }
     },
 
     {
       "type": "Microsoft.MachineLearningServices/workspaces",
-      "apiVersion": "2024-04-01",
+      "apiVersion": "2023-10-01",
       "name": "[variables('aiFoundryName')]",
       "location": "[variables('location')]",
       "kind": "Hub",
@@ -378,7 +364,7 @@
     },
     {
       "type": "Microsoft.MachineLearningServices/workspaces",
-      "apiVersion": "2024-04-01",
+      "apiVersion": "2023-10-01",
       "name": "[variables('aiProjectName')]",
       "location": "[variables('location')]",
       "kind": "Project",
@@ -396,123 +382,6 @@
         "friendlyName": "[variables('aiProjectName')]",
         "description": "Azure AI Foundry Project for lab environment",
         "hubResourceId": "[resourceId('Microsoft.MachineLearningServices/workspaces', variables('aiFoundryName'))]"
-      }
-    },
-
-    {
-      "type": "Microsoft.Authorization/roleAssignments",
-      "apiVersion": "2022-04-01",
-      "name": "[guid(resourceGroup().id, parameters('AzureUserName'), variables('roleAIUser'), 'foundry-hub')]",
-      "scope": "[resourceId('Microsoft.MachineLearningServices/workspaces', variables('aiFoundryName'))]",
-      "dependsOn": [
-        "[resourceId('Microsoft.MachineLearningServices/workspaces', variables('aiFoundryName'))]"
-      ],
-      "properties": {
-        "roleDefinitionId": "[subscriptionResourceId('Microsoft.Authorization/roleDefinitions', variables('roleAIUser'))]",
-        "principalId": "[parameters('ODLID')]",
-        "principalType": "User"
-      }
-    },
-    {
-      "type": "Microsoft.Authorization/roleAssignments",
-      "apiVersion": "2022-04-01",
-      "name": "[guid(resourceGroup().id, parameters('AzureUserName'), variables('roleAIDeveloper'), 'foundry-hub')]",
-      "scope": "[resourceId('Microsoft.MachineLearningServices/workspaces', variables('aiFoundryName'))]",
-      "dependsOn": [
-        "[resourceId('Microsoft.MachineLearningServices/workspaces', variables('aiFoundryName'))]"
-      ],
-      "properties": {
-        "roleDefinitionId": "[subscriptionResourceId('Microsoft.Authorization/roleDefinitions', variables('roleAIDeveloper'))]",
-        "principalId": "[parameters('ODLID')]",
-        "principalType": "User"
-      }
-    },
-    {
-      "type": "Microsoft.Authorization/roleAssignments",
-      "apiVersion": "2022-04-01",
-      "name": "[guid(resourceGroup().id, 'spn', variables('roleAIUser'), 'foundry-hub')]",
-      "scope": "[resourceId('Microsoft.MachineLearningServices/workspaces', variables('aiFoundryName'))]",
-      "dependsOn": [
-        "[resourceId('Microsoft.MachineLearningServices/workspaces', variables('aiFoundryName'))]"
-      ],
-      "properties": {
-        "roleDefinitionId": "[subscriptionResourceId('Microsoft.Authorization/roleDefinitions', variables('roleAIUser'))]",
-        "principalId": "[reference(resourceId('Microsoft.MachineLearningServices/workspaces', variables('aiFoundryName')), '2024-04-01', 'Full').identity.principalId]",
-        "principalType": "ServicePrincipal"
-      }
-    },
-    {
-      "type": "Microsoft.Authorization/roleAssignments",
-      "apiVersion": "2022-04-01",
-      "name": "[guid(resourceGroup().id, 'spn', variables('roleAIDeveloper'), 'foundry-hub')]",
-      "scope": "[resourceId('Microsoft.MachineLearningServices/workspaces', variables('aiFoundryName'))]",
-      "dependsOn": [
-        "[resourceId('Microsoft.MachineLearningServices/workspaces', variables('aiFoundryName'))]"
-      ],
-      "properties": {
-        "roleDefinitionId": "[subscriptionResourceId('Microsoft.Authorization/roleDefinitions', variables('roleAIDeveloper'))]",
-        "principalId": "[reference(resourceId('Microsoft.MachineLearningServices/workspaces', variables('aiFoundryName')), '2024-04-01', 'Full').identity.principalId]",
-        "principalType": "ServicePrincipal"
-      }
-    },
-    {
-      "type": "Microsoft.Authorization/roleAssignments",
-      "apiVersion": "2022-04-01",
-      "name": "[guid(resourceGroup().id, 'foundry-spn', variables('roleStorageBlobDataContributor'), 'storage')]",
-      "scope": "[resourceId('Microsoft.Storage/storageAccounts', variables('storageAccountName'))]",
-      "dependsOn": [
-        "[resourceId('Microsoft.Storage/storageAccounts', variables('storageAccountName'))]",
-        "[resourceId('Microsoft.MachineLearningServices/workspaces', variables('aiFoundryName'))]"
-      ],
-      "properties": {
-        "roleDefinitionId": "[subscriptionResourceId('Microsoft.Authorization/roleDefinitions', variables('roleStorageBlobDataContributor'))]",
-        "principalId": "[reference(resourceId('Microsoft.MachineLearningServices/workspaces', variables('aiFoundryName')), '2024-04-01', 'Full').identity.principalId]",
-        "principalType": "ServicePrincipal"
-      }
-    },
-    {
-      "type": "Microsoft.Authorization/roleAssignments",
-      "apiVersion": "2022-04-01",
-      "name": "[guid(resourceGroup().id, 'foundry-spn', variables('roleSearchIndexDataContributor'), 'search')]",
-      "scope": "[resourceId('Microsoft.Search/searchServices', variables('aiSearchName'))]",
-      "dependsOn": [
-        "[resourceId('Microsoft.Search/searchServices', variables('aiSearchName'))]",
-        "[resourceId('Microsoft.MachineLearningServices/workspaces', variables('aiFoundryName'))]"
-      ],
-      "properties": {
-        "roleDefinitionId": "[subscriptionResourceId('Microsoft.Authorization/roleDefinitions', variables('roleSearchIndexDataContributor'))]",
-        "principalId": "[reference(resourceId('Microsoft.MachineLearningServices/workspaces', variables('aiFoundryName')), '2024-04-01', 'Full').identity.principalId]",
-        "principalType": "ServicePrincipal"
-      }
-    },
-    {
-      "type": "Microsoft.Authorization/roleAssignments",
-      "apiVersion": "2022-04-01",
-      "name": "[guid(resourceGroup().id, 'foundry-spn', variables('roleSearchServiceContributor'), 'search')]",
-      "scope": "[resourceId('Microsoft.Search/searchServices', variables('aiSearchName'))]",
-      "dependsOn": [
-        "[resourceId('Microsoft.Search/searchServices', variables('aiSearchName'))]",
-        "[resourceId('Microsoft.MachineLearningServices/workspaces', variables('aiFoundryName'))]"
-      ],
-      "properties": {
-        "roleDefinitionId": "[subscriptionResourceId('Microsoft.Authorization/roleDefinitions', variables('roleSearchServiceContributor'))]",
-        "principalId": "[reference(resourceId('Microsoft.MachineLearningServices/workspaces', variables('aiFoundryName')), '2024-04-01', 'Full').identity.principalId]",
-        "principalType": "ServicePrincipal"
-      }
-    },
-    {
-      "type": "Microsoft.Authorization/roleAssignments",
-      "apiVersion": "2022-04-01",
-      "name": "[guid(resourceGroup().id, 'foundry-spn', variables('roleCognitiveServicesOpenAIContributor'), 'aiservices')]",
-      "scope": "[resourceId('Microsoft.CognitiveServices/accounts', variables('aiServicesName'))]",
-      "dependsOn": [
-        "[resourceId('Microsoft.CognitiveServices/accounts', variables('aiServicesName'))]",
-        "[resourceId('Microsoft.MachineLearningServices/workspaces', variables('aiFoundryName'))]"
-      ],
-      "properties": {
-        "roleDefinitionId": "[subscriptionResourceId('Microsoft.Authorization/roleDefinitions', variables('roleCognitiveServicesOpenAIContributor'))]",
-        "principalId": "[reference(resourceId('Microsoft.MachineLearningServices/workspaces', variables('aiFoundryName')), '2024-04-01', 'Full').identity.principalId]",
-        "principalType": "ServicePrincipal"
       }
     },
 
