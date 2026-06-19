@@ -70,10 +70,8 @@
     "aiResourcesLocation": "[parameters('foundryRegion')]",
     "aiSearchName": "[concat('search-', parameters('DeploymentID'))]",
     "fabricCapacityName": "[concat('fabric', parameters('DeploymentID'))]",
-    "contentUnderstandingName": "[concat('cu-', parameters('DeploymentID'))]",
     "foundryAccountName": "[concat('foundry-', parameters('DeploymentID'))]",
     "foundryProjectName": "[concat('foundryproj-', parameters('DeploymentID'))]",
-    "contentSafetyName": "[concat('contentsafety-', parameters('DeploymentID'))]",
     "logAnalyticsName": "[concat('law-', parameters('DeploymentID'))]",
     "appInsightsName": "[concat('appi-', parameters('DeploymentID'))]"
   },
@@ -304,25 +302,7 @@
     },
     {
       "type": "Microsoft.CognitiveServices/accounts",
-      "apiVersion": "2024-10-01",
-      "name": "[variables('contentUnderstandingName')]",
-      "location": "[variables('aiResourcesLocation')]",
-      "kind": "AIServices",
-      "comments": "Multi-service AI Services account used for Content Understanding — must be in a supported region",
-      "sku": {
-        "name": "S0"
-      },
-      "identity": {
-        "type": "SystemAssigned"
-      },
-      "properties": {
-        "customSubDomainName": "[variables('contentUnderstandingName')]",
-        "publicNetworkAccess": "Enabled"
-      }
-    },
-    {
-      "type": "Microsoft.CognitiveServices/accounts",
-      "apiVersion": "2024-10-01",
+      "apiVersion": "2025-06-01",
       "name": "[variables('foundryAccountName')]",
       "location": "[variables('aiResourcesLocation')]",
       "kind": "AIServices",
@@ -336,12 +316,13 @@
       "properties": {
         "customSubDomainName": "[variables('foundryAccountName')]",
         "publicNetworkAccess": "Enabled",
+        "disableLocalAuth": false,
         "allowProjectManagement": true
       }
     },
     {
       "type": "Microsoft.CognitiveServices/accounts/projects",
-      "apiVersion": "2024-10-01",
+      "apiVersion": "2025-06-01",
       "name": "[concat(variables('foundryAccountName'), '/', variables('foundryProjectName'))]",
       "location": "[variables('aiResourcesLocation')]",
       "comments": "Foundry project — location matches the parent account/resource group location",
@@ -357,7 +338,7 @@
     },
     {
       "type": "Microsoft.CognitiveServices/accounts/projects/connections",
-      "apiVersion": "2024-10-01",
+      "apiVersion": "2025-06-01",
       "name": "[concat(variables('foundryAccountName'), '/', variables('foundryProjectName'), '/appinsights-connection')]",
       "comments": "Wires the Foundry project to Application Insights for observability/tracing",
       "dependsOn": [
@@ -377,22 +358,8 @@
           "ResourceId": "[resourceId('Microsoft.Insights/components', variables('appInsightsName'))]"
         }
       }
-    },
-    {
-      "type": "Microsoft.CognitiveServices/accounts",
-      "apiVersion": "2024-10-01",
-      "name": "[variables('contentSafetyName')]",
-      "location": "[variables('aiResourcesLocation')]",
-      "kind": "ContentSafety",
-      "comments": "Standalone Azure AI Content Safety resource (moderation endpoint). NOTE: default RAI content filters are already applied automatically to every Foundry model deployment — this resource is for an explicit/standalone Content Safety API endpoint, not a toggle on the deployment itself. See chat reply for details.",
-      "sku": {
-        "name": "S0"
-      },
-      "properties": {
-        "customSubDomainName": "[variables('contentSafetyName')]",
-        "publicNetworkAccess": "Enabled"
-      }
     }
+
   ],
   "outputs": {
     "LABVM Admin Username": {
