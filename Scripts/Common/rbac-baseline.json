@@ -1,0 +1,64 @@
+{
+  "_comment": "Editable safety baseline for Generate-RbacPolicy.ps1. Change guardrails here WITHOUT touching code. Tokens {LabName} {SubscriptionId} {ResourceGroup} are substituted at generation time. baseActions/notActions are always emitted; provider wildcards (Microsoft.X/*) for resources the lab actually used are appended automatically. dataActionsByProvider entries are only added when that provider is observed in the resource group.",
+
+  "roleNamePattern": "{LabName} Lab Participant",
+  "descriptionPattern": "Custom least-privilege role auto-generated for the '{LabName}' CloudLabs environment.",
+
+  "baseActions": [
+    "Microsoft.Resources/subscriptions/read",
+    "Microsoft.Resources/subscriptions/locations/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/write",
+    "Microsoft.Resources/deployments/*",
+    "Microsoft.Resources/tags/*",
+    "Microsoft.Resources/resources/read",
+
+    "Microsoft.Authorization/*/read",
+    "Microsoft.Authorization/roleAssignments/write",
+    "Microsoft.Authorization/roleAssignments/delete",
+
+    "Microsoft.ManagedIdentity/userAssignedIdentities/read",
+    "Microsoft.ManagedIdentity/userAssignedIdentities/assign/action",
+
+    "Microsoft.Insights/*",
+    "Microsoft.OperationalInsights/*",
+    "Microsoft.AlertsManagement/*",
+    "Microsoft.Portal/dashboards/*",
+
+    "Microsoft.Support/*",
+    "Microsoft.ResourceHealth/availabilityStatuses/read"
+  ],
+
+  "notActions": [
+    "Microsoft.Resources/subscriptions/resourceGroups/delete",
+    "Microsoft.Authorization/roleDefinitions/write",
+    "Microsoft.Authorization/roleDefinitions/delete",
+    "Microsoft.Authorization/policyDefinitions/write",
+    "Microsoft.Authorization/policyDefinitions/delete",
+    "Microsoft.Authorization/policySetDefinitions/write",
+    "Microsoft.Authorization/policySetDefinitions/delete",
+    "Microsoft.Authorization/policyAssignments/write",
+    "Microsoft.Authorization/policyAssignments/delete",
+    "Microsoft.Authorization/locks/write",
+    "Microsoft.Authorization/locks/delete"
+  ],
+
+  "dataActionsByProvider": {
+    "Microsoft.Storage": [
+      "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read",
+      "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/write",
+      "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/add/action",
+      "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/delete",
+      "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/move/action"
+    ],
+    "Microsoft.CognitiveServices": [
+      "Microsoft.CognitiveServices/accounts/*"
+    ],
+    "Microsoft.Search": [
+      "Microsoft.Search/searchServices/*"
+    ]
+  },
+
+  "assignableScopePlaceholder": "/subscriptions/<SUBSCRIPTION_ID>/resourceGroups/{ResourceGroup}",
+  "assignableScopeSubstituted": "/subscriptions/{SubscriptionId}/resourceGroups/{ResourceGroup}"
+}

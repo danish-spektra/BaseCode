@@ -1,0 +1,51 @@
+{
+    "if": {
+      "allOf": [
+        {
+          "field": "type",
+          "equals": "Microsoft.CognitiveServices/accounts/deployments"
+        },
+        {
+          "anyOf": [
+            {
+              "not": {
+                "field": "Microsoft.CognitiveServices/accounts/deployments/model.name",
+                "in": [
+                  "gpt-4.1",
+                  "phi-4",
+                  "deepseek-v3.2",
+                  "text-embedding-3-large"
+                ]
+              }
+            },
+            {
+              "not": {
+                "field": "Microsoft.CognitiveServices/accounts/deployments/sku.name",
+                "equals": "GlobalStandard"
+              }
+            },
+            {
+              "allOf": [
+                {
+                  "field": "Microsoft.CognitiveServices/accounts/deployments/model.name",
+                  "in": [
+                    "gpt-4.1",
+                    "text-embedding-3-large"
+                  ]
+                },
+                {
+                  "not": {
+                    "field": "Microsoft.CognitiveServices/accounts/deployments/sku.capacity",
+                    "equals": 50
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "then": {
+      "effect": "deny"
+    }
+}
