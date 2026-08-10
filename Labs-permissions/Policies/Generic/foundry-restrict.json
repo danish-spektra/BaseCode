@@ -1,0 +1,49 @@
+{
+  "properties": {
+    "displayName": "Restrict AI Foundry deployments and token capacity",
+    "description": "Denies creation of new AI Foundry (Cognitive Services) accounts/projects and caps model deployment token capacity. Foundry resources must be pre-deployed by CloudLabs.",
+    "mode": "Indexed",
+    "metadata": {
+      "version": "1.0.0",
+      "category": "Cognitive Services"
+    },
+    "parameters": {
+      "maxTokenCapacity": {
+        "type": "Integer",
+        "metadata": {
+          "description": "Maximum sku.capacity (1 unit = 1K tokens-per-minute) allowed on a model deployment",
+          "displayName": "Max token capacity"
+        },
+        "defaultValue": 10
+      }
+    },
+    "policyRule": {
+      "if": {
+        "anyOf": [
+          {
+            "field": "type",
+            "in": [
+              "Microsoft.CognitiveServices/accounts",
+              "Microsoft.CognitiveServices/accounts/projects"
+            ]
+          },
+          {
+            "allOf": [
+              {
+                "field": "type",
+                "equals": "Microsoft.CognitiveServices/accounts/deployments"
+              },
+              {
+                "field": "Microsoft.CognitiveServices/accounts/deployments/sku.capacity",
+                "greater": "[parameters('maxTokenCapacity')]"
+              }
+            ]
+          }
+        ]
+      },
+      "then": {
+        "effect": "deny"
+      }
+    }
+  }
+}

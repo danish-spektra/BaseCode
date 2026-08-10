@@ -1,3 +1,5 @@
+# Parameters - UserUPN | Get-AZUSER-UPN
+
 # --- Pre-set variables ---
 $tenantId     = $sysAddedTenantId
 $skuId        = "5b631642-bd26-49fe-bd20-1daaa972ef80"
